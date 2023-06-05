@@ -1,0 +1,38 @@
+{
+  "page_ark": "d79k5n-000",
+  "ark": "d79k5n",
+  "page": 0,
+  "name": "Bottled Spring Regularly Now",
+  "year_published": 1952,
+  "vintage": 1950,
+  "type": "wine",
+  "color": null,
+  "country": null,
+  "section": null,
+  "bottle_type": null,
+  "perprice": 7.67,
+  "caseprice": null,
+  "bbox": "{\"type\":\"Polygon\",\"coordinates\":[[[950.666666666667,-3973],[950.666666666667,-3931],[3109,-3931],[3109,-3973],[950.666666666667,-3973]]]}",
+  "title": "Letter 1952",
+  "publisher": "Sherry Wine & Spirits Co.,Inc.",
+  "publication_date": 1952
+}
+{
+  "page_ark": "d79k5n-000",
+  "ark": "d79k5n",
+  "page": 0,
+  "name": "tasted \"Auslese\" Sold",
+  "year_published": 1952,
+  "vintage": null,
+  "type": "wine",
+  "color": "red",
+  "country": null,
+  "section": null,
+  "bottle_type": null,
+  "perprice": 5.95,
+  "caseprice": null,
+  "bbox": "{\"type\":\"Polygon\",\"coordinates\":[[[950.666666666667,-3429],[950.666666666667,-3387],[3182,-3387],[3182,-3429],[950.666666666667,-3429]]]}",
+  "title": "Letter 1952",
+  "publisher": "Sherry Wine & Spirits Co.,Inc.",
+  "publication_date": 1952
+}

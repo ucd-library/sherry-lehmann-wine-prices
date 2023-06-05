@@ -1,0 +1,38 @@
+{
+  "page_ark": "d7r668-001",
+  "ark": "d7r668",
+  "page": 1,
+  "name": "",
+  "year_published": 1976,
+  "vintage": null,
+  "type": "wine",
+  "color": null,
+  "country": null,
+  "section": null,
+  "bottle_type": null,
+  "perprice": 171.61,
+  "caseprice": null,
+  "bbox": "{\"type\":\"Polygon\",\"coordinates\":[[[4703.75,-1616],[4703.75,-1571],[5205,-1571],[5205,-1616],[4703.75,-1616]]]}",
+  "title": "December 1976: Piper Heidsieck ( two copies of letter)",
+  "publisher": "Sherry Wine & Spirits Co.,Inc.",
+  "publication_date": 1976
+}
+{
+  "page_ark": "d7r668-001",
+  "ark": "d7r668",
+  "page": 1,
+  "name": "",
+  "year_published": 1976,
+  "vintage": null,
+  "type": "wine",
+  "color": null,
+  "country": null,
+  "section": null,
+  "bottle_type": null,
+  "perprice": 140.3,
+  "caseprice": null,
+  "bbox": "{\"type\":\"Polygon\",\"coordinates\":[[[4702.75,-1753],[4702.75,-1705],[5206,-1705],[5206,-1753],[4702.75,-1753]]]}",
+  "title": "December 1976: Piper Heidsieck ( two copies of letter)",
+  "publisher": "Sherry Wine & Spirits Co.,Inc.",
+  "publication_date": 1976
+}

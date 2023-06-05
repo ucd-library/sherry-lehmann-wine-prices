@@ -31,7 +31,7 @@ original wine-search application.  The data columns are identified below.
 The `ark:` directory contains the same data as json files, one json file for
 each catalog.
 
-Note that an [ark](https://ezid.cdlib.org/) corresponds to a globally unique
+Note that an [ark:](https://ezid.cdlib.org/) corresponds to a globally unique
 identifier for each Sherry Lehmann catalog.  The catalogs can be identified
 with these arks.  They can also be used to link to the original data.  For
 example, the catalog for identifier `d7fk5w` can be located with
