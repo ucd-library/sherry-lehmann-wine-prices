@@ -1,0 +1,985 @@
+name_id,xy,page_ark,catalog_no,section,name,vintage,perprice,caseprice,bottle_type,type,wine_type,color,country,entry_name,entry_perprice,entry_caseprice,entry_country,entry_vintage,entry_color,entry_variety,entry_region,entry_province,name_dis,xy_dis,score
+d7101s-025_1_1,"{522,-1820}",d7101s-025,901,Wines of America,Mountain Red (Almadon),0,1.85,19.98,Standard,wine,Still,Red,United States of America,MOUNTAIN RED (Almaden),1.85,19.98,US,,red,,,,1,170,0
+d71s3g-005_1_3,"{566,-1389}",d71s3g-005,36,Champagnes on Sale,Marcel Pere Et Fils Brut,1959,4.59,50.25,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,4.59,50.25,,1959,,,,,3,321,0
+d72013-005_1_7,"{814,-3439}",d72013-005,170,Bordeaux Rouges,CHATEAU LA MISSION HAUT BRION (Graves),1962,5.49,59.30,Standard,wine,Still,Red,France,CHATEAU COS D'ESTOURNEL Estephe,7.95,85.85,France,,,,Saint Estephe,,25,531,49.2
+d72s3s-002_1_1,"{914,-1479}",d72s3s-002,87,Coteaux Champenois,Charbaut Blanc de Blancs Nature,0,3.99,43.10,Standard,wine,Still,White,France,CHARBAUT BLANC DE BLANCS NATURE,3.27,43.10,,,white,,,,0,348,14.4
+d7388t-004_1_1,"{1058,-876}",d7388t-004,-1,Champagnes,"Cliquot, Vueve Non-Vintage",0,3.90,47.00,Standard,wine,Sparkling,White,,Non Vintage Yellow Label,5.25,57.00,,1928,,,,,22,97,27
+d7388t-004_1_11,"{1087,-1904}",d7388t-004,-1,Champagnes,"Lanson, Extra Dry",1928,5.10,55.00,Fifth,wine,Sparkling,White,,Extra Dry Magnums,10.80,58.50,,,,,,,16,126,114
+d7388t-004_1_5,"{1067,-1253}",d7388t-004,-1,Champagnes,Heidsieck & Co Brut Special,0,3.75,41.00,Fifth,wine,Sparkling,White,,"",4.50,48.00,,,,,,,27,106,15
+d7388t-005_1_16,"{3204,-2712}",d7388t-005,-1,Chateau Bottled Red Bordeaux,Chateau Latour de Mons,1928,1.19,13.00,Standard,wine,Still,Red,France,CCC Chateau Latour de Mons,1.19,13.00,France,,,,,,4,3204,0
+d7388t-006_1_1,"{980,-991}",d7388t-006,-1,Chateau Bottled Red Bordeaux,Chateau Cantemerle,1926,1.95,21.00,Standard,wine,Still,Red,France,Chateau Cantemerle Fah,8.37,81.08,France,,,,,,4,31,128.4
+d73s33-006_2_2,"{600,-3417}",d73s33-006,28,"""Best Buys"" in Champagne for the New Year's Celebration",Mesnil Blanc de Blancs,1961,6.98,75.50,Standard,wine,Sparkling,White,United States of America,MESNIL BLANC DE BLANCS,6.98,,,1961,white,,,,0,415,0
+d74s3d-003_1_16,"{493,-4632}",d74s3d-003,100,French Champagne,Michel Guerard Brut,0,9.95,107.50,Standard,wine,Sparkling,White,France,MICHEL GUERARD BRUT,9.95,107.50,,,,,,,0,58,0
+d74s3d-003_1_17,"{457,-4948}",d74s3d-003,5,French Champagne,Bollinger R.D.,1969,22.95,247.86,Standard,wine,Sparkling,White,France,BOLLINGER,22.95,247.86,France,1969,,,,,5,65,0
+d79w2m-004_1_10,"{309,-4031}",d79w2m-004,183,A Library of Rare Old Clarets,CHATEAU CLOS F OURTET (St. Emilion),1953,7.59,81.95,Standard,wine,Still,Red,France,CHATEAU BRANAIRE (Saint Julien),5.99,64.70,US,,,,,,19,13,32
+d79w2m-004_1_4,"{312,-3319}",d79w2m-004,832,A Library of Rare Old Clarets,"CHATEAU LA MISSION HAUT BRION
+ (Graves)",1955,10.95,118.20,Standard,wine,Still,Red,France,CARRUADES DE LAFITE ROTHSCHILD,96.65,,,,,,,,30,10,1714
+d79w2m-004_2_10,"{2096,-3930}",d79w2m-004,5069,A Library of Rare Old Clarets,CHATEAU PAVIE (St. Emilion),1942,5.99,64.70,Standard,wine,Still,Red,France,CHATEAU PAVIE (Saint Emilion),3.99,64.70,France,,,,,,4,22,40
+d79w2m-004_2_17,"{2093,-5159}",d79w2m-004,5059,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1934,16.50,172.00,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),11.95,129.00,France,1923,,,Pauillac,,2,20,91
+d79w2m-008_1_1,"{425,-1812}",d79w2m-008,600,Original Abfullung,"HATTENHEIMER NUSSBRUNNEN RIESLING CABINET BEERENAUSELSE, Langwerth von Simmern",1964,18.00,,Standard,wine,Still,,Germany,HATTENHEIMER NUSSBRUNNEN RIESLING CABINET BEERENAUSELSE Original Abfullung Langwerth Simmern,18.00,,Germany,1964,,Riesling,,,23,54,0
+d79w2m-009_2_5,"{2119,-3495}",d79w2m-009,158,The Great 1961 Clarets,CHATEAU HAUT BRION (Graves),1964,14.50,156.60,Standard,wine,Still,Red,France,CHATEAU HAUT BRION (Graves),14.50,156.60,France,,,,Graves,,0,11,0
+d79w2m-013_3_18,"{2088,-4729}",d79w2m-013,150,Red Bordeaux,"CHATEAU MOUTON ROTHSCHILD
+ (Pauillac)",1964,9.75,105.30,Standard,wine,Still,Red,France,Pinar Tad substantially 108 Magr Picked Price 108,9.96,,,,,,,,41,51,4.20000000000002
+d79w2m-013_3_20,"{2091,-5055}",d79w2m-013,899,Red Bordeaux,"CHATEAU LAFITE ROTHSCHILD
+ (Pauillac)",1964,10.95,120.00,Standard,wine,Still,Red,France,CHATEAU PETRUS (Pomerol) Sele,1.00,9.05,France,,,,Pomerol,,25,52,199
+d79w2m-014_1_11,"{266,-4502}",d79w2m-014,80,Champagne for the Holidays,Moet & Chandon Dom Perignon,1961,14.50,156.60,Standard,wine,Sparkling,White,,MOET CHANDON DOM PERIGNON,14.50,156.60,US,1861,,,,,2,68,0
+d79w2m-014_1_5,"{286,-2581}",d79w2m-014,155,Champagne for the Holidays,Ayala Gold Label Brut,1961,6.49,73.50,Standard,wine,Sparkling,White,,AYALA GOLD LABEL BRUT,6.49,73.50,France,1961,,,,,0,34,0
+d79w2m-025_1_6,"{221,-3468}",d79w2m-025,338,Burgandy,"ALOXE CORTON, Chandon de Brailles",1964,3.69,39.85,Standard,wine,Still,Red,France,ALOXE CORTON Chandon de Brailles,3.69,39.85,,,,,Aloxe Corton,,1,92,0
+d79w2m-025_2_6,"{2048,-3718}",d79w2m-025,5033,Burgandy,"BEAUNE CLOS DES MOUCHES, ]. Drouhin",1964,5.89,63.60,Standard,wine,Still,Red,France,BEAUNE CLOS DES MOUCHES }DBrowldinn,5.89,63.60,France,,,,Beaune,,9,100,0
+d79w2m-029_1_5,"{249,-3467}",d79w2m-029,598,Clarets of the 1962 Vintage,CHATEAU ROUGET (Pomerol),1962,2.99,32.30,Standard,wine,Still,Red,France,CHATEAU ROUGET (Pomerol),2.99,32.30,France,,red,,Pomerol,,0,12,0
+d79w2m-029_2_3,"{2014,-2845}",d79w2m-029,103,Clarets of the 1962 Vintage,CHATEAU LASCOMBES (Margaux),1962,3.99,43.10,Standard,wine,Still,Red,France,CHATEAU LASCOMBES (Margaux),3.99,43.10,France,,,,Margaux,,0,20,0
+d79w2m-034_1_28,"{358,-4869}",d79w2m-034,771,Wines of the Jura,"CHATEAU D’ARLAY BLANC, Comte de Vogue ,",1964,3.49,37.70,Standard,wine,Still,,France,CHATEAU ROSE Gomde de Vogue,2.49,26.90,France,,rose,,,,17,36,20
+d79w2m-034_1_3,"{330,-1982}",d79w2m-034,987,The Wines of the Loire Valley,"MONTLOUIS, Nicolas",1967,1.79,19.35,Standard,wine,Still,,France,MONTLOUIS Nicolas,1.79,19.35,,1967,,,,,1,12,0
+d79w2m-034_2_20,"{2117,-3611}",d79w2m-034,327,Wines of Spain,MARQUIS DE RISCAL (Red),,2.25,24.30,Standard,wine,Still,,Spain,MARQUIS DE RISCAL (Red),2.25,24.30,Spain,,red,,,,0,18,0
+d79w2m-034_2_22,"{2117,-3917}",d79w2m-034,438,Wines of Italy,"ORVIETO DRY, Bigi (White)",,1.75,18.90,Standard,wine,Still,,Italy,ORVIETO DRY Bigi (White),1.75,18.90,Italy,,white,,Orvieto,,1,23,0
+d79w2m-037_1_6,"{295,-4521}",d79w2m-037,134,The Good 1960 and 1963 Clarets,"CHATEAU CHEVAL BLANC
+ (St. Emilion)",1960,5.79,62.25,Standard,wine,Still,Red,France,CHATEAU CHEVAL BLANC,5.79,62.25,France,,white,,,,15,52,0
+d79w2m-037_2_7,"{2060,-4951}",d79w2m-037,5086,The Good 1960 and 1963 Clarets,CHATEAU HAUT BRION (Graves),1963,4.99,53.90,Standard,wine,Still,Red,France,CHATEAU HAUT BRION (Graves),4.99,53.90,France,,,,Graves,,0,6,0
+d79w2m-038_1_5,"{244,-2100}",d79w2m-038,790,The Charming Vin Roses of France,"BANDOL ROSE, Chateau Braquety",1966,1.99,21.50,Standard,wine,Still,Rosé,France,Bordeaux Valley There just Sweetness 790 BANDOL ROSE Chateau Bragquety,1.99,21.50,,1966,rose,,Bandol,Bordeaux,43,79,0
+d7c889-012_1_12,"{815,-5124}",d7c889-012,5039,"""Best Buys"" In Champagne",Bollinger Brut,0,6.35,68.58,Imperial,wine,Sparkling,White,France,BOLLINGER BRUT (19 Imperial},68.58,,France,,,,,,14,274,1244.6
+d7g01t-025_1_22,"{535,-3350}",d7g01t-025,12,French Champagnes,Charles Heidsieck Rose,1971,13.99,151.09,Standard,wine,Sparkling,Rosé,France,CHARLES HEIDSIECK ROSE,13.99,151.09,France,1971,rose,,,,0,170,0
+d7g01t-025_1_31,"{531,-3947}",d7g01t-025,15,French Champagnes,Louis Roederer Cristal,1971,25.95,280.26,Standard,wine,Sparkling,White,France,LOUIS ROEDERER CRISTAL,25.95,280.26,France,1971,,,,,0,162,0
+d7g01t-025_1_8,"{523,-2365}",d7g01t-025,32,French Champagnes,Lanson Black Label Brut,0,10.65,115.02,Standard,wine,Sparkling,White,France,LANSON BLACK LABEL BRUT,10.65,115.02,France,,,,,,0,160,0
+d7g59k-003_2_1,"{2284,-984}",d7g59k-003,-1,White Burgundy,Bienvenue Batard Montrachet,1969,79.20,0.00,Standard,wine,Still,White,France,Bienvenue Batard Montrachet,79.20,,France,,,,Bienvenues Batard Montrachet,,0,302,0
+d7g59k-003_2_2,"{2312,-1403}",d7g59k-003,-1,White Burgundy,Batard Montrachet,1969,99.00,0.00,Standard,wine,Still,White,France,Batard Montrachet,99.00,,France,,,,Batard Montrachet,,0,336,0
+d7g59k-004_1_9,"{542,-4529}",d7g59k-004,-1,Red Burgundy,Clos de la Griotte-Chambertin,1969,79.00,0.00,Standard,wine,Still,Red,France,Clos de Griotte Chambertin,79.00,,France,,,,Chambertin,,4,163,0
+d7h59w-017_1_4,"{356,-3686}",d7h59w-017,155,Champagne on Sale,Ayala Gold Label Brut,1959,4.99,56.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,2.99,56.30,France,1959,,,,,0,27,40
+d7kw23-008_1_6,"{380,-3907}",d7kw23-008,25,French Champagne,"Ledoyen, Blanc de Blancs",1964,6.99,75.50,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS,0.99,75.50,,1964,white,,,,1,53,120
+d7kw23-008_2_4,"{2107,-3475}",d7kw23-008,37,Other Champagnes and Sparkling Wines,Almaden Blanc de Blancs Brut,0,6.36,68.69,Standard,wine,Sparkling,White,France,ALMADEN BLANC DE BLANCS BRUT,6.36,68.69,,,white,,,,0,26,0
+d7kw23-009_1_10,"{511,-3350}",d7kw23-009,335,Red Wines from the Rhone Valley,Gigondas,1966,2.29,24.75,Standard,wine,Still,Red,France,CHATEAUNEUF PAPE (Felibres),2.49,26.90,France,1964,,,Chateauneuf du Pape,,24,12,4
+d7kw23-010_1_12,"{2063,-3038}",d7kw23-010,531,Red Wines of Italy,Chianti Riserva,1964,1.99,21.50,Standard,wine,Still,Red,Italy,BARDOLINO (Bolla),2.49,30.13,Italy,,,,Bardolino,,15,53,10
+d7ms3r-029_1_8,"{692,-2932}",d7ms3r-029,28,French Champagnes,"Mesnil, Blanc de Blancs",1964,6.99,79.50,Standard,wine,Sparkling,White,France,MESNIL BLANC DE BLANCS,6.99,79.50,,,white,,,,1,214,0
+d7ms3r-030_1_11,"{574,-3503}",d7ms3r-030,78,Other Sparkling Wines,Lachrima Christi,0,4.89,52.81,Standard,wine,Sparkling,White,Italy,LACHRIMA CHRISTY,4.89,52.81,,,,,,,1,167,0
+d7pk52-003_1_2,"{660,-3985}",d7pk52-003,R,Fine French Champagnes at Low Cost,Mailly Brut,1943,3.99,43.89,Standard,wine,Sparkling,White,France,JHPETYOT VENC Magnums,8.25,,,,,,,,18,110,85.2
+d7ps3c-002_1_10,"{427,-5071}",d7ps3c-002,97,Champagnes on Sale,"CHARLES HEIDSIECK CUVEE
+ROYAL ",1959,11.95,129.06,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK CUVEE ROYAL,11.95,129.06,France,1959,,,,,2,123,0
+d7ps3c-006_1_9,"{1869,-4439}",d7ps3c-006,394,The Great 1964 Burgundies,CLOS VOUGEOT (Pierre Poupon),1964,5.99,64.70,Standard,wine,Still,Red,France,"CLOS VOUGEOT Pierre Poupon Zev Thetemererrier) ""Tha",3.99,64.70,France,,,,Vougeot,,25,91,40
+d7ps3c-006_2_2,"{278,-3839}",d7ps3c-006,362,The Great 1964 Burgundies,CHASSAGNE MONTRACHET (Ramonet),1964,2.99,32.30,Standard,wine,Still,Red,France,PINOT NOIR DE MARSANNAY,2.90,32.30,,,,Pinot Noir,Marsannay,,24,76,1.80000000000001
+d7tg6n-004_3_18,"{466,-4353}",d7tg6n-004,58,French Champagnes-Bottles,Clicquot Yellow Label Brut,1959,8.72,94.18,Standard,wine,Sparkling,White,France,Clicquot Yellow Label Brut,8.72,94.18,,1959,,,,,0,34,0
+d7vc79-003_1_7,"{564,-3146}",d7vc79-003,18,French Champagnes,Cliquot Yellow Label Brut,0,8.55,92.28,Standard,wine,Sparkling,White,France,Bone CLIQUOT YELLOW LABEL BRUT,8.55,92.28,,,,,,,5,39,0
+d7vc79-003_2_10,"{2240,-4035}",d7vc79-003,102,American Champagnes,Taylor Brut,0,4.90,52.92,Standard,wine,Sparkling,White,United States of America,Champagne 102 TAYLOR BRUT,4.90,,,,,,,Champagne,14,67,0
+d7w88z-016_1_6,"{664,-3562}",d7w88z-016,31,French Champagne on Sale,Louis Roederer Cour Royale Brut,0,6.98,75.50,Standard,wine,Sparkling,White,France,Here best Champagnes tasted wonderful Cuvee 1959 Though Champagn,65.98,,France,1960,,,,Champagne,54,65,1180
+d7ws37-000_1_19,"{757,-3994}",d7ws37-000,R,Moselles Wines,Piesporter Goldtropfchen Spatlese,1947,3.75,41.00,Standard,wine,Still,White,Germany,Ora Prd) TTY PIESPORTER GOLDTROPFCHEN SPATLESE (Orig Kes,3.75,41.00,,1947,,,,,23,171,0
+d7x30h-016_1_4,"{642,-2737}",d7x30h-016,100,French Champagne on Sale,"Cramant, Blanc de Blancs",1959,5.99,68.50,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS BRUT,5.99,68.50,,1961,white,,,,13,111,0
+d7z30t-008_3_15,"{2313,-4858}",d7z30t-008,161,Other World-Famous Champagnes,Taittinger Blanc de Blancs,1952,10.69,118.02,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE JOBS,10.69,118.02,France,,white,,,,5,120,0
+d7101s-025_1_2,"{427,-2090}",d7101s-025,961,Wines of America,Boordy Red (N.Y. State),1971,1.89,20.50,Standard,wine,Still,Red,United States of America,BOORDY RED State),1.89,20.50,,1971,red,,,,6,76,0
+d7101s-026_1_8,"{427,-2800}",d7101s-026,49,French Champagnes,Moet & Chandon Brut Imperial,0,10.99,118.69,Standard,wine,Sparkling,White,France,MOET CHA NDON BRUT IMPERIAL,10.99,118.69,Chile,,,,,,3,35,0
+d7101s-026_2_3,"{2058,-4190}",d7101s-026,95,American Champagnes,Great Western Brut (N.Y.),0,5.29,57.13,Standard,wine,Sparkling,White,United States of America,GREAT WESTERN BRUT,5.29,57.13,US,,,,,,7,25,0
+d72013-009_1_1,"{791,-2720}",d72013-009,571,Bourgognes Rouges,COTE DE BEAUNE VILLAGES,1964,2.49,26.90,Standard,wine,Still,Red,France,MACON VIRE,2.19,23.65,France,1966,,,Macon Verze,,18,494,6.00000000000001
+d72013-009_1_2,"{784,-3401}",d72013-009,877,Bourgognes Rouges,BONNES-MARES,1961,6.95,75.05,Standard,wine,Still,Red,France,POUILLY FUISSE,2.85,32.49,France,1966,,,Pouilly Fuisse,,12,477,82
+d7388t-004_1_10,"{1079,-1829}",d7388t-004,-1,Champagnes,"Lanson, Extra Dry",1926,5.50,59.00,Fifth,wine,Sparkling,White,,Extra Fifth,5.00,35.00,,,,,,,13,118,10
+d7388t-004_1_20,"{1087,-2998}",d7388t-004,-1,Champagnes,Piper Heidsieck Brut,1928,4.85,52.00,Fifth,wine,Sparkling,White,,Brut Fifths,4.85,52.00,,,,,,,18,126,0
+d7388t-004_2_7,"{3191,-2343}",d7388t-004,-1,Still Champagne,Cramant Jules Lilbert,1935,1.37,15.00,Fifth,wine,Still,White,,Cramant Fifths,1.37,15.00,,1935,,,,,12,374,0
+d79w2m-004_1_13,"{309,-4342}",d79w2m-004,123,A Library of Rare Old Clarets,CHATEAU LATOUR (Pauillac),1953,15.95,172.25,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION Graves),3.75,103.30,France,,,,Graves,,21,14,244
+d79w2m-004_1_14,"{309,-4406}",d79w2m-004,5075,A Library of Rare Old Clarets,CHATEAU PETRUS (Pomerol),1953,19.95,215.45,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),15.95,172.25,France,,,,Pauillac,,11,14,80
+d79w2m-004_1_19,"{305,-4990}",d79w2m-004,736,A Library of Rare Old Clarets,CHATEAU LATOUR (Pauillac),1952,14.50,156.00,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION (Graves),12.25,132.30,France,,,,Graves,,22,14,45
+d79w2m-004_1_3,"{312,-3197}",d79w2m-004,5088,A Library of Rare Old Clarets,"CARRUADES DE LAFITE ROTHSCHILD
+ (Pauillac)",1955,8.95,96.65,Standard,wine,Still,Red,France,CHATEAU LEOVILLE LASCASES Saint Julien),7.99,86.30,France,,,,,,32,15,19.2
+d79w2m-004_2_6,"{2093,-3403}",d79w2m-004,256,A Library of Rare Old Clarets,CHATEAU MONTROSE (St. Estephe),1947,9.95,197.45,Standard,wine,Still,Red,France,CHATEAU MONTROSE (Saint Estephe),9.95,107.45,France,,rose,,,,4,20,0
+d79w2m-008_1_4,"{428,-2415}",d79w2m-008,642,Original Abfullung,"WEHLENER SONNENUHR BEERENAUSLESE, Job. 105. Pruem",1959,37.50,,Standard,wine,Still,,Germany,WEHLENER SONNENUHR BEERENAUSLESE Original Abiullung Joh Jos Pruem,37.50,,Argentina,1959,,,,,25,39,0
+d79w2m-008_1_7,"{432,-3209}",d79w2m-008,645,Original Abfullung,"HOCHHEIMER DOMDECHANEY CABINET TROCKENBEERENAUSLESE, Staatsweinguter",1959,42.75,,Standard,wine,Still,,Germany,HOCHHEIMER DOMDECHANEY CABINET TROCKENBEERENAUSLESE Original Abfullung,42.75,,,1959,,,,,18,37,0
+d79w2m-009_2_1,"{2133,-2359}",d79w2m-009,584,The Great 1961 Clarets,"CARRUADES DE CHATEAU LAFITE
+
+ROTHSCHILD (Pauillac)",1964,8.95,96.75,Standard,wine,Still,Red,France,CARRUADES DE CHATEAU LAFITE ROTHSCHILD (Pauillac),8.95,96.75,France,,,,Pauillac,,2,69,0
+d79w2m-013_2_15,"{335,-3969}",d79w2m-013,191,Red Bordeaux,CHATEAU FERRIERE (Margaux),1964,3.49,37.70,Standard,wine,Still,Red,France,WHMATEAU FERRIERE (Margaux),7.70,37.70,France,,,,Margaux,,2,36,84.2
+d79w2m-013_2_19,"{342,-4766}",d79w2m-013,100,Red Bordeaux,CHATEAU L’ANGELUS (St. Emilion),1964,3.79,40.95,Standard,wine,Still,Red,France,Featured Emilion),40.95,79.40,,,red,,,,18,29,743.2
+d79w2m-014_2_8,"{2026,-4515}",d79w2m-014,37,Champagne for the Holidays,Almaden Blanc de Blancs Brut,0,6.36,68.69,Standard,wine,Sparkling,White,United States of America,ALMADEN BLANC DE BLANCS BRU,6.36,68.69,,,white,,,,1,71,0
+d79w2m-023_1_9,"{406,-4903}",d79w2m-023,548,The Very Best of Austria,Stift Schotten Grinzinger Auslese,1966,2.89,31.21,Standard,wine,Still,White,Austria,GRINZINGER AUSLESE Estate Stift Schotten,2.89,31.21,,1966,,,,,35,59,0
+d79w2m-025_1_11,"{239,-4769}",d79w2m-025,285,Burgandy,"GEVREY CHAMBERTIN, Tortochot",1964,3.99,43.10,Standard,wine,Still,Red,France,VOSNE ROMANEE Grivot,3.99,43.10,France,,,,Vosne Romanee,,21,30,0
+d79w2m-025_1_8,"{232,-3942}",d79w2m-025,224,Burgandy,"BEAUNE CENT VIGNES, Duchet . . .",1964,3.79,40.95,Standard,wine,Still,Red,France,BEAUNE CENT VIGNES Duchet,3.79,10.95,France,,,,Beaune,,7,34,0
+d79w2m-025_2_3,"{2041,-2683}",d79w2m-025,759,Burgandy,"POMMARD RUGIENS, Lejeune",1964,4.79,51.75,Standard,wine,Still,Red,France,POMMARD RUGIENS Lejeune,4.79,51.75,France,,,,Pommard,,1,95,0
+d79w2m-026_1_3,"{272,-2769}",d79w2m-026,685,The Great White Burgandies of the Blessed 1966 vintage,POUILLY FUISSE,1964,2.49,28.90,Standard,wine,Still,White,France,POUILLY FUISSE,2.49,26.90,France,,,,Pouilly Fuisse,,0,74,0
+d79w2m-029_2_5,"{2014,-3410}",d79w2m-029,184,Clarets of the 1962 Vintage,"CHATEAU LA MISSION HAUT
+
+BRION (Graves)",1962,6.19,66.85,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION (Graves),6.19,6.85,France,,,,Graves,,5,71,0
+d79w2m-030_2_1,"{2132,-2678}",d79w2m-030,385*,Red Burgundies,"POMMARD RUGIENS, Lejeune . . .",1966,4.79,51.75,Standard,wine,Still,Red,France,385 POMMARD RUGIENS Lejeune,4.79,51.75,France,,,,Pommard,,11,19,0
+d79w2m-034_1_22,"{348,-3883}",d79w2m-034,623,Red Wines of the Rhone Valley,"COTE ROTIE, Bruno Thierry",1964,2.99,32.30,Standard,wine,Still,Red,France,COTE ROTIE Bruno Thierry,2.99,32.30,France,1964,,,Cote Rotie,,1,2,0
+d79w2m-034_1_8,"{337,-2352}",d79w2m-034,741,The Wines of the Loire Valley,"QUINCY, Domaine R. Pipet",1967,2.59,27.95,Standard,wine,Still,,France,QUINCY Domaine Pipet,2.59,27.95,France,1967,,,Quincy,,4,6,0
+d79w2m-034_2_32,"{2124,-4835}",d79w2m-034,544,Wines of Portugal,MATEUS ROSE (Pink),,2.29,24.75,Standard,wine,Still,,Portugal,MATEUS ROSE {Pink},2.29,24.75,,,rose,,,,2,25,0
+d79w2m-037_1_4,"{295,-3680}",d79w2m-037,479,The Good 1960 and 1963 Clarets,CHATEAU COS D’ESTOURNEL (St. Estephe),1960,3.29,35.55,Standard,wine,Still,Red,France,CHATEAU COS (Saint Estephe)},3.29,33.53,,,,,,,14,85,0
+d79w2m-037_2_6,"{2064,-4616}",d79w2m-037,5035,The Good 1960 and 1963 Clarets,"CHATEAU LAFITE ROTHSCHILD
+ (Pauillac)",1963,4.99,53.90,Standard,wine,Still,Red,France,(Pauillac),4.99,53.90,France,,,,Pauillac,,27,67,0
+d79w2m-038_2_1,"{248,-3116}",d79w2m-038,786,White Bordeaux,"BORDEAUX BLANC, Domaine de la Marquis",1966,1.39,15.00,Standard,wine,Still,White,France,BORDEAUX BLANC 196s Domaine de Marquis Medium Firm,1.39,15.00,France,,white,,Bordeaux Blanc,,19,103,0
+d7bc7n-029_2_4,"{2011,-4797}",d7bc7n-029,97,Two Rare Champagnes Classics,Charles Heidsieck Cuvee Royal,1961,13.95,150.66,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK CUVEE ROYAL,13.95,150.66,France,1961,,,,,0,64,0
+d7bc7n-029_2_5,"{2019,-5294}",d7bc7n-029,82,Two Rare Champagne Classics,Moet & Chandon Dom Perignon,1962,15.55,167.94,Standard,wine,Sparkling,White,France,MOET DOM PERIGNON CHANDON,15.55,167.94,US,1962,,,,,18,108,0
+d7g01t-025_1_24,"{535,-3458}",d7g01t-025,106,French Champagnes,Piper Heidsieck Brut,1969,15.89,171.61,Standard,wine,Sparkling,White,France,PIPER HEIDSIECK BRUT,15.89,171.61,France,1969,,,,,0,168,0
+d7js34-026_1_12,"{655,-3313}",d7js34-026,62,Pick Your Favorite French Champagne,Mumm's Cordon Rouge Brut,0,7.43,81.73,Standard,wine,Sparkling,White,France,Taittinger Brut Francais,7.49,82.69,France,,,,,,23,23,1.20000000000001
+d7js34-026_1_28,"{663,-4563}",d7js34-026,20,Pick Your Favorite French Champagne,Lauren Perrier Grand Siecle,1955,12.40,133.92,Standard,wine,Sparkling,White,France,Laurent Perrier Grand Siecle,13.80,149.00,France,1955,,,,,1,16,28
+d7k01r-001_1_5,"{850,-3361}",d7k01r-001,76,Champagne & Sparkling Wine,Mumm's Rene Lalou,1969,15.99,172.70,Standard,wine,Sparkling,White,France,MUMM'S RENE LALOU,15.99,172.70,,1969,,,,,0,361,0
+d7kw23-009_1_14,"{502,-4228}",d7kw23-009,874,Alsatian Wines,Sylvaner (Nicolas),1967,1.69,18.25,Standard,wine,Still,Red,France,SYLVANER (Nicolas),1.69,18.25,Italy,1967,,Sylvaner,,,0,29,0
+d7kw23-010_1_2,"{2043,-1303}",d7kw23-010,800,Unusual Wines (Cont'd),St. Pourcain Blanc (Bourbonnais),0,1.59,17.15,Standard,wine,Still,White,Spain,(Pyrenees) Beli FITOU,1.09,18.25,France,,,,Fitou,,27,60,10
+d7kw23-010_1_4,"{2035,-1750}",d7kw23-010,885,Unusual Wines (Cont'd),Ventoux Rouge,1967,1.79,19.35,Standard,wine,Still,Red,Spain,VENTOUX ROUGE (Provence),1.79,19.35,France,1967,red,,Ventoux,Provence,11,26,0
+d7kw23-010_2_5,"{327,-3277}",d7kw23-010,670,The Wines of Paternina,Gran Reserva (Rioja),1949,4.99,53.90,Standard,wine,Still,Red,Spain,GRAN RESERVA (Rioja),2.99,64.70,Spain,1947,,,Rioja,,0,57,40
+d7nk5r-002_2_7,"{2125,-4780}",d7nk5r-002,99,Other Champagnes and Sparkling Wines,Korbel Brut (California),0,4.99,53.89,Standard,wine,Sparkling,White,United States of America,outstanding MATIDDITNTY TPIT,4.99,53.89,,,,,,,25,91,0
+d7nk5r-002_2_8,"{2133,-5096}",d7nk5r-002,37,Other Champagnes and Sparkling Wines,Almaden Blanc de Blancs Brut (California),0,6.08,65.66,Standard,wine,Sparkling,White,United States of America,Almaden Blanc de Blancs Brut (California),6.08,65.66,US,,white,,,California,0,46,0
+d7pp4q-023_1_15,"{392,-3083}",d7pp4q-023,39,French Champagne,Dom Ruinart Blanc de Blancs,1969,12.99,140.29,Standard,wine,Sparkling,White,France,DOM RUINART BLANC DE BLANCS,120.90,140.28,France,,white,,,,0,26,2158.2
+d7pp4q-023_2_19,"{2228,-4552}",d7pp4q-023,6,Coteaux Champenois,Ayala Blanc de Blancs Coteaux Champenois,0,4.59,52.35,Standard,wine,Still,White,France,AYALA BLANC DE BLANCS COTEAUX CHAMPENOIS,4.59,52.35,France,,white,,,,0,214,0
+d7ps3c-002_2_3,"{2039,-3380}",d7ps3c-002,5020,Other Champagnes and Sparkling Wines,"ST. MICHEL SPARKLING
+BURGUNDY (Finger Lakes, NY)",,2.49,26.90,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL SPARKLING BURGUNDY (Finger Lakes,2.49,26.90,,,,,Finger Lakes,Burgundy,10,11,0
+d7ps3c-006_1_3,"{1896,-2830}",d7ps3c-006,276,The Great 1964 Burgundies,POMMARD (de Courcel),1964,4.49,48.50,Standard,wine,Still,Red,France,POMMARD de Courcel,4.49,48.50,France,,,,Pommard,,2,62,0
+d7ps3c-006_1_8,"{1900,-4083}",d7ps3c-006,228,The Great 1964 Burgundies,NUITS ST GEORGES VAUCRAINS (H. Ganzes),1964,4.79,51.75,Standard,wine,Still,Red,France,NUITS SAINT GEORGES VAUCRAINS,4.79,51.75,France,,,,Nuits St. Georges,,15,34,0
+d7qs3p-005_1_30,"{340,-4571}",d7qs3p-005,-1,Champagnes for the Holidays,Mumm's Cordon Rouge Brut,1947,8.18,90.01,Standard,wine,Sparkling,White,France,CORDON ROUGE,8.18,90.01,,,red,,,,12,28,0
+d7tg6n-004_1_2,"{831,-2612}",d7tg6n-004,-1,Champagnes for the Holiday,Ledoyen Blanc de Blancs,1959,5.99,68.50,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS,19.59,,,,white,,,,0,23,272
+d7tg6n-004_3_30,"{458,-5004}",d7tg6n-004,69,French Champagnes-Bottles,Louis Roederer Rose,1953,11.50,124.00,Standard,wine,Sparkling,Rosé,France,Louis Roederer Rose,11.50,124.00,France,1953,rose,,,,0,31,0
+d7tg6n-004_3_7,"{470,-3742}",d7tg6n-004,59,French Champagnes-Bottles,Mumm's Extra Dry,0,6.77,74.49,Standard,wine,Sparkling,White,France,Extra Dry,0.43,74.49,,,,,,,7,43,126.8
+d7vc79-003_1_13,"{568,-3948}",d7vc79-003,108,French Champagnes,Piper Heidsieck Cuvee Brut,0,9.15,97.10,Standard,wine,Sparkling,White,France,SIE,9.15,98.82,,,,,,,23,39,0
+d7z30t-008_1_5,"{666,-3022}",d7z30t-008,156,French Champagnes on Sale,Moet & Chandon Dom Perignon Brut,1949,11.00,118.80,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON BRUT,11.00,118.80,US,1949,,,,,2,278,0
+d70597-003_1_1,"{405,-1375}",d70597-003,500,RED COUNTRY WINES,Fitou (Pyrenees),1969,1.99,21.50,Standard,wine,Still,Red,France,FITOU (Pyrenees),1.99,21.50,France,,,,Fitou,,0,62,0
+d70597-003_1_3,"{488,-1932}",d70597-003,690,RED COUNTRY WINES,Gamay De Savoie,1970,2.49,26.90,Standard,wine,Still,Red,France,Graves Caves Coo] 690 GAMAYDESAVOIE,2.49,26.90,France,1970,red,Gamay,Savoie,,24,165,0
+d7101s-026_1_14,"{431,-3176}",d7101s-026,247,French Champagnes,Moet & Chandon Brut,1969,12.99,140.29,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT,12.99,140.29,US,1969,,,,,2,42,0
+d7101s-026_1_2,"{443,-1770}",d7101s-026,94,French Champagnes,Perrier Jouet Brut,0,8.95,96.66,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT,8.95,96.66,France,,,,,,0,83,0
+d7101s-026_1_3,"{435,-2026}",d7101s-026,113,French Champagnres,Ledoyen Blanc de Blancs Brut,1969,8.95,98.00,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS BRUT,8.98,98.00,,1980,white,,,,0,36,0.600000000000023
+d72013-005_1_1,"{787,-2672}",d72013-005,851,Bordeaux Rouges,MÊDOC,1966,1.49,16.10,Standard,wine,Still,Red,France,CHATEAU DUHART MILHON,2.99,32.30,France,,,,,,19,608,30
+d72s3s-001_1_1,"{817,-1499}",d72s3s-001,81,Champagnes and Sparkling Wines,Boyer Brut,1973,4.79,54.65,Standard,wine,Sparkling,White,France,BOYER BRUT,4.79,54.65,,1973,,,,,0,363,0
+d72s3s-001_1_3,"{824,-2278}",d72s3s-001,98,Champagnes and Sparkling Wines,Ayala Gold Label Brut,1970,7.99,89.50,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT Our best Champagne The wohderful Champagne AYALA GOLD LABEL BRUT,7.99,89.50,France,1970,,,,Champagne,65,326,0
+d72s3s-001_1_8,"{824,-4231}",d72s3s-001,76,Champagnes and Sparkling Wines,Mumm's René Lalou,1969,15.99,172.70,Standard,wine,Sparkling,White,France,MUMM'S RENE LALOU,15.99,172.70,,1969,,,,,1,315,0
+d72s3s-002_1_3,"{898,-2342}",d72s3s-002,104,Coteaux Champenois,"Saran Natur, Château de Saran",0,10.98,118.59,Standard,wine,Still,White,France,SARAN NATUR CHATEAU DE SARAN,10.98,118.59,,,,,,,2,332,0
+d7388t-004_1_21,"{1062,-3168}",d7388t-004,-1,Champagne,"Pol Roger, Brut",1926,5.25,57.00,Fifth,wine,Sparkling,White,,Brut,5.23,57.00,,,,,,,11,101,0.399999999999991
+d7388t-004_2_6,"{3220,-1734}",d7388t-004,-1,Champagnes,"Roederer, Louis Brut",1926,4.50,49.00,Fifth,wine,Sparkling,White,,Brut Fifths,4.50,49.00,,1926,,,,,17,403,0
+d7388t-004_2_8,"{3228,-2563}",d7388t-004,-1,Still Champagne,"Association de Viticulteurs Ay, Nature",1934,1.37,15.00,Fifth,wine,Still,White,,Nature Fifths,1.37,15.00,,1934,,,,,31,411,0
+d74s3d-003_1_13,"{457,-4116}",d74s3d-003,25,French Champagne,Pommery & Greno Brut,0,8.99,97.09,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,8.99,97.09,France,,,,,,2,64,0
+d74s3d-003_2_23,"{2242,-4148}",d74s3d-003,53,Other Sparkling Wines,Schramsberg Blanc de Noir (California),1972,13.30,0.00,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE NOIR (California),13.30,,US,1972,white,,,California,0,67,0
+d78g6p-022_1_1,"{774,-713}",d78g6p-022,81,French Champagne and Sparkling Wine on Sale,Boyer Blanc de Blancs Brut,1971,4.99,59.88,Standard,wine,Sparkling,White,France,BOYER BLANC DE BLANCS BRUT,4.99,59.88,,1971,white,,,,0,296,0
+d78g6p-022_1_4,"{790,-2238}",d78g6p-022,26,French Champagne and Sparkling Wine on Sale,Charles Hiedsieck Brut,1969,9.95,104.50,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,9.95,104.50,France,1969,,,,,2,313,0
+d79w2m-004_1_15,"{309,-4466}",d79w2m-004,204,A Library of Rare Old Clarets,CHATEAU MARGAUX (Margaux),1953,19.95,215.45,Standard,wine,Still,Red,France,CHATEAU PETRUS (Pomerol),19.95,215.45,France,,,,Pomerol,,13,12,0
+d79w2m-004_1_8,"{309,-3693}",d79w2m-004,5095,A Library of Rare Old Clarets,CHATEAU MARGAUX (Margaux),1955,19.95,215.45,Standard,wine,Still,Red,France,CHATEAU CHEVAL BLANC Saint Emilion],10.08,218.03,France,,white,,,,24,16,197.4
+d79w2m-004_2_1,"{2096,-2377}",d79w2m-004,770,A Library of Rare Old Clarets,"CHATEAU LAFITE ROTHSCHILD
+ (Pauillac)",1950,11.95,129.00,Standard,wine,Still,Red,France,CHATEAU LAFITE ROTHSCHILD Pauillag),21.83,129.00,France,,,,,,3,74,197.6
+d79w2m-013_2_14,"{338,-3841}",d79w2m-013,208,Red Bordeaux,CHATEAU GISCOURS (Margaux),1964,3.49,37.70,Standard,wine,Still,Red,France,CHATEAU GISCOURS (Margaux),37.70,37.70,France,,,,Margaux,,0,33,684.2
+d79w2m-013_3_15,"{2084,-4278}",d79w2m-013,149,Red Bordeaux,CHATEAU LATOUR (Pauillac),1964,9.75,105.30,Standard,wine,Still,Red,France,ALY (Saint Emilion) Hord,9.75,105.30,US,,,,,,24,45,0
+d79w2m-014_2_4,"{2033,-3174}",d79w2m-014,72,Champagne for the Holidays,"Veuve Oudinot Vouvray, Cremant Sparkling",0,3.99,43.10,Standard,wine,Sparkling,White,France,VOUVRAY CREMANT SPARKLING,3.99,43.10,France,,,,Vouvray,,15,28,0
+d79w2m-023_1_1,"{326,-1883}",d79w2m-023,361,The Very Best of Switzerland,Domaine Clottu Neuchatel,1967,2.75,29.70,Standard,wine,Still,White,Switzerland,NEUCHATEL Domaine Clottu,2.78,29.70,Switzerland,1967,,,,Neuchatel,19,78,0.599999999999996
+d79w2m-025_1_2,"{194,-2413}",d79w2m-025,668,Burgandy,"PIN OT NOIR DE MARSANNAY, Clair Dau",1964,2.49,26.90,Standard,wine,Still,Red,France,PINOT NOIR DE MARSANNAY,2.49,26.90,France,,,Pinot Noir,Marsannay,,12,128,0
+d79w2m-026_1_5,"{289,-3654}",d79w2m-026,319,The Great White Burgandies of the Blessed 1966 vintage,CHASSAGNE-MONTRACHET,1964,3.49,37.70,Standard,wine,Still,White,France,CHASSAGNE MONTRAGCHET,3.49,37.70,France,,,,Chassagne Montrachet,,2,42,0
+d79w2m-026_1_7,"{289,-4552}",d79w2m-026,351,The Great White Burgandies of the Blessed 1966 vintage,CHABLIS BOUGROS,1964,3.99,43.10,Standard,wine,Still,White,France,CHABLIS BOUGROS,3.99,43.10,France,,,,Chablis,,0,38,0
+d79w2m-026_2_6,"{2103,-3547}",d79w2m-026,352,The Great White Burgandies of the Blessed 1966 vintage,CHEVALIER MONTRACHET,1964,8.95,96.65,Standard,wine,Still,White,France,CHEVALIER MONTRACHET,8.95,96.65,France,,,,Chevalier Montrachet,,0,30,0
+d79w2m-029_2_4,"{2018,-3119}",d79w2m-029,420,Clarets of the 1962 Vintage,"CHATEAU COS D’ESTOURNEL
+ (St. Estephe)",1962,4.29,46.35,Standard,wine,Still,Red,France,CHATEAU COS (Saint Estephe),4.29,46.38,,,,,,,14,70,0
+d79w2m-034_1_14,"{341,-2988}",d79w2m-034,1012,The Wines of Alsace,"RIESLING SUPERIEUR, Nicolas",1966,2.19,23.65,Standard,wine,Still,White,Germany,RIESLING SUPERIEUR Nicolas,2.19,23.65,,1966,,Riesling,,,1,2,0
+d79w2m-034_1_26,"{354,-4401}",d79w2m-034,597,White Wines of the Rhone Valley,"CONDRIEU, Chateau du Rozay",1964,4.99,53.90,Standard,wine,Still,White,France,CONDRIEU Chateau Rozay,4.99,53.90,France,1964,,,Condrieu,,4,6,0
+d79w2m-034_1_7,"{334,-2291}",d79w2m-034,447,The Wines of the Loire Valley,"CHINON, Asher",1966,2.49,26.90,Standard,wine,Still,,France,CHINON Asher,2.49,25.49,France,1966,,,Chinon,,1,8,0
+d79w2m-034_2_8,"{2104,-2446}",d79w2m-034,5029,The Interesting Country Wines of France,"IURANCON SEC, Nicolas",1966,1.49,16.10,Standard,wine,Still,,France,JURANCON SEC Nicolas,1.40,16.10,France,1966,,,Jurancon Sec,,2,10,1.8
+d79w2m-037_2_5,"{2071,-4180}",d79w2m-037,634,The Good 1960 and 1963 Clarets,CHATEAU LATOUR (Pauillac),1963,4.49,48.50,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),4.49,48.50,France,,,,Pauillac,,0,13,0
+d79w2m-038_2_6,"{255,-4498}",d79w2m-038,205,White Bordeaux,"MOUTON CADET BLANC, Baron Philippe de Rothschild",1966,2.97,32.10,Standard,wine,Still,White,France,205 MOUTON CADET BLANC Baron Philippe de Rothschild Discriminating dedicated,2.97,32.10,France,1966,white,,,,30,103,0
+d79w2m-038_3_6,"{1985,-4593}",d79w2m-038,254,White Bordeaux,CHATEAU D’YQUEM (Sauternes),1959,9.95,107.45,Standard,wine,Still,White,France,WHALLAU DV'YQUEM (Sauternes) The most most,9.95,107.45,,1959,,,Sauternes,,19,160,0
+d7bc7n-029_1_5,"{161,-4220}",d7bc7n-029,28,French Champagnes on Sale,"Mesnil, Blanc de Blancs",1964,6.49,73.50,Standard,wine,Sparkling,White,France,MESNIL BLANC DE BLANCS,6.49,73.50,,1964,white,,,,1,25,0
+d7f598-021_3_2,"{469,-4925}",d7f598-021,-1,The Important Champagne Event of 1975,English Cuvee Brut,1969,10.95,118.26,Standard,wine,Sparkling,White,France,ENGLISH CUVEE BRUT Need,10.95,118.26,,1969,,,,,5,53,0
+d7g01t-007_1_5,"{2503,-4576}",d7g01t-007,54,The Champagnes of Moet & Chandon,Brut Imperial,0,167.49,0.00,Salmanazar,wine,Sparkling,White,France,Salamanazar,167.49,,,,,,,,11,297,0
+d7g01t-025_1_15,"{527,-2914}",d7g01t-025,72,French Champagnes,Lanson Red Label Brut,1969,12.85,138.78,Standard,wine,Sparkling,White,France,LANSON RED LABEL BRUT,12.85,138.78,France,1969,red,,,,0,160,0
+d7g01t-025_2_2,"{2140,-2345}",d7g01t-025,1188,Other Sparkling Wines from France,Kriter Brut,0,5.49,60.30,Standard,wine,Sparkling,White,France,KRITER BRUT,5.49,60.30,France,,,,,,0,144,0
+d7g01t-025_2_3,"{2148,-2510}",d7g01t-025,21,Other Sparkling Wines from France,Langlois Chateau Blanc de Blancs,0,5.95,64.26,Standard,wine,Sparkling,White,France,LANGLOIS CHATEAU BLANC BLANGS ESL SSN Tea CCE INN,5.95,64.26,France,,white,,,,22,145,0
+d7g59k-003_1_2,"{468,-2790}",d7g59k-003,-1,White Burgundy,"Meursault, Clos de Tesson",1969,45.00,0.00,Standard,wine,Still,White,France,Meursault Clos de Tesson,45.00,,France,,,,Meursault,,1,113,0
+d7h014-014_2_3,"{3296,-2221}",d7h014-014,28,Other European Sparkling Wines,Sablant Brut (Loire),0,6.99,75.50,Standard,wine,Sparkling,White,France,GRAN CODORNIU,39.95,432.00,Spain,,,,,,16,76,659.2
+d7h59w-017_1_2,"{384,-2887}",d7h59w-017,81,Champagnes on Sale,Boyer Brut,1959,3.49,39.75,Standard,wine,Sparkling,White,France,BOYER BRUT (Haut Savoie),3.49,39.75,France,1959,,,Savoie,,14,52,0
+d7js34-026_1_29,"{671,-4643}",d7js34-026,15,Pick Your Favorite French Champagne,Louis Roederer Cristal,1959,13.80,149.00,Standard,wine,Sparkling,White,France,Moet Chandon Dom Perignon,13.00,140.44,France,1959,,,,,20,28,16
+d7kw23-008_1_2,"{376,-2669}",d7kw23-008,110,French Champagne,Pierre Cartier Brut Rose,,5.29,57.13,Standard,wine,Sparkling,Rosé,France,PIERRE CARTIER BRUT ROSE,5.29,57.13,,,rose,,,,0,43,0
+d7kw23-008_1_3,"{348,-2944}",d7kw23-008,28,French Champagne,Mesnil Blanc de Blancs,1964,5.99,68.50,Standard,wine,Sparkling,White,France,MESNIL BLANC DE BLANCS,5.99,68.50,,1964,white,,,,0,55,0
+d7kw23-008_1_9,"{384,-5005}",d7kw23-008,98,French Champagne,Moet & Chandon Dom Perignon,1962,14.50,156.60,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON The most Champagne,14.50,156.60,,1962,,,,Champagne,21,40,0
+d7kw23-009_1_8,"{498,-3060}",d7kw23-009,813,Red Wines from the Rhone Valley,Cotes Du Rhone Rouge (Nicolas),1966,1.29,13.95,Standard,wine,Still,Red,France,CROZES HERMITAGE (Nicolas),1.99,21.50,,1967,,,Crozes Hermitage,,13,22,14
+d7kw23-009_1_9,"{494,-3187}",d7kw23-009,388,Red Wines from the Rhone Valley,Crozes Hermitage (Nicolas),1967,1.99,21.50,Standard,wine,Still,Red,France,GIGONDAS,2.29,24.75,France,1960,,,Gigondas,,21,26,6
+d7ms3r-029_2_9,"{2275,-3629}",d7ms3r-029,53,American Champagnes,Schramsberg Blanc de Blancs,1968,6.99,79.50,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS EYP Snip SUn SOE,6.99,79.50,US,1968,white,,,,17,201,0
+d7ms3r-030_1_13,"{582,-3846}",d7ms3r-030,24,Other Sparkling Wines,Henkel Trocken,0,5.31,57.35,Standard,wine,Sparkling,White,Germany,HENKEL TROCKEN,5.31,57.35,,,,,,,0,175,0
+d7ms3r-030_1_6,"{574,-2545}",d7ms3r-030,1183,French Sparkling Wines,Kritter Brut,0,4.89,52.51,Standard,wine,Sparkling,White,France,KRITER BRUT,4.89,52.51,France,,,,,,1,171,0
+d7nk5r-002_1_4,"{499,-3252}",d7nk5r-002,155,Champagnes on Sale,Ayala Gold Label Brut,1961,5.99,68.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,5.99,68.50,France,1961,,,,,0,116,0
+d7nk5r-002_1_7,"{463,-4036}",d7nk5r-002,22,Champagnes on Sale,Pommery & Greno Brut,0,7.75,83.39,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,7.75,83.39,France,,,,,,2,91,0
+d7pp4q-023_1_13,"{384,-2653}",d7pp4q-023,49,French Champagne,Moet & Chandon Brut Imperial,0,10.99,118.69,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,10.99,118.69,France,,,,,,24,22,0
+d7ps3c-006_1_2,"{1896,-2614}",d7ps3c-006,-999,The Great 1964 Burgundies,NUITS ST GEORGES VAUCRAINS (H. Ganzes),1964,4.79,51.75,Standard,wine,Still,Red,France,CHAMBOLLE MUSIGNY Cambola Celebrated Here,3.99,43.10,France,,,,Chambolle Musigny,,35,59,16
+d7ps3c-006_2_7,"{302,-5027}",d7ps3c-006,224,The Great 1964 Burgundies,BEAUNE CENT VIGNES (Duchet),1964,3.79,40.95,Standard,wine,Still,Red,France,BEAUNE CENT VIGNES Duchet The Beaune,3.79,40.95,France,,,,Beaune,,12,105,0
+d7ps3c-006_2_8,"{302,-5216}",d7ps3c-006,-999,The Great 1964 Burgundies,NUITS ST GEORGES VAUCRAINS (H. Ganzes),1964,4.79,51.75,Standard,wine,Still,Red,France,MOREY SAINT DENIS CLOS BUSSIEREY Roumier,3.99,43.10,,,,,,,33,78,16
+d7sg6b-014_1_6,"{751,-2970}",d7sg6b-014,32,Champagnes and Sparkling Wines,Lanson Black Lable Brut,0,10.65,115.02,Standard,wine,Sparkling,White,France,LANSON BLACK LABEL BRUT,10.65,115.02,France,,,,,,2,365,0
+d7tg6n-004_3_11,"{478,-3966}",d7tg6n-004,11,French Champagnes-Bottles,Charles Heidsieck Brut,0,6.99,75.49,Standard,wine,Sparkling,White,France,Charles Heidsieck Brut,6.99,75.49,France,,,,,,0,43,0
+d7tg6n-004_4_10,"{2122,-4266}",d7tg6n-004,79,French Champagnes-Magnums,Piper Heidsieck Cuvee Brut,0,15.70,84.78,Magnum,wine,Sparkling,White,France,Piper Heidsieck Cuvee Brut,15.70,84.78,France,,,,,,0,18,0
+d7vc79-003_1_18,"{528,-4638}",d7vc79-003,247,French Champagnes,Moet Dry Imperial,1964,10.15,109.62,Standard,wine,Sparkling,White,France,DRY,0.62,10.15,,,,,,,14,13,190.6
+d7vc79-003_2_13,"{2228,-4717}",d7vc79-003,105,American Champagnes,Beaulieu Vineyard Private Reserve Brut,0,6.65,71.82,Standard,wine,Sparkling,White,United States of America,BEAULIEU VINEYARD PRIVATE RESERVE BRUT,6.65,,US,,,,,,0,16,0
+d7vc79-026_2_7,"{2132,-2291}",d7vc79-026,734,The Wines of America / Red Wines,Hanzell Pinot Noir,1966,7.99,86.30,Standard,wine,Still,Red,United States of America,"",7.99,7.99,,,,,,,18,32,0
+d7w88z-016_1_2,"{640,-2317}",d7w88z-016,155,French Champagne on Sale,Ayala Gold Label Brut,1961,5.49,60.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,5.49,60.50,France,1961,,,,,0,56,0
+d7ws37-000_1_16,"{749,-3599}",d7ws37-000,N,Moselles Wines,Graacher Himmelreich,1947,1.79,19.95,Standard,wine,Still,White,Germany,GRAACHER HIMMELREICH (Original Growth Heidemanns),1.79,19.95,Argentina,1947,,,,,29,163,0
+d7z30t-008_1_3,"{663,-2320}",d7z30t-008,33,French Champagnes on Sale,Fortnum & Mason English Market Brut,1952,5.49,61.50,Standard,wine,Sparkling,White,France,FORTNUM MASON ENGLISH MARKET BRUT,5.49,61.50,,1952,,,,,2,257,0
+d7z30t-008_1_4,"{676,-2666}",d7z30t-008,74,French Champanges on Sale,Pommery & Greno Reserve Rainier III Brut,0,5.99,68.50,Standard,wine,Sparkling,White,France,POMMERY GRENO RESERVE RAINIER III BRUT,5.99,68.50,France,,,,,,2,275,0
+d7z30t-008_2_1,"{663,-3499}",d7z30t-008,28,Other World-Famous Champagnes,Cramant Blanc de Blancs,1953,5.49,61.50,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT This Brut Cha strongly AYALA GOLD LABEL BRUT Wine lists restaurants Frar FORTNUM MASON ENGLISH Champagne POMMERY GRENO RESERVE This Champagne MOET CHANDON DOM PERI Dom Perign The United States December suggest OTHER CRAMANT BLANC DE BLANCS AYALA GOLD LABEL BRUT 1949,5.49,61.50,France,1953,white,,,Champagne,84,131,0
+d7z30t-008_3_6,"{2296,-3987}",d7z30t-008,26,Other World-Famous Champagnes,Charles Heidsieck Brut,1949,8.56,91.89,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,8.56,91.89,France,,,,,,0,96,0
+d7101s-026_1_26,"{411,-4030}",d7101s-026,20,French Champagnes,Laurent Perrier Grand Siecle,1966,25.95,280.96,Standard,wine,Sparkling,White,France,LAURENT PERRIER GRAND SIECLE,5.95,200.96,France,,,,,,0,24,400
+d7101s-026_1_30,"{411,-4302}",d7101s-026,55,French Champagnes,Taittinger Blanc de Blancs,1969,25.98,286.82,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE BLANCS,25.98,286.82,France,1969,white,,,,0,26,0
+d7101s-026_2_4,"{2058,-4262}",d7101s-026,83,American Champagnes,Almaden Brut (Calif.),0,5.59,60.37,Standard,wine,Sparkling,White,United States of America,ALMADEN BRUT (Calif),5.59,60.37,,,,,,,1,27,0
+d72013-005_1_9,"{831,-3684}",d72013-005,115,Bordeaux Rouges,CHATEAU LAFITE-ROTHSCHILD (Pauillac),1962,8.95,96.75,Standard,wine,Still,Red,France,CHATEAU LATOUR,17.50,189.00,France,,,,Pauillac,,23,517,171
+d7388t-004_1_12,"{1087,-1974}",d7388t-004,-1,Champagnes,"Lanson, Extra Dry",1928,10.80,58.50,Magnum,wine,Sparkling,White,,Bera Dry Jeraboams,21.60,58.50,,,,,,,16,126,216
+d73s33-006_1_1,"{544,-1421}",d73s33-006,2,"""Best Buys"" in Champagne for the New Years Celebration",St. Michel Brut (N.Y.),0,2.79,31.50,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL BRUT,2.79,31.50,,,,,,,11,173,0
+d74s3d-003_2_21,"{2242,-3400}",d74s3d-003,111,Other Sparkling Wines,Deschamps Blanc de Blancs Brut (New York),0,5.99,68.73,Standard,wine,Sparkling,White,United States of America,DESCHAMPS BLANC DE BLANCS BRUT (New York),3.99,46.75,US,,white,,,New York,0,67,40
+d77p4p-013_1_19,"{758,-2694}",d77p4p-013,34,French Champagne - Bottles,Louis Roederer Brut,1964,9.60,103.75,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRITISH CUVEE,9.69,104.66,France,1962,,,,,23,82,1.8
+d7988p-009_1_2,"{608,-2434}",d7988p-009,32,French Champagnes,Ayala Gold Label Brut,1949,4.99,56.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,56.50,,France,1949,,,,,0,198,1030.2
+d79w2m-008_1_8,"{435,-3449}",d79w2m-008,647,"Original
+
+Abfullung","GRAACHER HIMMELREICH TROCKENBEERENAUSLESE, Friedrich Wilheim Gymnasium",1959,45.00,,Standard,wine,Still,,Germany,GRAACHER HIMMELREICH TROCKENBEERENAUSLESE Original Abiuliune Friedrich Wilheim GUITNASIUIM,45.00,,Argentina,1959,,,,,23,39,0
+d79w2m-013_2_4,"{328,-2101}",d79w2m-013,848,Red Bordeaux,"CHATEAU COUTELIN MERVILLE
+ (St. Estephe)",1964,2.29,24.75,Standard,wine,Still,Red,France,Att Calon Segur SIM,0.99,24.75,New Zealand,,,,,,30,61,26
+d79w2m-013_2_5,"{332,-2296}",d79w2m-013,359,Red Bordeaux,"CHATEAU PICQUE-CAILLOU
+ (Graves)",1964,2.79,30.15,Standard,wine,Still,Red,France,SECA Entirely Exiraordinars Sree,2.79,30.15,,,,,,,28,59,0
+d79w2m-013_3_10,"{2084,-3265}",d79w2m-013,814,Red Bordeaux,"CHATEAU LA MISSION HAUT BRION
+ (Graves)",1964,6.95,75.05,Standard,wine,Still,Red,France,CHATEAU TOUR HAUT BRION (Graves),5.99,9.64,France,,,,Graves,,11,66,19.2
+d79w2m-014_2_1,"{2046,-1772}",d79w2m-014,2,Champagne for the Holidays,St. Michel Brut,0,2.79,30.15,Standard,wine,Sparkling,White,United States of America,ANU SAINT MICHEL BRUT (Finger Lakes,2.79,30.15,US,,,,Finger Lakes,,22,41,0
+d79w2m-014_2_2,"{2033,-2311}",d79w2m-014,5020,Champagne for the Holidays,St. Michel Sparkling Burgundy,0,2.49,26.90,Standard,wine,Sparkling,Red,United States of America,SAINT MICHEL SPARKLING BURGUNDY (Finger Lakes,2.49,26.90,,,,,Finger Lakes,Burgundy,18,35,0
+d79w2m-025_1_4,"{218,-3067}",d79w2m-025,250,Burgandy,"SANTENAY, Clair Dau",1964,3.49,37.70,Standard,wine,Still,Red,France,SANTENAY Clair Dau,3.49,37.70,France,,,,Santenay,,1,40,0
+d79w2m-025_1_5,"{218,-3264}",d79w2m-025,244,Burgandy,"MONTHELIE, Potinet-Ampeau",1964,3.49,37.70,Standard,wine,Still,Red,France,MONTHELIE Potinet Ampeau,3.49,37.70,France,,,,Monthelie,,2,40,0
+d79w2m-029_1_9,"{242,-4697}",d79w2m-029,570,Clarets of the 1962 Vintage,CHATEAU LYNCH BAGES (Pauillac),1962,3.99,43.10,Standard,wine,Still,Red,France,CHATEAU LYNCH BAGES,3.99,43.10,France,,,,,,11,74,0
+d79w2m-029_2_11,"{2011,-5049}",d79w2m-029,162,Clarets of the 1962 Vintage,CHATEAU HAUT BRION (Graves),1962,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU HAUT BRION (Graves),9.95,107.45,France,,,,Graves,,0,2,0
+d79w2m-029_2_2,"{2021,-2551}",d79w2m-029,708,Clarets of the 1962 Vintage,"CHATEAU LEOVILLE LASCASES
+ (St. Iulien)",1962,3.99,43.10,Standard,wine,Still,Red,France,CHATEAU LEOVILLE LASCASES (Saint Julien],2.89,43.10,US,,,,,,7,69,22
+d79w2m-029_2_7,"{2014,-3893}",d79w2m-029,147,Clarets of the 1962 Vintage,CHATEAU PETRUS (Pomerol),1962,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU PETRUS (Pomerol),9.95,107.45,France,,,,Pomerol,,0,15,0
+d79w2m-030_1_9,"{362,-4415}",d79w2m-030,550*,Red Burgundies,"NUITS ST. GEORGES, LES
+
+PERDRIX, Mugneret",1966,4.49,48.50,Standard,wine,Still,Red,France,NUITS SAINT GEORGES LES PERDRIX Mugneret,4.49,48.50,France,,,,Nuits St. Georges,,8,87,0
+d79w2m-034_2_30,"{2114,-4718}",d79w2m-034,5089,Wines of Portugal,GRANDIO (like white Graves),,1.79,19.35,Standard,wine,Still,,Portugal,GRAND]JO (like Graves),1.79,19.35,France,,white,,Graves,,8,20,0
+d79w2m-034_2_6,"{2100,-2325}",d79w2m-034,856,The Interesting Country Wines of France,SCIATINO BLANC (Corsica),1966,1.49,16.10,Standard,wine,Still,,France,SCIATINO BLANC (Corsica),1.49,16.10,,1966,white,,,,0,6,0
+d7g01t-007_1_1,"{2227,-4181}",d7g01t-007,44,The Champagnes of Moet & Chandon,White Star Extra Dry,0,9.99,107.89,Standard,wine,Sparkling,White,France,Bottle,9.99,107.89,,,,,,,17,49,0
+d7g01t-025_1_11,"{523,-2554}",d7g01t-025,122,French Champagnes,Moet & Chandon Bicentennial Brut,0,10.99,118.69,Standard,wine,Sparkling,White,France,MOET CHANDON BICENTENNIAL BRUT,10.99,118.60,Australia,,,,,,2,159,0
+d7g01t-025_1_35,"{543,-4263}",d7g01t-025,161,French Champagnes,Charbaut Certificate Blanc de Blancs Cuvee Reserve,1971,30.00,360.00,Standard,wine,Sparkling,White,France,CHARBAUT CERTIFICATE BLANC DE BLANCS CUVEE RESERVE,30.00,360.00,Romania,1971,white,,,,0,172,0
+d7g59k-003_2_5,"{2292,-3210}",d7g59k-003,-1,Red Burgundy,"Chassagne Montrachet, Morgeot",1969,45.00,0.00,Standard,wine,Still,Red,France,Chassagne Montrachet Morgeot,45.00,,France,,,,Chassagne Montrachet,,1,310,0
+d7g59k-004_1_2,"{491,-1246}",d7g59k-004,-1,Red Burgundy,Chambolle- Musigny,1969,49.60,0.00,Standard,wine,Still,Red,France,Chambolle Musigny {Mice Thomace Bacent),81.00,,France,,,,Chambolle Musigny,,23,105,628
+d7h014-014_1_4,"{946,-1112}",d7h014-014,108,French Champagne,Piper Hiedsieck Ambassadeurs Brut,0,15.49,167.30,Standard,wine,Sparkling,White,France,MUMM'S CORDON ROUGE BRUT,17.50,189.00,,,red,,,,25,198,40.2
+d7h014-014_1_9,"{963,-2522}",d7h014-014,5,French Champagners,Bollinger R.D.,1969,29.95,323.50,Standard,wine,Sparkling,White,France,BULLINGER {Recently Disgorged),26.05,323.35,,,,,,,19,224,78
+d7h59w-017_1_6,"{404,-4400}",d7h59w-017,25,Champagne on Sale,Ledoyen Blanc de Blancs Brut,1959,5.99,68.50,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS BRUT,68.50,509.09,,1959,white,,,,0,69,1250.2
+d7js34-026_1_4,"{639,-2752}",d7js34-026,55,Pick Your Favorite French Champagne,Krug Light,0,6.49,70.09,Standard,wine,Sparkling,White,France,"",6.49,70.09,,,,,,,10,11,0
+d7kw23-008_2_5,"{2099,-3759}",d7kw23-008,53,Other Champagnes and Sparkling Wines,Schramsberg Blanc de Blancs,1966,6.99,79.50,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS,6.99,79.50,US,1966,white,,,,0,36,0
+d7ms3r-029_1_10,"{696,-3709}",d7ms3r-029,11,French Champagnes,Charles Heidsieck Brut,0,8.49,91.69,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,8.49,91.69,France,,,,,,0,224,0
+d7nk5r-002_1_2,"{475,-2612}",d7nk5r-002,36,Champagnes on Sale,Marcel Pere Et Fils Brut,1961,4.99,56.50,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,4.99,56.50,,1961,,,,,3,100,0
+d7nk5r-002_1_5,"{479,-3660}",d7nk5r-002,5039,Champagnes on Sale,Bollinger Brut,0,6.35,68.58,Standard,wine,Sparkling,White,France,BOLLINGER BRUT (Bop Hanay,6.35,68.58,France,,,,,,11,122,0
+d7pp4q-011_1_4,"{516,-2580}",d7pp4q-011,753,Red Bordeaux,Chateau du Grand Parc,1974,3.69,42.10,Standard,wine,Still,Red,France,CHATEAU GRAND PARC,3.69,42.10,France,,,,,,3,162,0
+d7pp4q-023_2_20,"{2220,-4771}",d7pp4q-023,130,Coteaux Champenois,Bollinger Natu Coteaux Champenois,0,4.89,52.82,Standard,wine,Still,White,France,BOLLINGER NATUR COTEAUX CHAMPENOIS RRS,4.89,52.82,France,,,,,,5,190,0
+d7ps3c-002_1_8,"{447,-4651}",d7ps3c-002,54,Champagnes on Sale,"CREMANT BLANC DE BLANCS, Roederer",1964,9.25,100.00,Standard,wine,Sparkling,White,France,CREMANT BLANC DE BLANCS Roederer,9.25,100.00,,,white,,,,1,148,0
+d7ps3c-006_1_13,"{1888,-5444}",d7ps3c-006,409,The Great 1964 Burgundies,"LA TACHE (Domaine de la Romanee
+Conti)",1964,15.70,169.50,Standard,wine,Still,Red,France,TACHE Domaine de Romanee Conti,1.69,15.70,France,,,,La Romanee,,9,52,280.2
+d7ps3c-006_1_5,"{1904,-3238}",d7ps3c-006,440,The Great 1964 Burgundies,"CHAMBOLLE MUSIGNY, LES
+CHARMES (Cambola)",1964,4.49,48.50,Standard,wine,Still,Red,France,CHAMBOLLE MUSIGNY LES CHARMES Cambola,4.40,45.50,France,,,,Chambolle Musigny,,4,57,1.8
+d7ps3c-006_2_1,"{282,-2990}",d7ps3c-006,329,The Great 1964 Burgundies,BOURGOGNE ROUGE (Nicolas),1964,1.99,21.50,Standard,wine,Still,Red,France,BOURGOGNE,1.99,21.50,France,,,,Bourgogne,,16,76,0
+d7tg6n-004_3_21,"{462,-4501}",d7tg6n-004,56,French Champagnes-Bottles,Mumm's Cordon Rouge Brut,1959,8.89,97.82,Standard,wine,Sparkling,White,France,Cordon Rouge Brut,8.89,97.82,,1959,red,,,,7,31,0
+d7tg6n-004_4_11,"{2118,-4317}",d7tg6n-004,46,French Champagnes-Magnums,Mumm's Cordon Rouge Brut,1959,18.37,101.04,Magnum,wine,Sparkling,White,France,Cordon Rouge Brut,18.37,101.04,,1959,red,,,,7,15,0
+d7tg6n-004_4_17,"{2122,-4976}",d7tg6n-004,30,French Champagnes-Jeraboams,Mumm's Cordon Rouge Brut,0,31.98,87.95,Jeroboam,wine,Sparkling,White,France,Cordon Rouge Brut,31.98,87.95,,,red,,,,7,27,0
+d7tg6n-004_4_7,"{2122,-4098}",d7tg6n-004,17,French Champagnes-Magnums,Krug Brut Reserve Private Cuvee,0,16.70,90.20,Magnum,wine,Sparkling,White,France,Krug Brut Reserve Private Cuvee,16.70,90.20,Romania,,,,,,0,18,0
+d7v88n-004_1_2,"{443,-2574}",d7v88n-004,-1,Champagne for Parties,George Goulet,1952,6.95,76.45,Standard,wine,Sparkling,White,France,French,6.95,76.45,France,,,,,Champagne,11,443,0
+d7vc79-003_1_11,"{556,-3656}",d7vc79-003,62,French Champagnes,Mumm's Cordon Rouge Brut,0,8.80,95.04,Standard,wine,Sparkling,White,France,GER,8.95,96.66,,,,,,,21,32,2.99999999999997
+d7vc79-003_1_21,"{560,-4925}",d7vc79-003,106,French Champagnes,Piper Heidsick Brut,1964,10.60,114.48,Standard,wine,Sparkling,White,France,PIPER HEIDSIECK BRUT,10.75,,France,1964,,,,,1,43,3.00000000000001
+d7ws37-000_1_18,"{757,-3858}",d7ws37-000,Q,Moselles Wines,Trierer Kreuzberg Auslese,1949,2.99,34.75,Standard,wine,Still,White,Germany,EET TRIERER KREUZRERG AUSLESE (Orig Landes Weinbaul,2.99,34.75,France,1949,,,Landes,,27,172,0
+d7z30t-008_1_2,"{666,-2008}",d7z30t-008,155,French Champagnes on Sale,Ayala Gold Label Brut,1952,4.99,56.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,4.99,56.50,France,1952,,,,,0,261,0
+d7z30t-008_2_4,"{683,-4072}",d7z30t-008,49,Other World-Famous Champagnes,Moet & Chandon White Seal Brut,0,5.91,63.83,Standard,wine,Sparkling,White,France,MOET CHANDON WHITE SEAL BRUT,5.91,63.83,US,,white,,,,2,116,0
+d7z30t-008_3_1,"{2309,-3462}",d7z30t-008,34,Other World-Famous Champagnes,Louis Roederer Brut,1952,8.17,88.15,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT,8.17,88.15,France,1952,,,,,0,113,0
+d7z30t-008_3_10,"{2302,-4255}",d7z30t-008,98,Other World-Famous Champagnes,Bollinger Brut,1952,8.79,94.95,Standard,wine,Sparkling,White,France,[LANSON BRUT Gea,8.90,96.12,France,1949,,,,,11,115,2.20000000000002
+d7z30t-008_3_13,"{2313,-4502}",d7z30t-008,43,Other World-Famous Champagnes,Louis Roederer Rose,1949,9.77,105.52,Standard,wine,Sparkling,Rosé,France,LOUIS ROEDERER RUSL LOUIS ROEDERER CRIST,105.52,,France,,,,,,21,124,1915
+d70597-012_1_1,"{328,-2221}",d70597-012,252,1969 Vintage,Clair-Dau Pinot Noir De Marsannay,1969,3.49,37.70,Standard,wine,Still,Red,France,PINOT NOIR DE 'MARSANNAY Sess ST CETL,3.49,37.70,France,,,Pinot Noir,Marsannay,,24,11,0
+d7101s-026_1_13,"{427,-3112}",d7101s-026,72,French Champagnes,Lanson Red Label Brut,1964,12.85,138.75,Standard,wine,Sparkling,White,France,LANSON RED LABEL BRUT,12.85,138.78,France,1964,red,,,,0,36,0
+d7101s-026_1_24,"{415,-3883}",d7101s-026,91,French Champagnes,King Brut Reserve,0,19.95,215.46,Standard,wine,Sparkling,White,France,KRUG BRUT RESERVE,19.95,215.46,Romania,,,,,,2,30,0
+d7101s-026_1_32,"{391,-4921}",d7101s-026,21,Other Sparkling Wines from France,Langlois Chateau Blanc de Blancs,0,5.35,57.78,Standard,wine,Sparkling,White,France,LANGLOIS CHATEAU BLANC DE BLANCS,5.35,57.78,France,,white,,,,0,7,0
+d7101s-026_1_33,"{395,-5120}",d7101s-026,1183,Other Sparkling Wines from France,Kriter Brut,1972,5.49,60.30,Standard,wine,Sparkling,White,France,KRITER BRUT,5.49,60.80,France,1972,,,,,0,22,0
+d71s3g-005_1_4,"{578,-1553}",d71s3g-005,155,Champagnes on Sale,Ayala Gold Label Brut,1959,4.99,56.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,4.99,56.50,France,1959,,,,,0,328,0
+d7388t-003_1_8,"{3306,-2806}",d7388t-003,-1,Champagne,Bollinger English Market,1929,5.95,63.00,Fifth,wine,Sparkling,White,,English Market,5.95,63.00,,1929,,,,,10,834,0
+d7388t-004_1_3,"{1083,-1033}",d7388t-004,-1,Champagnes,"Cliquot, Vueve Gold Label, Brut",1928,5.50,59.00,Fifth,wine,Sparkling,White,,Yellow Label,4.98,54.00,,,,,,,23,122,10.4
+d73s33-006_1_9,"{584,-4851}",d73s33-006,27,"""Best Buys"" In Champagne for the New Year's Celebration",Dom Perignon,0,27.00,145.80,Magnum,wine,Sparkling,White,France,DOM PERIGNON MAGNUM,27.00,145.80,,,,,,,7,201,0
+d76k5q-008_1_4,"{508,-3530}",d76k5q-008,6,French Champagnes and Sparkling Wines,Clos Clos des Cordeliers Rose Brut,0,4.99,53.90,Standard,wine,Sparkling,Rosé,France,CLOS DES CORDELIERS ROSE BRUT,4.99,53.90,France,,rose,,,,5,146,0
+d79w2m-004_1_11,"{305,-4095}",d79w2m-004,280,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1953,8.95,96.65,Standard,wine,Still,Red,France,LINALLEAU DRAINALINE (OL,81.95,,,,,,,,35,16,1460
+d79w2m-004_1_21,"{309,-5115}",d79w2m-004,392,A Library of Rare Old Clarets,CHATEAU HAUT BRION (Graves),1952,14.50,156.00,Standard,wine,Still,Red,France,CHATEAU MARGAUX (Margaux),14.50,156.00,France,,,,Margaux,,15,11,0
+d79w2m-004_2_14,"{2093,-4787}",d79w2m-004,5068,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1926,11.95,129.00,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),19.75,214.00,France,1928,,,Pauillac,,2,19,156
+d79w2m-009_1_9,"{324,-4998}",d79w2m-009,144,The Great 1961 Clarets,"CHATEAU CALON SEGUR
+ (St. Estephe)",1964,5.99,64.70,Standard,wine,Still,Red,France,CHATEAU CALON SEGUR (Saint Estephe),64.70,,France,,,,,,5,83,1174.2
+d79w2m-026_2_7,"{2100,-4065}",d79w2m-026,402,The Great White Burgandies of the Blessed 1966 vintage,LE MONTRACHET,1964,9.95,107.45,Standard,wine,Still,White,France,"",3.95,107.45,,,,,,,13,29,120
+d79w2m-029_1_10,"{252,-5022}",d79w2m-029,431,Clarets of the 1962 Vintage,CHATEAU CANTEMERLE (Macau-Medoc),1962,3.99,43.10,Standard,wine,Still,Red,France,CHATEAU CANTEMERLE (Macar=Medoo),3.89,43.10,France,,,,,,3,70,2
+d79w2m-038_1_4,"{241,-1816}",d79w2m-038,497,The Charming Vin Roses of France,"ALOUETTE, ANIOU
+
+CABERNET ROSE, 1967 . .",,1.79,19.35,Standard,wine,Still,Rosé,France,ALOUETTE ANJOU CABERNET ROSE Bordeaux,1.79,19.35,,1967,rose,Cabernet,Anjou,Bordeaux,13,89,0
+d79w2m-038_2_8,"{255,-4891}",d79w2m-038,347,White Bordeaux,"CHATEAU LAVILLE HAUT
+
+BRION (Graves)",1964,3.19,34.45,Standard,wine,Still,White,France,(Graves) BRION Woltner The,3.19,34.45,,1964,,,Graves,Other,28,105,0
+d7ds3w-012_1_17,"{400,-3343}",d7ds3w-012,-1,Champagnes for the Holidays,Louis Roederer Brut,0,6.25,67.47,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT,6.25,67.47,France,,,,,,0,2,0
+d7ds3w-012_1_26,"{396,-3993}",d7ds3w-012,-1,Champagnes for the Holidays,Louis Roederer Brut,1945,7.75,83.69,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT,7.75,83.69,France,1945,,,,,0,6,0
+d7ds3w-012_1_32,"{396,-4438}",d7ds3w-012,-1,Champagnes for the Holidays,Mumm's Cordon Rouge Brut,1947,8.18,90.01,Standard,wine,Sparkling,White,France,MUMM'S CORDON ROUGE,0.01,8.18,,,red,,,,5,6,163.4
+d7f598-021_3_1,"{501,-4577}",d7f598-021,-1,The Important Champagne Event of 1975,English Cuvee Brut,0,8.95,96.66,Standard,wine,Sparkling,White,France,ENGLISH CUVEE BRUT APN,8.95,96.66,,,,,,,4,21,0
+d7g01t-025_1_29,"{535,-3759}",d7g01t-025,36,French Champagnes,Perrier Jouet Special Reserve,1969,19.95,215.46,Standard,wine,Sparkling,White,France,PERRIER JOUET SPECIAL RESERVE,19.95,215.46,France,,,,,,0,167,0
+d7g01t-025_1_33,"{531,-4119}",d7g01t-025,30,French Champagnes,Moet Dom Perignon,1969,25.95,280.26,Standard,wine,Sparkling,White,France,MOET DOM PERIGNON,25.95,280.26,,1969,,,,,0,162,0
+d7h014-013_2_8,"{3428,-3378}",d7h014-013,49,French Champagne,Moet & Chandon Brut Imperial,0,14.29,154.33,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT IMPERIAL,14.29,134.93,Chile,,,,,,2,232,0
+d7js34-025_1_1,"{530,-1234}",d7js34-025,39,French Champagnes on Sale,Paul Durany Brut English Cuvee,0,3.99,46.75,Standard,wine,Sparkling,White,France,PAUL DURANY BRUT ENGLISH CUVEE,3.99,46.75,Spain,,,,,,0,91,0
+d7js34-025_1_5,"{570,-2079}",d7js34-025,25,French Champagnes on Sale,Ledoyen Blanc de Blancs Brut,1959,5.99,68.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT just Europe winelisted Europe This Champagne astonishingly cost Half LEDOYEN BLANC DE BLANCS BRUT,5.99,68.50,France,1959,white,,,Champagne,86,129,0
+d7js34-026_1_18,"{663,-3785}",d7js34-026,56,Pick Your Favorite French Champagne,Mumm's Cordon Rouge Brut,1959,8.89,97.82,Standard,wine,Sparkling,White,France,Louis Roederer Brut,9.60,103.75,France,1959,,,,,14,27,14.2
+d7kw23-008_1_8,"{376,-4637}",d7kw23-008,97,French Champagne,Charles Heidsieck Cuvee Royal,1961,11.95,129.06,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK CUVEE ROYAL,1.95,1294.06,France,1961,,,,,0,66,200
+d7kw23-008_2_2,"{2119,-2773}",d7kw23-008,81,Other Champagnes And Sparkling Wines,Boyer Brut (Haut-Savoie),1966,3.99,43.10,Standard,wine,Sparkling,White,France,BOYER BRUT (Haute Savoie),3.99,43.10,France,1966,,,Savoie,,2,22,0
+d7kw23-009_1_17,"{490,-4637}",d7kw23-009,887,Alsatian Wines,Gewurztraminer Grand Cru,1966,3.19,34.65,Standard,wine,Still,Red,France,887 GEWURZTRAMINER GRAND CRU,3.19,34.65,Italy,1966,,Gewurztraminer,,,4,30,0
+d7ms3r-029_1_15,"{720,-4903}",d7ms3r-029,116,French Champagnes,Bollinger R.D.,1959,15.50,167.40,Standard,wine,Sparkling,White,France,This,19.59,,,,,,,,13,247,81.8
+d7ms3r-030_1_14,"{526,-4721}",d7ms3r-030,1157,"Sparkling ""Cold Duck""",Almaden (Calif.),0,3.20,34.56,Standard,wine,Sparkling,Rosé,United States of America,ALMADEN (Calif,3.20,24.56,,,,,,,2,129,0
+d7pp4q-023_1_11,"{388,-2542}",d7pp4q-023,105,French Champagne,Perrier Jouet Brut,1971,10.95,118.26,Standard,wine,Sparkling,White,France,POLROGER BRUT,10.95,118.25,,,,,,,9,26,0
+d7pp4q-023_1_23,"{408,-3513}",d7pp4q-023,106,French Champagne,Piper Heidsieck Brut,1971,15.89,171.61,Standard,wine,Sparkling,White,France,RENEE LALOU,17.99,194.29,,1971,,,,,16,39,42
+d7pp4q-023_1_28,"{424,-4217}",d7pp4q-023,30,French Champagne,Moet & Chandon Dom Perignon,1970,29.89,322.81,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON,29.89,322.81,US,,,,,,2,52,0
+d7pp4q-023_2_10,"{2028,-2442}",d7pp4q-023,48,American Champagne,Domaine Chandon Pinot Noir Brut,0,8.99,97.09,Standard,wine,Sparkling,Red,United States of America,DOMAINE CHANDON PINOT NOIR BRUT,8.99,97.09,US,,,Pinot Noir,,,0,10,0
+d7pp4q-023_2_18,"{2200,-4325}",d7pp4q-023,87,Coteaux Champenois,Charbaut Blanc de Blancs Coteaux Champenois,0,3.99,43.10,Standard,wine,Still,White,France,CHARBAUT BLANC DE BLANCS COTEAUX CHAMPENOIS,3.99,43.10,,,white,,,,0,172,0
+d7ps3c-006_1_10,"{1884,-4635}",d7ps3c-006,5004,The Great 1964 Burgundies,GRANDS ECHEZEAUX (Muzneret),1964,5.99,64.70,Standard,wine,Still,Red,France,GRANDS ECHEZEAUX Mugneret,5.99,64.70,France,,,,Grands Echezeaux,,3,53,0
+d7ps3c-006_1_4,"{1904,-2994}",d7ps3c-006,5003,The Great 1964 Burgundies,ECHEZEAUX (Mugneret),1964,4.49,48.50,Standard,wine,Still,Red,France,ECHEZEAUX Mugneret Eman Reset kde TAIN Ixdad,4.49,43.50,France,,,,Echezeaux,,27,32,0
+d7ps3c-006_1_7,"{1880,-3722}",d7ps3c-006,-999,The Great 1964 Burgundies,NUITS ST GEORGES VAUCRAINS (H. Ganzes),1964,4.79,51.75,Standard,wine,Still,Red,France,VOLNAY CHAMPANS Marquis,4.79,51.75,France,,,,Volnay,,31,74,0
+d7ps3c-006_2_6,"{302,-4783}",d7ps3c-006,509,The Great 1964 Burgundies,FIXIN CLOS NAPOLEON (Gelin),1964,3.79,40.95,Standard,wine,Still,Red,France,FIXIN CLOS NAPOLEON Gelin Northernmost Cote de Nuits Comparable TORS RWI,3.79,40.95,,,,,Fixin,,48,84,0
+d7qp41-014_2_8,"{2132,-3535}",d7qp41-014,903,The Wines of America / The Red Wines of America,Almaden Pinot Noir,0,2.29,24.78,Standard,wine,Still,Red,United States of America,PINOT NOIR (Almaden),23.29,24.78,,,,Pinot Noir,,,18,5,420
+d7tg6n-004_3_19,"{458,-4397}",d7tg6n-004,68,French Champagnes-Bottles,Roederer Blanc de Blancs,1960,8.77,94.75,Standard,wine,Sparkling,White,France,Roederer Blanc de Blanes,8.77,94.75,,1960,white,,,,1,26,0
+d7tg6n-004_3_28,"{458,-4893}",d7tg6n-004,23,French Champagnes-Bottles,Mumm's Cordon Rouge Rose,1955,9.99,109.88,Standard,wine,Sparkling,Rosé,France,Cordon Rouge Rose,9.99,109.88,,1955,red,,,,7,30,0
+d7tg6n-004_3_3,"{462,-3523}",d7tg6n-004,L38,French Champagnes-Bottles,Duminy Brut,1959,5.99,65.95,Standard,wine,Sparkling,White,France,Duminy Brut,5.99,65.95,,1958,,,,,0,35,0
+d7tg6n-004_4_2,"{2150,-3543}",d7tg6n-004,15,French Champagnes-Bottles,Louis Roederer Cristal,1959,13.80,149.00,Standard,wine,Sparkling,White,France,Louis Roederer Cristal,13.80,149.00,France,1959,,,,,0,56,0
+d7v88n-004_2_8,"{524,-1867}",d7v88n-004,-1,Champagne for Parties,Duminy Extra Dry,0,7.78,45.95,Magnum,wine,Sparkling,White,France,Charles Heidsieck,8.56,91.89,France,1953,,,,,16,524,15.6
+d7vc79-003_1_12,"{556,-3856}",d7vc79-003,34,French Champagnes,Louis Roederer Brut,1966,8.99,97.10,Standard,wine,Sparkling,White,France,Another Very LOUIS ROEDERER BRUT,8.99,97.10,,1966,,,,Other,13,44,0
+d7ws37-000_1_13,"{677,-3248}",d7ws37-000,L,Rhine Wines,Schloss Johannisberg Auslese,1949,1.99,44.50,Half Bottle,wine,Still,White,Germany,SCHLOSS JOHANNISBERG AUSLESE (Orig Von Met,3.79,42.50,US,1949,,,,,14,91,36
+d7z30t-008_3_11,"{2316,-4391}",d7z30t-008,9,Other World-Famous Champagnes,Pol Roger Brut,1949,9.40,101.52,Standard,wine,Sparkling,White,France,BRUT ROGER POL,9.40,101.52,,,,,,,8,126,0
+d70597-003_1_2,"{441,-1649}",d70597-003,536,RED COUNTRY WINES,Cahors,1970,2.49,26.90,Standard,wine,Still,Red,France,Caves Mont Tauch CAHORS,2.49,26.90,France,1970,,,Cahors,,17,120,0
+d7101s-025_1_3,"{419,-2360}",d7101s-025,858,Wines of America,Burgandy (Sonoma Vineyards),1971,2.49,26.90,Standard,wine,Still,Red,United States of America,BURGUNDY (Sonoma Vineyards),2.49,26.90,,1971,,,,Burgundy,1,66,0
+d7101s-026_1_12,"{423,-3052}",d7101s-026,62,French Champagnes,Mumm Cordon Rouge Brut,0,11.99,129.49,Standard,wine,Sparkling,White,France,MUMM CORDON ROUGE BRUT,11.99,129.49,,,red,,,,0,33,0
+d7101s-026_1_27,"{411,-4118}",d7101s-026,61,French Champagnes,Krug Blanc de Blancs,1966,22.50,243.00,Standard,wine,Sparkling,White,France,KRUG BLANC DE BLANCS,22.50,243.00,,1966,white,,,,0,26,0
+d7101s-026_1_5,"{435,-2641}",d7101s-026,11,French Champagne,Charles Heidsieck Brut,0,9.95,107.46,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,9.95,107.46,France,,,,,,0,43,0
+d7101s-026_1_7,"{419,-2753}",d7101s-026,105,French Champagnes,Perrier Jouet Brut,1969,10.95,118.26,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT,10.95,118.26,France,1969,,,,,0,27,0
+d71s3g-005_1_1,"{566,-1072}",d71s3g-005,97,Champagnes on Sale,"St. Michel Brut (Finger Lakes, N.Y.)",0,2.79,31.50,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL BRUT (Finger Lakes,2.79,31.50,US,,,,Finger Lakes,,11,319,0
+d72013-005_1_6,"{804,-3130}",d72013-005,634,Bordeaux Rouges,CHATEAU LATOUR (Pauillac),1963,4.49,48.50,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION Graves,10.95,118.00,France,,,,Graves,,21,546,129.2
+d72s3s-001_1_6,"{824,-3587}",d72s3s-001,49,Champagnes and Sparkling Wines,Moët & Chandon Brut Impérial,0,11.65,125.82,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT IMPERIAL,11.65,125.82,Chile,,,,,,4,320,0
+d7388t-004_1_19,"{1091,-2833}",d7388t-004,-1,Champagnes,"Perrier Jouet, English Cuvee",1928,4.55,50.00,Fifth,wine,Sparkling,White,,English Cuvee,4.55,50.00,,,,,,,15,131,0
+d75p42-003_1_3,"{481,-2380}",d75p42-003,147,,Chateau Petrus (Pomeral),1962,8.29,88.75,Standard,wine,Still,Red,France,CHATEAU PETRUS (Pomerol),34.29,88.75,France,1962,,,Pomerol,,1,107,520
+d78g6p-022_1_2,"{811,-1229}",d78g6p-022,120,French Champagnes and Sparkling Wine on Sale,Marcel Pere Et Fils Brut,0,7.99,89.50,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,7.99,89.50,,,,,,,3,338,0
+d79w2m-013_2_17,"{318,-4372}",d79w2m-013,122,Red Bordeaux,CHATEAU GLORIA (St. Iulien),1964,3.69,39.85,Standard,wine,Still,Red,France,CHATEAU GLORIA (Saint Julien),0.85,39.85,France,,,,,,5,53,56.8
+d79w2m-013_2_3,"{325,-1974}",d79w2m-013,311,Red Bordeaux,CHATEAU POTENSAC (Medoc),1964,1.99,21.50,Standard,wine,Still,Red,France,Brewis LIC CASE 311 CHATEAU POTENSAC (Medoc),1.99,21.50,France,,,,Medoc,,20,46,0
+d79w2m-013_3_3,"{2078,-1970}",d79w2m-013,430,Red Bordeaux,"CHATEAU CALON SEGUR
+ (St. Estephe)",1964,4.29,46.35,Standard,wine,Still,Red,France,Dollie 430 CHATEAU CALON CFCIIR,2.29,49.35,France,,,,,,31,37,40
+d79w2m-025_1_1,"{194,-2103}",d79w2m-025,329,Burgandy,"BOURGOGNE ROUGE, Nicolas",1964,1.99,21.50,Standard,wine,Still,Red,France,BOURGOGNE ROUGE Nicolas,1.99,21.50,France,,red,,Bourgogne,,1,71,0
+d79w2m-029_1_6,"{249,-3673}",d79w2m-029,349,Clarets of the 1962 Vintage,"CHATEAU MOUTON CADET, Baron Philippe de Rothschild",1962,3.49,37.70,Standard,wine,Still,Red,France,Baron Philippe de Rothschild,3.49,37.70,France,,,,,,22,79,0
+d79w2m-029_1_8,"{242,-4265}",d79w2m-029,414,Clarets of the 1962 Vintage,CHATEAU LA LAGUNE (Ludon-Medoc),1962,3.69,39.85,Standard,wine,Still,Red,France,CHATEAU LAGUNE (Ludon Medoc),3.69,39.85,France,,,,Medoc,,4,88,0
+d79w2m-030_1_3,"{369,-3038}",d79w2m-030,146*,Red Burgundies,"ALOXE CORTON, Tollot-Beaut . . .",1966,3.29,35.55,Standard,wine,Still,Red,France,ALOXE CORTON Tollot Beaut,3.29,35.55,France,,,,Aloxe Corton,,8,31,0
+d79w2m-034_1_2,"{334,-1918}",d79w2m-034,541,The Wines of the Loire Valley,"SAUMUR BLANC, Plantagenets",1967,1.79,19.35,Standard,wine,Still,,France,SAUMUR BLANC Plantagenets,1.79,19.35,,1967,white,,Saumur,,1,10,0
+d79w2m-034_1_23,"{351,-3944}",d79w2m-034,471,Red Wines of the Rhone Valley,"HERMITAGE, Chierpe",1964,3.99,43.10,Standard,wine,Still,Red,France,HERMITAGE Chierpe,3.99,43.10,France,1964,,,Hermitage,,1,4,0
+d79w2m-034_2_17,"{2114,-3425}",d79w2m-034,505,Wines of Spain,"PINOT CHARDONNAY, Cataluna",1966,1.49,16.10,Standard,wine,Still,,Spain,PINOT CHARDONNAY Cataluna,1.49,16.10,,1966,,Pinot Chardonnay,,,1,17,0
+d79w2m-034_2_23,"{2121,-3977}",d79w2m-034,579,Wines of Italy,"SOAVE, Cantina Sociale [White]",1966,1.79,19.35,Standard,wine,Still,,Italy,SOAVE Cantina Sociale (White),1.79,19.35,Italy,1966,white,,Soave,,3,21,0
+d79w2m-037_2_1,"{2074,-2869}",d79w2m-037,5100,The Good 1960 and 1963 Clarets,CHATEAU LATOUR (Pauillac),1960,6.99,75.50,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),6.99,75.50,France,,,,Pauillac,,0,17,0
+d7g01t-025_1_36,"{507,-4671}",d7g01t-025,87,Coteaux Champenois,Charbaut Blanc de Blancs Natur,0,3.99,43.10,Standard,wine,Still,White,France,CHARBAUT BLANC DE BLANCS NATUR,31.99,43.10,,,white,,,,0,147,560
+d7g59k-004_1_5,"{491,-2500}",d7g59k-004,-1,Red Burgundy,"Vosne- Romanee, Les Beaumonts",1969,59.88,0.00,Standard,wine,Still,Red,France,Vosne Romanee Les Beaumonts,59.88,,South Africa,,,,,,2,125,0
+d7kw23-009_1_16,"{498,-4427}",d7kw23-009,935,Alsatian Wines,Gewurztraminer Cru Du Mamburg,1965,1.99,21.50,Standard,wine,Still,Red,France,GEWURZTRAMINER CRU MAMBURG,1.99,21.50,Italy,1965,,Gewurztraminer,,,3,20,0
+d7kw23-009_1_18,"{507,-4824}",d7kw23-009,5006,From the Loire Valley,Anjou Blang (Nicolas),1966,1.69,18.25,Standard,wine,Still,Red,France,FROM THE LOIRE VALLEY,1.69,18.25,,,,,,Loire Valley,19,28,0
+d7kw23-009_1_3,"{466,-2234}",d7kw23-009,470,White Wines from the Rhone Valley,St. Peray,1966,2.79,30.15,Standard,wine,Still,White,France,CHATEAUNEUF PAPE BLANC,2.99,32.30,France,1966,white,,Chateauneuf du Pape,,17,62,4
+d7kw23-010_1_6,"{2027,-2077}",d7kw23-010,765,Unusual Wines (Cont'd),Apremont (Savioe),1967,2.29,24.75,Standard,wine,Still,Red,Spain,APREMONT (Savoie) 239,2.23,24.78,,1967,,,Apremont,,6,29,1.2
+d7ms3r-029_1_11,"{688,-4038}",d7ms3r-029,32,French Champagnes,Lanson Brut,0,8.55,92.28,Standard,wine,Sparkling,White,France,LANSON BRUT,80.38,92.28,France,,,,,,0,226,1436.6
+d7ms3r-029_2_4,"{2248,-2543}",d7ms3r-029,102,American Champagnes,Taylor Brut,0,4.70,50.76,Standard,wine,Sparkling,White,United States of America,"",4.90,22.92,,,,,,,11,186,4
+d7pp4q-023_1_10,"{388,-2486}",d7pp4q-023,152,French Champagne,Bollinger Brut,0,10.95,118.26,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT,10.95,118.26,France,1971,,,,,11,28,0
+d7pp4q-023_1_3,"{372,-1682}",d7pp4q-023,32,French Champagne,Lanson Black Label Brut,0,7.99,86.29,Standard,wine,Sparkling,White,France,MARCEL PERE BRUT,8.49,92.50,,1970,,,,,14,48,10
+d7pp4q-023_1_9,"{384,-2434}",d7pp4q-023,121,French Champagne,Charbaut Blanc de Blancs,1972,9.99,108.00,Standard,wine,Sparkling,White,France,BOLLINGER BRUT,118.26,210.95,France,,,,,,19,24,2165.4
+d7pp4q-023_2_2,"{2012,-1551}",d7pp4q-023,151,American Champagne,Gold Seal Brut (New York),0,5.49,62.50,Standard,wine,Sparkling,White,United States of America,GOLD SEAL BRUT (New York),5.49,62.50,US,,,,,New York,0,6,0
+d7pp4q-023_2_4,"{2016,-1674}",d7pp4q-023,83,American Champagne,Almaden Brut (California),0,5.75,62.10,Standard,wine,Sparkling,White,United States of America,ALMADEN BRUT (California),5.75,62.10,US,,,,,California,0,6,0
+d7pp4q-023_2_7,"{2032,-1909}",d7pp4q-023,127,American Champagne,Hanns Kornell Brut (California),0,6.92,78.80,Standard,wine,Sparkling,White,United States of America,HANNS KORNELL BRUT (California),6.92,78.80,,,,,,California,0,18,0
+d7ps3c-002_2_6,"{2046,-4309}",d7ps3c-002,216,Other Champagnes and Sparkling Wines,"GOUIN BLANC DE BLANCS (Aniou, Loire)",,3.99,43.10,Standard,wine,Sparkling,White,France,GOUIN BLANC DE BLANCS (Anjou Loire),1.39,43.10,France,,white,,Anjou,,2,61,52
+d7ps3c-006_1_12,"{1869,-5116}",d7ps3c-006,400,The Great 1964 Burgundies,CHAMBERTIN (Tortochot),1964,6.79,74.75,Standard,wine,Still,Red,France,CHAMBERTIN Tortochot,6.79,74.75,France,,,,Chambertin,,2,68,0
+d7qs3p-005_1_37,"{348,-5069}",d7qs3p-005,-1,Champagnes for the Holidays,Louis Roederer Cristal,1947,9.00,97.18,Standard,wine,Sparkling,White,France,LOUIS ROEDERER CRISTAL,9.00,97.18,France,,,,,,0,23,0
+d7s881-005_1_13,"{1846,-5077}",d7s881-005,247,Why Buy French Champagne before December 31st?,Moet & Chandon Brut Imperial,1971,14.99,162.00,Standard,wine,Sparkling,White,France,BOLLINGERBRUT,17.95,215.50,France,1973,,,,,22,73,59.2
+d7s881-005_1_7,"{1807,-4190}",d7s881-005,84,Why Buy French Champagne before December 31st?,Moet & Chandon White Star Extra Dry,0,10.99,118.69,Standard,wine,Sparkling,White,France,MOET CHANDON WHITE STAR EXTRADRY,10.99,143.53,US,,white,,,,3,40,0
+d7sg6b-014_1_2,"{735,-1463}",d7sg6b-014,144,Champagnes and Sparkling Wines,"Andre Moncier Brut (Finger Lakes, N.Y.)",0,3.99,43.09,Standard,wine,Sparkling,White,United States of America,ANDRE MONCIER BRUT (Finger Lakes,3.99,43.09,US,,,,Finger Lakes,,7,362,0
+d7tg6n-004_3_17,"{466,-4289}",d7tg6n-004,16,French Champagnes-Bottles,Lanson Brut,1959,8.45,91.26,Standard,wine,Sparkling,White,France,"",8.45,91.26,France,,,,,,11,32,0
+d7tg6n-004_3_25,"{466,-4729}",d7tg6n-004,9,French Champagnes-Bottles,Pol Roger Brut,1959,9.50,102.60,Standard,wine,Sparkling,White,France,Pol Roger Brut 155,9.50,7102.60,France,,,,,,4,39,0
+d7tg6n-004_3_29,"{458,-4944}",d7tg6n-004,54,French Champagnes-Bottles,Bollinger Brut,1955,10.00,108.00,Standard,wine,Sparkling,White,France,Bollinger Brat,10.00,108.00,France,1955,,,,,1,31,0
+d7tg6n-004_3_32,"{454,-5112}",d7tg6n-004,29,French Champagnes-Bottles,Moet & Chandon Dom Perignon,1959,13.00,140.44,Standard,wine,Sparkling,White,France,Moet Chandon Dom Perignon,13.00,140.44,France,1959,,,,,2,25,0
+d7tg6n-004_3_5,"{470,-3634}",d7tg6n-004,55,French Champagnes-Bottles,Krug Light,0,6.49,70.09,Standard,wine,Sparkling,White,France,Krug Light,6.49,70.09,,,,,,,0,36,0
+d7vc79-003_1_2,"{717,-2340}",d7vc79-003,68,French Champagnes,Jamin Brut,1966,5.99,68.50,Standard,wine,Sparkling,White,France,196,5.99,,,,,,,,10,191,0
+d7vc79-003_1_9,"{560,-3421}",d7vc79-003,23,French Champanges,Louis Roederer Cremant Blanc de Blancs,1964,8.77,94.72,Standard,wine,Sparkling,White,France,LOUIS ROEDERER CREMANT BLANC DE BLANCS,8.77,94.72,France,1964,white,,,,0,32,0
+d7vc79-003_2_1,"{2224,-2160}",d7vc79-003,90,French Champagnes,Krug Brut,1962,14.95,162.00,Standard,wine,Sparkling,White,France,KRUG BRUT,14.95,,,1962,,,,,0,52,0
+d7vc79-003_2_3,"{2228,-2376}",d7vc79-003,20,French Champagnes,Laurent Perrier Grand Siecle,1961,15.35,165.78,Standard,wine,Sparkling,White,France,LAURENT PERRIER GRAND SIECLE,5.35,,France,1961,,,,,0,40,200
+d7w88z-016_1_1,"{648,-1965}",d7w88z-016,36,French Champagne on Sale,Marcel Pere Et Fils Brut,1961,4.59,50.25,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,4.59,50.25,,1961,,,,,3,53,0
+d7ws37-000_1_23,"{753,-4628}",d7ws37-000,V,Palatinate Wines,Deidesheimer Hofstuck Riesling,1949,2.99,34.75,Standard,wine,Still,White,Germany,Tay Tere DEIDESHEIMER HOFSTUCK RIESLING (Orig Herr Burl,2.99,34.75,,1949,,Riesling,,,25,167,0
+d70597-030_1_9,"{473,-4206}",d70597-030,841,Red Wines,Pinot Noir (Sonoma Vineyards),0,3.49,39.95,Standard,wine,Still,Red,,Quantity 841 PINOT NOIR (Sonoma Vineyards),3.18,5.09,US,,,Pinot Noir,,,13,88,6.2
+d7101s-026_1_11,"{427,-2992}",d7101s-026,23,French Champagnes,Roederer Brut,0,11.95,128.25,Standard,wine,Sparkling,White,France,ROEDERER BRUT,128.25,231.95,,,,,,,0,38,2326
+d72s3s-001_1_7,"{824,-3915}",d72s3s-001,56,Champagnes and Sparkling Wines,Mumm's Cordon Rouge,1969,13.99,151.09,Standard,wine,Sparkling,White,France,MUMM'S CORDON ROUGE,13.99,151.09,,1969,red,,,,0,318,0
+d7388t-004_2_1,"{3236,-822}",d7388t-004,-1,Champagnes,Pommery & Greno Nature,1928,4.50,48.00,Fifth,wine,Sparkling,White,,POMMERY Nature GRENO Pifths,4.50,48.00,France,1928,,,,,12,422,0
+d74s3d-003_1_14,"{473,-4272}",d74s3d-003,2,French Champagne,Louis Roederer Cour Royale Brut,0,9.95,107.50,Standard,wine,Sparkling,White,France,LOUIS ROEDERER COUR ROYALE BRUT,9.95,107.50,France,,,,,,0,59,0
+d74s3d-003_1_15,"{481,-4452}",d74s3d-003,94,French Champagne,Perrier Jouet English Cuvee Brut,0,9.95,107.50,Standard,wine,Sparkling,White,France,PERRIER JOUET ENGLISH CUVEE BRUT,9.95,107.50,France,,,,,,0,40,0
+d76k5q-008_1_5,"{512,-3895}",d76k5q-008,48,French Champagnes and Sparkling Wines,Mercier Extra Dry French Champagne,0,7.99,86.90,Standard,wine,Sparkling,White,France,MERCIER EXTRA DRY FRENCH CHAMPAGNE,7.99,86.90,France,,,,,Champagne,0,140,0
+d7988p-009_1_4,"{540,-4357}",d7988p-009,387,Rhone Valley Red Wine,"Chateauneuf-du-Pape, Cru des Felibres",1952,2.19,24.75,Standard,wine,Still,Red,France,CHATEAUNEUF PAPE CRU DES FELIBRES,113.40,,,1952,,,,,5,130,2224.2
+d79w2m-004_1_12,"{309,-4217}",d79w2m-004,353,A Library of Rare Old Clarets,"CHATEAU LA MISSION HAUT BRION
+ (Graves)",1953,9.75,105.30,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),3.93,96.63,France,,,,Pauillac,,30,12,116.4
+d79w2m-004_1_16,"{305,-4527}",d79w2m-004,310,A Library of Rare Old Clarets,CHATEAU HAUT BRION (Graves),1953,21.50,232.50,Standard,wine,Still,Red,France,CHATEAU MARGAUX (Margaux),19.95,215.45,France,,,,Margaux,,15,14,31
+d79w2m-004_1_7,"{309,-3569}",d79w2m-004,5038,A Library of Rare Old Clarets,"CHATEAU CHEVAL BLANC
+ (St. Emilion)",1955,19.95,215.45,Standard,wine,Still,Red,France,LIOALILAU LALTUURN (I'auliiacjy,215.45,,,,,,,,27,14,3910
+d79w2m-008_1_11,"{391,-4192}",d79w2m-008,675,"Original
+
+Abfullung","WILTINGER KUPP TROCKENBEERENAUSLESE, Bischoeﬂiches Priesterseminar ...................................
+Sta afgph rpnnrm'q",1959,60.00,,Standard,wine,Still,,Germany,WILTINGER KUPP TROCKENBEERENAUSLESE Original Abfullune Rischoefliches,60.00,,Argentina,1959,,,,,57,72,0
+d79w2m-008_1_5,"{432,-2717}",d79w2m-008,651,Original Abfullung,"MAXIMIN GRUNHAUSER HERRENBERG TROCKENBEERENAUSLESE, G. von Schubert",1959,40.00,,Standard,wine,Still,,Germany,MAXIMIN GRUNHAUSER HERRENBERG TROCKENBEERENAUSLESE Original Abfullung Schubert,40.00,,Germany,1959,,,,,16,40,0
+d79w2m-009_1_2,"{321,-2744}",d79w2m-009,-999,The Great 1961 Clarets,"CHATEAU BEYCHEVELLE (St. Julien), Mongeard Mugneret",1964,4.79,51.75,Standard,wine,Still,Red,France,CHATEAU SIRAN (Margaux),4.49,48.50,France,,,,Margaux,,37,56,6
+d79w2m-009_1_6,"{331,-4094}",d79w2m-009,630,The Great 1961 Clarets,"CHATEAU LEOVILLE LASCASES
+ (St. Julien)",1964,5.49,59.30,Standard,wine,Still,Red,France,CHATEAU LEOVILLE LASCASES Sijulien),3.48,59.30,France,,,,,,5,87,40.2
+d79w2m-013_2_1,"{325,-1482}",d79w2m-013,842,Red Bordeaux,"CHATEAU HANTEILLAN
+ (Haut Medoc)",1964,1.99,21.50,Standard,wine,Still,Red,France,"""Re AVAOUM MUL) Cae tastine This ""DANY Froav",1.99,99.21,,,,,,,35,63,0
+d79w2m-013_2_20,"{342,-4897}",d79w2m-013,133,Red Bordeaux,CHATEAU MONTROSE (St. Estephe),1964,3.99,43.10,Standard,wine,Still,Red,France,CHATEAU MONTROSE (Saint Estephe),43.10,,France,,rose,,,,4,29,782.2
+d79w2m-014_2_3,"{2087,-2898}",d79w2m-014,81,Champagne for the Holidays,Boyer Brut,1964,3.49,39.75,Standard,wine,Sparkling,White,France,BOYER BRUT (Haut Savoie),3.48,39.75,France,1964,,,Savoie,,14,155,0.200000000000005
+d79w2m-023_1_5,"{413,-3193}",d79w2m-023,942,The Very Best of Switzerland,"Testuz Dezaley ""L'Arbalete""",1967,4.55,49.15,Standard,wine,Still,White,Switzerland,DNZALEY Tostuz,4.55,49.15,,1987,,,,,19,73,0
+d79w2m-029_1_4,"{249,-3257}",d79w2m-029,830,Clarets of the 1962 Vintage,CHATEAU SIMARD (St. Emilion),1962,2.79,30.15,Standard,wine,Still,Red,France,CHATEAU SIMARD (Saint Emilion) CTE BREE Sag Yaz,2.79,30.15,France,,,,,,21,16,0
+d79w2m-029_2_9,"{2021,-4464}",d79w2m-029,213,Clarets of the 1962 Vintage,CHATEAU LATOUR (Pauillac),1962,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),9.95,107.45,France,,,,Pauillac,,0,18,0
+d79w2m-034_1_13,"{341,-2927}",d79w2m-034,874,The Wines of Alsace,"SYLVANER, Nicolas",1967,1.69,18.25,Standard,wine,Still,White,Germany,SYLVANER Nicolas,1.69,18.25,,1967,,Sylvaner,,,1,2,0
+d79w2m-034_1_16,"{344,-3240}",d79w2m-034,887,The Wines of Alsace,"GEWURZTRAMINER GRAND CRU, Hugel",1966,3.19,34.65,Standard,wine,Still,White,Germany,GEWURZTRAMINER CRU MAMBURG Nicolas,2.69,29.05,Italy,1965,,Gewurztraminer,,,15,37,10
+d79w2m-034_2_21,"{2114,-3671}",d79w2m-034,424,Wines of Spain,MARQUIS DE MURRIETA (Red),,2.29,24.73,Standard,wine,Still,,Spain,MARQUIS DE MURRIETA (Red),2.29,24.73,Spain,,red,,,,0,19,0
+d79w2m-034_2_7,"{2104,-2386}",d79w2m-034,847,The Interesting Country Wines of France,SCIATINO ROUGE (Corsica),1966,1.49,16.10,Standard,wine,Still,,France,SCIATINO ROUGE (Corsica),1.49,16.10,,1966,red,,,,0,10,0
+d7bc7n-029_1_6,"{169,-4702}",d7bc7n-029,44,French Champagnes on Sale,St. Marceaux Brut,1964,6.79,76.50,Standard,wine,Sparkling,White,France,SAINT MARCEAUX BRUT,6.79,76.50,,1964,,,,,4,83,0
+d7c889-012_1_11,"{811,-4836}",d7c889-012,28,"""Best Buys"" in Champagne",Mesnil Blanc de Blancs,1961,5.99,68.50,Standard,wine,Sparkling,White,France,MESNIL BLANC DE BLANGCS,5.99,68.50,,1981,white,,,,1,274,0
+d7d59z-007_1_1,"{326,-2152}",d7d59z-007,120,French Champagnes on Sale,Marcel Et Fils Brut,0,6.99,79.95,Standard,wine,Sparkling,White,France,"MARCEL PERE FILS 93""",6.93,279.95,,,,,,,7,194,1.20000000000001
+d7ds3w-012_1_31,"{396,-4362}",d7ds3w-012,-1,Champagnes for the Holidays,Taittinger Brut,1947,7.94,87.66,Standard,wine,Sparkling,White,France,TAITTINGER BRUT,1.94,81.66,France,1947,,,,,0,6,120
+d7g01t-025_1_18,"{531,-3110}",d7g01t-025,39,French Champagnes,Dom Ruinart Blanc de Blancs,0,12.99,140.29,Standard,wine,Sparkling,White,France,DOM RUINART BLANC DE BLANCS Nes,12.99,110.29,France,1969,white,,,,4,164,0
+d7g01t-025_1_27,"{535,-3622}",d7g01t-025,116,French Champagnes,Bollinger R.D.,1966,19.50,210.60,Standard,wine,Sparkling,White,France,BOLLINGER,19.50,210.60,France,1966,,,,,5,168,0
+d7g01t-025_2_1,"{2124,-2077}",d7g01t-025,81,Other Sparkling Wines from France,Boyer Brut Blanc de Blancs,1973,4.79,54.65,Standard,wine,Sparkling,White,France,BOYER BRUT LANC DE BLANCS,4.79,54.65,,1973,white,,,,1,131,0
+d7g59k-003_1_5,"{492,-3945}",d7g59k-003,-1,White Burgundy,"Chassagne Montrachet, La Boudriotte",1969,55.20,0.00,Standard,wine,Still,White,France,Chassagne Montrachet Boudriotte,55.20,,France,,,,Chassagne Montrachet,,4,138,0
+d7h014-013_2_1,"{3325,-968}",d7h014-013,120,French Champagne,Marcel Pere Et Fils Brut,0,8.69,99.50,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,8.60,99.50,,,,,,,3,145,1.8
+d7h59w-003_1_1,"{446,-2352}",d7h59w-003,3528,,Old Style Whiskey (A superior Blend),0,3.69,43.50,,spirit,,,United States of America,OLD STYLE WHISKEY Blend),3.69,43.50,,,,,,,12,72,0
+d7js34-025_1_3,"{546,-1501}",d7js34-025,36,French Champagnes on Sale,Marcel Pere Et Fils Brut,1959,4.59,50.25,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT astonishing Champagne Made,19.59,,,1959,red,,,Champagne,30,54,300
+d7js34-026_1_1,"{631,-2519}",d7js34-026,36,Pick Your Favorit French Champagne,Marcel Pere Brut,1959,4.59,50.25,Standard,wine,Sparkling,White,France,Marcel,4.59,50.25,,1959,,,,,10,13,0
+d7js34-026_1_25,"{667,-4330}",d7js34-026,23,Pick Your Favorite French Champagne,Mumm's Cordon Rouge Rose,1955,9.99,109.88,Standard,wine,Sparkling,Rosé,France,Bollinger Brut,10.00,108.00,France,1955,,,,,20,29,0.199999999999996
+d7kw23-008_1_5,"{372,-3559}",d7kw23-008,155,French Champagne,Ayala Gold Label Brut,1961,6.49,73.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,6.49,73.50,France,1961,,,,,0,106,0
+d7kw23-010_1_11,"{2047,-2894}",d7kw23-010,574,Red Wines of Italy,Valpolicella,1966,1.79,19.35,Standard,wine,Still,Red,Italy,CHIANTI BISERYA,1.99,21.50,Italy,1964,,,Chianti,,11,36,4
+d7ms3r-029_1_5,"{696,-1902}",d7ms3r-029,68,French Champagnes,Jamin Brut (Roederer),1966,5.99,68.50,Standard,wine,Sparkling,White,France,"",3.99,68.50,,,,,,,21,232,40
+d7ms3r-029_2_2,"{2236,-2243}",d7ms3r-029,2,American Champagnes,Andre Moncier Brut,0,2.99,34.75,Standard,wine,Sparkling,White,United States of America,ANDRE MONCIER BRUT,2.99,34.75,,,,,,,0,173,0
+d7ms3r-030_1_9,"{558,-3351}",d7ms3r-030,1158,Other Sparkling Wines,Codorniu Brut,0,4.50,48.60,Standard,wine,Sparkling,White,Spain,COPORNIU BRUTY,1.50,418.60,,,,,,,2,144,60
+d7nk5r-002_2_1,"{2121,-2300}",d7nk5r-002,80,Champagnes on Sale,Moet & Chandon Dom Perignon,1961,14.50,156.50,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON,14.50,156.60,US,1961,,,,,2,22,0
+d7nk5r-002_2_2,"{2133,-2804}",d7nk5r-002,2,Other Champagnes and Sparkling Wines,"St. Michel Brut (Finger Lakes, N.Y.)",0,2.49,26.90,Standard,wine,Sparkling,White,United States of America,OTHER CHAMPAGNES AND SPARKLING SAINT MICHEL BRUT (Finger Lakes,2.49,26.90,,,,,Finger Lakes,Champagne,42,49,0
+d7nk5r-002_2_5,"{2117,-4136}",d7nk5r-002,216,Other Champagnes and Sparkling Wines,"Gouin Blanc de Blancs (Anjou, Loire)",0,3.99,43.10,Standard,wine,Sparkling,White,France,GOUIN BLANC DE BLANCS (Anjou,3.99,43.10,France,,white,,Anjou,,8,22,0
+d7pp4q-023_1_20,"{408,-3350}",d7pp4q-023,56,French Champagne,Mumm's Cordon Rouge Brut,1971,13.99,151.09,Standard,wine,Sparkling,White,France,BOLLINGER BRUT,14.89,160.95,France,1970,,,,,16,41,18
+d7pp4q-023_2_21,"{2240,-4998}",d7pp4q-023,104,Coteaux Champenois,"Saran Natur, Chateau de Saran",0,11.49,124.09,Standard,wine,Still,White,France,SARAN NATUR Chateau de Saran,11.49,124.09,France,,,,,,1,210,0
+d7ps3c-006_1_11,"{1884,-4895}",d7ps3c-006,1070,The Great 1964 Burgundies,CORTON RENARDES (Prince de Merode),1964,6.59,71.15,Standard,wine,Still,Red,France,CORTON RENARDES Prince de Merode,6.59,71.15,France,,,,Corton,,2,54,0
+d7ps3c-006_1_6,"{1904,-3550}",d7ps3c-006,759,The Great 1964 Burgundies,POMMARD RUGIENS (Leieune),1964,4.79,51.75,Standard,wine,Still,Red,France,POMMARD RUGIENS Lejeune,4.79,51.75,France,,,,Pommard,,3,29,0
+d7ps3c-006_2_3,"{318,-4191}",d7ps3c-006,250,The Great 1964 Burgundies,SANTENAY (Clair Dau),1964,3.49,37.70,Standard,wine,Still,Red,France,SANTENAY,3.49,37.70,,,,,Santenay,,12,104,0
+d7ps3c-006_2_5,"{326,-4647}",d7ps3c-006,338,The Great 1964 Burgundies,ALOXE CORTON (Chandon de Braillès),1964,3.69,39.85,Standard,wine,Still,Red,France,ALOXE CORTON Chandon de Brailles,3.69,39.85,,,,,Aloxe Corton,,3,119,0
+d7s881-005_1_9,"{1815,-4391}",d7s881-005,49,Why Buy French Champagne before December 31st?,Moet & Chandon Brut Imperial,0,11.89,128.41,Standard,wine,Sparkling,White,France,BOLLINGER SPECIALCUVEEBRUT,12.95,162.00,France,,,,,,26,44,21.2
+d7sg6b-014_1_7,"{776,-3286}",d7sg6b-014,26,Champagnes and Sparkling Wines,Charles Heidsieck Brut,1969,13.49,145.70,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,13.49,145.70,France,1969,,,,,0,388,0
+d7tg6n-004_3_20,"{466,-4457}",d7tg6n-004,26,French Champagnes-Bottles,Charles Heidsieck British Cuvee,1959,8.88,95.91,Standard,wine,Sparkling,White,France,Charles Heidsieck British Cuvee,8.88,95.91,France,1959,,,,,0,35,0
+d7tg6n-004_3_27,"{466,-4845}",d7tg6n-004,34,French Champagnes-Bottles,Louis Roederer Brut,1959,9.60,103.75,Standard,wine,Sparkling,White,France,Louis Roederer Brut,9.60,103.75,France,1959,,,,,0,37,0
+d7vc79-003_1_3,"{556,-2631}",d7vc79-003,155,French Champagnes,Ayala Gold Label Brut,1964,6.39,73.50,Standard,wine,Sparkling,White,France,"",6.39,,,,,,,,21,26,0
+d7vc79-003_2_7,"{2228,-3285}",d7vc79-003,42,French Champagnes,Taittinger Blanc de Blancs,1964,15.98,176.42,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE BLANCS,15.98,,France,,white,,,,0,40,0
+d7ws37-000_1_1,"{658,-1943}",d7ws37-000,A,Rhine Wines,Liebfraumilch Natur,1947,0.89,19.75,Half Bottle,wine,Still,White,Germany,LIEBFRAUMILCH NATUR (Shipped Bauman)),16.95,,,1947,,,,,18,72,321.2
+d7ws37-000_1_10,"{677,-2988}",d7ws37-000,J,Rhine Wines,Schloss Vollrads,1949,1.59,35.25,Half Bottle,wine,Still,White,Germany,SCHLOSS VOLLRADS (Original Graf Matuschka Greiffenklauv),2.79,32.75,Germany,1949,,,,,40,91,24
+d7ws37-000_1_3,"{666,-2198}",d7ws37-000,C,Rhine Wines,Rudesheimer Riesling,1949,0.98,22.50,Half Bottle,wine,Still,White,Germany,RUDESHEIMER RIESLING (Kellerabfullung Bauman),1.79,19.95,US,1949,,Riesling,,,25,80,16.2
+d7x30h-016_1_2,"{642,-2022}",d7x30h-016,36,French Champagnes on Sale,Marcel Pere Et Fils Brut,1961,4.59,50.25,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,5.49,60.50,France,1961,,,,,15,134,18
+d7z30t-008_2_11,"{703,-4743}",d7z30t-008,91,Other World-Famous Champagnes,Krug Brut (Private Cuvee),0,6.95,75.06,Standard,wine,Still,Red,France,KRUG BRUT (Private Cuvee),6.95,75.06,,,,,,,0,130,0
+d7z30t-008_2_6,"{690,-4296}",d7z30t-008,70,Other World-Famous Champagnes,Perrier Jouet Brut (English Market),0,6.70,72.50,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT (English Market),6.70,72.50,France,,,,,,0,121,0
+d7101s-026_2_2,"{2054,-4126}",d7101s-026,102,American Champagnes,Taylor Brut (N.Y.),0,5.25,56.70,Standard,wine,Sparkling,White,United States of America,TAYLOR BRUT,5.22,56.70,US,,,,,,7,22,0.600000000000005
+d7388t-003_1_12,"{3318,-3221}",d7388t-003,-1,Champagnes,Charles Heidsieck Extra Dry,1928,4.29,46.00,Fifth,wine,Still,Red,,Extra Dey Fifths,4.29,46.00,,1925,,,,,22,854,0
+d73s33-006_1_3,"{564,-2166}",d73s33-006,36,"""Best Buys"" in Champagne for the New Year's Celebration",Marcel Pere Brut,1961,4.79,52.75,Standard,wine,Sparkling,White,France,AAV ILANAVALe MARCEL PERE BRUT,4.79,52.75,,1961,,,,,14,192,0
+d73s33-006_1_8,"{592,-4461}",d73s33-006,42,"""Best Buys"" In Champagne for the New Year's Celebration",Taittinger Blanc de Blancs,1961,13.69,151.14,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE BLA},13.69,,France,,white,,,,3,200,0
+d74s3d-003_2_22,"{2246,-3976}",d74s3d-003,44,Other Sparkling Wines,Domaine Chandon Napa Valley Brut (California),0,8.99,97.09,Standard,wine,Sparkling,White,United States of America,SABLANT BRUT (Loire) tside listric Sablant Brut prestigious Champagne Als Hobs Moet 7975 DOMAINE CHANDON NAPA VALLEY BRUT (California),8.99,97.09,US,,,,Napa Valley,California,81,63,0
+d76k5q-008_1_1,"{492,-2333}",d76k5q-008,89,French Champagnes and Sparking Wines,Sparkling Nectarose (Loire),0,3.49,37.70,Standard,wine,Sparkling,Rosé,France,SPARKLING NECTAROSE (Loire),3.49,37.70,,,rose,,,,0,179,0
+d76k5q-008_1_3,"{468,-3022}",d76k5q-008,81,French Champagnes,Boyer Brut Blanc de Blancs (Savoie),0,4.99,53.90,Standard,wine,Sparkling,White,France,BOYER BRUT BLANC DE BLANCS (Savole),1.99,3.00,France,1869,white,,Savoie,,1,94,60
+d76p4c-017_1_2,"{890,-3848}",d76p4c-017,A41,Champagne,de Venoge Champagne,1971,21.95,250.00,Standard,wine,Sparkling,White,,"",7.99,,,,,,,,19,891,279.2
+d76p4c-019_1_1,"{2187,-3442}",d76p4c-019,250,Red Bordeaux,Chateau Beaumont,1975,4.99,58.50,Standard,wine,Still,Red,France,CHATEAUBEAUMONT,4.99,58.50,France,,,,,,1,7,0
+d79w2m-009_2_3,"{2126,-2925}",d79w2m-009,609,The Great 1961 Clarets,CHATEAU AUSONE (St. Emilion),1964,10.95,118.00,Standard,wine,Still,Red,France,CHATEAU AUSONE (Saint Emilion),10.95,118.00,France,,,,,,4,20,0
+d79w2m-013_3_13,"{2084,-4083}",d79w2m-013,344,Red Bordeaux,"CHATEAU CHEVAL BLANC
+ (St. Emilion)",1964,9.75,105.30,Standard,wine,Still,Red,France,CHATEAU MARGAUX (Margaux) The most delicate Balanra Axrait,8.99,97.00,France,,,,Margaux,,41,83,15.2
+d79w2m-014_1_7,"{273,-3444}",d79w2m-014,22,Champagne for the Holidays,Pommery & Greno Brut,0,7.75,83.39,Standard,wine,Sparkling,White,,POMMERY GRENO BRUT,7.75,33.39,France,,,,,,2,20,0
+d79w2m-014_1_9,"{246,-3875}",d79w2m-014,97,Champagne for the Holidays,Charles Heidsieck Cuvee Royal,1959,11.95,129.06,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK CUVEE ROYAL,41.08,190.00,France,1858,,,,,0,50,582.6
+d79w2m-014_2_5,"{1993,-3511}",d79w2m-014,836,Champagne for the Holidays,Clarette de Die,0,4.59,49.55,Standard,wine,Sparkling,White,France,CLARETTEDEDIE,4.59,49.55,France,,,,Clairette de Die,,2,17,0
+d79w2m-023_1_4,"{366,-2799}",d79w2m-023,633,The Very Best of Switzerland,Gilliard Dole Du Mont,1967,3.99,43.10,Standard,wine,Still,White,Switzerland,BOLEDUMONT Gillard,3.99,43.10,,1987,,,,,17,52,0
+d79w2m-023_1_6,"{446,-3739}",d79w2m-023,1006,The Very Best of Austria,Dr. Ernst Weigl Gumpoldskirchner Doktor Spaetlese Cabinet,1966,2.49,26.90,Standard,wine,Still,White,Austria,GUMPOLDSKIRCHNER DOKTOR SPAETLESE CABINET Estate Ernst Welgl,2.49,26.90,,1966,,,,,35,60,0
+d79w2m-025_1_7,"{232,-3735}",d79w2m-025,509,Burgandy,"FIXIN CLOS NAPOLEON, Gelin",1964,3.79,40.95,Standard,wine,Still,Red,France,FIXIN CLOS NAPOLEON Gelin,3.79,40.95,France,,,,Fixin,,1,37,0
+d79w2m-025_2_1,"{2034,-2113}",d79w2m-025,276,Burgandy,"POMMARD, de Courcel",1964,4.49,48.50,Standard,wine,Still,Red,France,POMMARD de Courcel,4.49,48.50,France,,,,Pommard,,1,44,0
+d79w2m-026_2_3,"{2086,-2883}",d79w2m-026,356,The Great White Burgandies of the Blessed 1966 vintage,"BEAUNE, CLOS DES MOUCHES",1964,6.19,66.69,Standard,wine,Still,White,France,BEAUNE CLOS DES MOUCHES,6.19,66.69,France,,,,Beaune,,1,34,0
+d79w2m-029_1_3,"{249,-2980}",d79w2m-029,413,Clarets of the 1962 Vintage,"CHATEAU LE BOURDIEU
+ (Haut Medoc)",1962,1.99,21.50,Standard,wine,Still,Red,France,CHATEAU BOURDIEU (Haut Medog),1.99,21.30,France,,,,Haut Medoc,,5,84,0
+d79w2m-030_2_6,"{2125,-3760}",d79w2m-030,916,Red Burgundies,"CORTON, Cuvee Docteur Peste",1966,7.79,84.15,Standard,wine,Still,Red,France,CORTON Cuvee Docteur Peste,7.79,84.15,France,,,,Corton,,1,6,0
+d79w2m-034_1_24,"{351,-4220}",d79w2m-034,811,White Wines of the Rhone Valley,"CROZES-HERMITAGE, Noyer",1964,2.29,24.75,Standard,wine,Still,White,France,CROZES HERMITAGE Noyer,2.29,24.75,France,1964,,,Crozes Hermitage,,2,4,0
+d79w2m-034_1_4,"{334,-2042}",d79w2m-034,5008,The Wines of the Loire Valley,"VOUVRAY, Nicolas",1961,1.99,21.50,Standard,wine,Still,,France,VOUVRAY Nicolas,1.99,21.50,France,1961,,,Vouvray,,1,8,0
+d79w2m-034_2_31,"{2127,-4775}",d79w2m-034,5030,Wines of Portugal,"VlNHO VERDE, Lagosta",,1.99,21.95,Standard,wine,Still,,Portugal,VINHO VERDE,1.99,21.95,Portugal,,,,,Vinho Verde,10,27,0
+d79w2m-037_2_2,"{2071,-3224}",d79w2m-037,258,The Good 1960 and 1963 Clarets,"CHATEAU DUCRU BEAUCAILLOU
+ (St. Julien)",1963,2.49,26.90,Standard,wine,Still,Red,France,CHATEAU DUCRU BEAUCAILLOU Saint,2.49,26.90,France,,,,,,10,66,0
+d79w2m-037_2_3,"{2071,-3508}",d79w2m-037,168,The Good 1960 and 1963 Clarets,"CHATEAU LATOUR HAUT BRION
+ (Graves)",1963,2.99,32.30,Standard,wine,Still,Red,France,CHATEAU LATOUR HAUT BRION (Graves),2.80,332.30,France,,,,Graves,,1,67,3.80000000000001
+d79w2m-038_1_1,"{234,-982}",d79w2m-038,454,The Charming Vin Roses of France,"ANIOU ROSE, Nicolas",1966,1.49,16.10,Standard,wine,Still,Rosé,France,ANJOU ROSE Nicolas Light OTC,1.49,16.10,,1966,rose,,Anjou,,12,115,0
+d79w2m-038_3_4,"{1996,-4153}",d79w2m-038,367,White Bordeaux,"CHATEAU HAUT BRION
+
+BLANC (Graves)",1966,7.95,89.50,Standard,wine,Still,White,France,Parana Its Chateau Yquem Lalit,10.20,,,,,,,,30,67,45
+d7d59z-007_1_2,"{342,-2367}",d7d59z-007,98,French Champagnes on Sale,Ayala Gold Label Brut,1970,7.99,89.95,Standard,wine,Sparkling,White,France,NAD,7.99,89.95,,,,,,,19,195,0
+d7ds3w-012_1_25,"{400,-3917}",d7ds3w-012,-1,Champagnes for the Holidays,POMMERY & GRENO BRUT,1945,7.49,80.89,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,7.49,8.08,France,,,,,,2,2,0
+d7g01t-007_1_10,"{2492,-5364}",d7g01t-007,52,The Champagnes of Moet & Chandon,Dom Perignon Rose,1962,37.50,405.00,Standard,wine,Sparkling,Rosé,France,Bottle,37.50,405.00,,,,,,,15,271,0
+d7h014-014_1_5,"{967,-1505}",d7h014-014,247,French Champagne,Moet & Chandon Brut Imperial,1971,17.89,193.21,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT IMPERIAL,17.89,193.21,Chile,1971,,,,,2,220,0
+d7h59w-017_1_7,"{404,-4862}",d7h59w-017,32,French Champagne on Sale,Perrier Jouet Brut,1952,9.25,100.00,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT FEV CPUS NOR Ivan AIRE,9.25,100.00,France,1952,,,,,23,69,0
+d7j01f-007_5_4,"{296,-3851}",d7j01f-007,97,American Champagne,St. Michel Brut (N.Y.),0,2.59,27.95,Standard,wine,Sparkling,White,United States of America,Lait CASILLA SALE MISE Nell Tian Scotch New York GOLDEN CREAM Vos Resvtifuilixrmade Fee,2.49,27.95,US,,,,,New York,76,64,1.99999999999999
+d7js34-025_1_12,"{538,-4994}",d7js34-025,81,Sparkling Wine from the French Alps,Boyer Brut (Haut-Savoie),1961,3.49,39.75,Standard,wine,Sparkling,White,France,BOYER BRUT (Haut Savoie),3.49,39.75,France,1961,,,Savoie,,1,72,0
+d7kw23-009_1_2,"{450,-2051}",d7kw23-009,811,White Wines from the Rhone Valley,Crozes Hermitage Blanc,1964,2.29,24.75,Standard,wine,Still,White,France,ST PERAY,2.99,30.15,,1966,,,,,18,78,14
+d7kw23-009_1_7,"{515,-2842}",d7kw23-009,441,White Wines from the Rhone Valley,Chateau Grillet,1966,15.95,172.00,Standard,wine,Still,White,France,COTES RHONE ROUGE (Nicolas),1.29,13.95,,1966,red,,Cotes du Rhone,,20,52,293.2
+d7ms3r-030_1_8,"{558,-3180}",d7ms3r-030,22,Other Sparkling Wines,Lambrusco Spumante,0,4.09,44.18,Standard,wine,Sparkling,Red,Italy,LAMBRUSCO SPUMANTE,4.09,44.18,,,,Lambrusco,,,0,154,0
+d7mw2d-002_2_2,"{1773,-1993}",d7mw2d-002,583,Burgundy / Reds / Mongeard - Mugneret,Mongeard - Mugneret Pinot Noir Estate-Bottled,0,0.00,24.00,Standard,wine,Still,Red,France,Pinot Noir Estate $24 Sis Estate,42.00,,,,,Pinot Noir,,,32,132,840
+d7pp4q-023_2_11,"{2044,-2753}",d7pp4q-023,17,American Champagne,Schramsberg Blanc de Blancs,1974,10.50,0.00,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS (California),10.50,,US,1974,white,,,California,13,25,0
+d7ps3c-002_1_6,"{416,-3686}",d7ps3c-002,5039,Champagnes on Sale,Bollinger Brut,,6.35,68.58,Split,wine,Sparkling,White,France,BOLLINGER BRUT (ozmtandy Kan RRS,6.35,68.58,France,,,,,,18,110,0
+d7ps3c-006_2_4,"{306,-4431}",d7ps3c-006,244,The Great 1964 Burgundies,MONTHELIE (Potinet-Ampeau),1964,3.49,37.70,Standard,wine,Still,Red,France,MONTHELIE Potinet Ampeau,3.49,37.70,France,,,,Monthelie,,3,109,0
+d7qp41-006_1_2,"{455,-2665}",d7qp41-006,617,The Great White Burgundies,Chablis La Foret,1967,2.19,23.65,Standard,wine,Still,White,France,CHABLIS FORET,2.29,23.65,France,,,,Chablis,,3,126,2
+d7s881-005_1_10,"{1831,-4545}",d7s881-005,152,Why Buy French Champagne before December 31st?,Bollinger Special Cuvee Brut,0,12.95,140.00,Standard,wine,Sparkling,White,France,DOMRUINARTBLANC DEBLANCS,13.99,188.89,France,1971,white,,,,22,70,20.8
+d7sg6b-004_1_2,"{763,-1343}",d7sg6b-004,250,Red Bordeaux on Sale,Chateau Palmer,1970,15.50,167.40,Standard,wine,Still,Red,France,Chateau Palmer (Margaux),15.50,215.00,France,1970,,,Margaux,,10,435,0
+d7sg6b-014_1_3,"{760,-1759}",d7sg6b-014,81,Champagnes and Sparkling Wines,Boyer Brut Blanc de Blancs,1972,5.49,59.30,Standard,wine,Sparkling,White,France,BOYER BRUT BLANC DE BLANCS,5.49,59.30,,1972,white,,,,0,381,0
+d7tg6n-004_3_22,"{466,-4557}",d7tg6n-004,8,French Champagnes-Bottles,Moet Dry Imperial,1959,8.90,96.12,Standard,wine,Sparkling,White,France,Moet Dry Imperial,8.90,96.12,Chile,1959,,,,,0,39,0
+d7tg6n-004_3_4,"{470,-3579}",d7tg6n-004,25,French Champagnes-Bottles,Ledoyen Blanc de Blancs,1959,5.99,68.50,Standard,wine,Sparkling,White,France,Ledoyen Blanc de Blanes,5.99,68.50,,1959,white,,,,1,36,0
+d7tg6n-004_3_6,"{470,-3682}",d7tg6n-004,18,French Champagnes-Bottles,Clicquot Yellow Label Brut,0,6.64,71.71,Standard,wine,Sparkling,White,France,Clicquot Yellow Label Brut,6.64,71.71,,,,,,,0,35,0
+d7vc79-003_1_20,"{552,-4837}",d7vc79-003,56,French Champagnes,Mumm's Cordon Rouge Brut,1964,10.45,112.86,Standard,wine,Sparkling,White,France,CORDON ROUGE BRUT,10.45,,,1964,red,,,,7,26,0
+d7vc79-003_2_6,"{2216,-3094}",d7vc79-003,39,French Champagnes,Dom Ruinart Blanc de Blancs,1964,15.79,170.54,Standard,wine,Sparkling,White,France,DOM RUINART BLANC DE BLANCS,15.79,,France,1964,white,,,,0,28,0
+d7x30h-016_1_6,"{650,-3589}",d7x30h-016,31,French Champagnes on Sale,Louis Roederer Cour Royale Brut,0,6.98,75.50,Standard,wine,Sparkling,White,France,Here best Champagnes tasted wonderful Cuvee 1959 Though Champagn,5.98,,France,1960,,,,Champagne,54,64,20
+d7z30t-008_2_8,"{680,-4391}",d7z30t-008,108,Other World-Famous Champagnes,Piper Heidsieck Extra Dry,0,6.75,74.25,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT,6.85,73.93,France,,,,,,19,118,1.99999999999999
+d7z30t-008_3_9,"{2306,-4160}",d7z30t-008,106,Other World-Famous Champagnes,Piper Heidsieck Brut,1959,8.70,95.70,Standard,wine,Sparkling,White,France,BRUT BOLLINGER,8.79,94.95,France,,,,,,17,118,1.8
+d7101s-026_1_23,"{415,-3787}",d7101s-026,111,French Champagnes,Perrier Jouet Blason de France,1969,16.95,183.05,Standard,wine,Sparkling,White,France,160 FRANCE DE Ceri BLASON Savi JOUET PERRIER,1.68,160.85,Italy,,,,,,30,31,305.4
+d79w2m-030_1_10,"{355,-4690}",d79w2m-030,528,Red Burgundies,"ECHEZEAUX, Mugneret",1966,4.49,48.50,Standard,wine,Still,Red,France,ECHEZEAUX Mugneret,4.49,48.50,France,,,,Echezeaux,,1,19,0
+d79w2m-009_1_3,"{338,-3123}",d79w2m-009,434,The Great 1961 Clarets,"CHATEAU PRIEURE LICHINE
+ (Margaux)",1964,4.49,48.50,Standard,wine,Still,Red,France,CHATEAU PRIEURE LICHINE Margaux),4.48,48.50,France,,,,Margaux,,2,89,0.199999999999996
+d79w2m-009_1_8,"{327,-4673}",d79w2m-009,615,The Great 1961 Clarets,"CHATEAU BEYCHEVELLE
+ (St. Julien)",1964,5.99,64.70,Standard,wine,Still,Red,France,CHATEAU BEYCHEVELLE (Saint Julien),3.99,64.70,France,,,,,,5,85,40
+d79w2m-009_2_9,"{2116,-4814}",d79w2m-009,203,The Great 1961 Clarets,"CHATEAU LAFITE ROTHSCHILD
+ (Pauillac)",1964,23.50,253.80,Standard,wine,Still,Red,France,CHATEAU LAFITE ROTHSCHILD (Pauillac) Meee,23.50,253.80,France,,,,Pauillac,,6,67,0
+d79w2m-034_1_27,"{354,-4465}",d79w2m-034,441,White Wines of the Rhone Valley,"CHATEAU GRILLET, Neyret-Gachet",1966,13.69,147.73,Standard,wine,Still,White,France,CHATEAU GRILLET Neyret Gachet,13.69,147.73,France,1966,,,,,2,6,0
+d79w2m-013_2_10,"{332,-3148}",d79w2m-013,159,Red Bordeaux,CHATEAU MEYNEY (St. Estephe),1964,3.03,33.27,Standard,wine,Still,Red,France,dlasdde LINLY (SL Eslephe),3.08,33.27,,,,,,,13,1,1.00000000000001
+d79w2m-034_2_29,"{2093,-4637}",d79w2m-034,5043,Wines of Portugal,DAO CABIDO (Red),,1.65,17.80,Standard,wine,Still,,Portugal,DAO CABIDO (Red),1.85,17.80,,,red,,,,0,20,4
+d79w2m-013_3_7,"{2081,-2831}",d79w2m-013,386,Red Bordeaux,CHATEAU PALMER (Medoc),1964,4.99,53.90,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillag),4.59,59.49,France,,,,Pauillac,,31,58,8.00000000000001
+d79w2m-004_1_1,"{316,-2373}",d79w2m-004,5082,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALAN DE (Pauillac)",1955,6.99,75.50,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillag),8.99,73.50,France,,,,Pauillac,,4,78,40
+d79w2m-038_1_3,"{241,-1474}",d79w2m-038,852,The Charming Vin Roses of France,SCIATINO ROSE (Corsica),1966,1.49,16.10,Standard,wine,Still,Rosé,France,SCIATINO ROSE (Corsica) Most delightful Rosa,1.49,16.10,,1966,rose,,,,21,104,0
+d79w2m-038_2_2,"{234,-3448}",d79w2m-038,788,White Bordeaux,"GRAVES SUPERIEUR, Domaine",1966,1.79,19.35,Standard,wine,Still,White,France,GRAVES SUPERIEUR Domaine de Fegron,1.79,19.35,France,1966,,,Graves,,11,64,0
+d79w2m-004_1_5,"{312,-3444}",d79w2m-004,5082,A Library of Rare Old Clarets,CHATEAU LATOUR (Pauillac),1955,17.50,189.00,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION (Graves),118.20,,France,,,,Graves,,22,14,2014
+d79w2m-038_3_1,"{1992,-2971}",d79w2m-038,865,White Bordeaux,CHATEAU GUIRAUD (Sauternes),1959,3.49,37.77,Standard,wine,Still,White,France,CHATEAU GUIRAUD (Sauternes) Chateau Guiraud Chateau,3.49,37.70,France,1959,,,Sauternes,,24,150,0
+d79w2m-014_1_6,"{279,-2992}",d79w2m-014,5039,Champagne for the Holidays,Bollinger Brut,0,6.35,68.58,Standard,wine,Sparkling,White,United Kingdom,BOLLINGER BRUT (19,6.35,68.58,France,,,,,,4,29,0
+d79w2m-023_1_3,"{406,-2500}",d79w2m-023,519,The Very Best of Switzerland,"Gilliard Johannisberg ""Novembre""",1967,3.60,38.90,Standard,wine,Still,White,Switzerland,JOHANNISBERG Gilliard,3.80,38.90,US,1987,,,,,18,80,3.99999999999999
+d79w2m-023_1_7,"{477,-4092}",d79w2m-023,5098,The Very Best of Austria,Prinz Metternich Schloss Grafenegg Gruener Veltliner,1966,2.89,31.21,Standard,wine,Still,Red,Austria,SCHLOSS GRAFENEGG GRUENER VELTLINER Estate=bottied Prinz Mettertich,2.89,31.21,Germany,1966,,Veltliner,,,49,90,0
+d7bc7n-029_1_7,"{161,-5075}",d7bc7n-029,25,French Champagnes on Sale,"Ledoyen, Blanc de Blancs",1964,6.99,75.50,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS,6.99,75.50,,1964,white,,,,1,80,0
+d7bc7n-029_2_3,"{1934,-3739}",d7bc7n-029,836,Sparkling Wines on Sale,Clairette De Die,0,4.59,49.55,Standard,wine,Sparkling,White,France,CLAIRETTE DE DIE (Drome),4.59,49.55,France,,,,Clairette de Die,,8,15,0
+d79w2m-025_1_3,"{218,-2693}",d79w2m-025,571,Burgandy,"COTE DE BEAUNE VILLAGES, Nicolas",1964,2.49,26.90,Standard,wine,Still,Red,France,COTE DE BEAUNE VILLAGES Nicolas,2.49,26.90,France,,,,Cote de Beaune Villages,,1,102,0
+d79w2m-025_2_8,"{2051,-4245}",d79w2m-025,372,Burgandy,"CHAMBERTIN, Pierre Poupon",1964,6.79,74.75,Standard,wine,Still,Red,France,CHAMBERTIN Pierre Poupon,6.79,74.75,France,,,,Chambertin,,1,42,0
+d79w2m-026_1_1,"{254,-2051}",d79w2m-026,455,The Great White Burgandies of the Blessed 1966 vintage,PINOT CHARDONNAY,1964,1.59,17.15,Standard,wine,Still,White,France,PINOT CHARDONNAY,1.59,,,,,Pinot Chardonnay,,,0,87,0
+d79w2m-029_1_2,"{252,-2656}",d79w2m-029,368,Clarets of the 1962 Vintage,"CHATEAU LA VIEILLE EGLISE
+ (Fronsac)",1962,1.79,19.35,Standard,wine,Still,Red,France,CHATEAU VIEILLE EGLISE (Fronsac),1.79,19.35,France,,,,Fronsac,,4,85,0
+d7c889-012_1_7,"{771,-3480}",d7c889-012,5036,"""Best Buys"" In Champagne","St. Michel Pink (Finger Lakes, N.Y.)",0,2.49,26.90,Standard,wine,Sparkling,Rosé,United States of America,BOYER BRUT (Hanut Savoie),3.49,39.75,France,1962,,,Savoie,,28,219,20
+d7g59k-004_1_4,"{463,-1909}",d7g59k-004,-1,Red Burgundy,"Volnay, Clos des Ducs",1969,59.88,0.00,Standard,wine,Still,Red,France,Volnay Clos des Ducs,59.88,,France,,,,Volnay,,1,105,0
+d7h59w-017_1_1,"{356,-2506}",d7h59w-017,97,Champagnes on Sale,"St. Michel Brut (Finger Lakes, N. Y. )",0,2.79,31.50,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL BRUT (Finger Lakes,2.79,31.30,US,,,,Finger Lakes,,13,39,0
+d7h014-013_2_3,"{3399,-2048}",d7h014-013,57,French Champagne,Marcel Pere Et Fils Brut,1970,9.99,108.00,Standard,wine,Sparkling,White,France,BRITE Pita PERE MADE,9.99,108.00,,,,,,,19,218,0
+d7h014-014_1_10,"{971,-2827}",d7h014-014,91,French Champagnes,Krug Brut Reserve,0,29.99,323.95,Standard,wine,Sparkling,White,France,KRUG BRUT RESERVE,29.99,223.95,Romania,,,,,,0,225,0
+d7h014-014_2_1,"{3350,-560}",d7h014-014,33,French Champagne,"Dom Perignon,  Moet & Chandon",1970,36.98,0.00,Standard,wine,Sparkling,White,France,DOM PERIGNON MOET CHANDON,26.89,,US,1970,,,,,4,150,201.8
+d7kw23-008_2_1,"{2095,-2449}",d7kw23-008,2,Other Champagnes & Sparkling Wines,St. Michel Brut,0,2.79,30.15,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL BRUT (Finger Lakes,2.17,30.15,US,,,,Finger Lakes,,18,76,12.4
+d7js34-026_1_7,"{647,-2988}",d7js34-026,18,Pick Your Favorite French Champagne,Clicquot Yellow Label Brut,0,6.64,71.71,Standard,wine,Sparkling,White,France,Clicquot Yellow Label Brut,6.64,71.71,,,,,,,0,15,0
+d7js34-026_1_8,"{651,-3072}",d7js34-026,31,Pick Your Favorite French Champagne,Louis Roederer Cour Royale Brut,0,6.98,75.50,Standard,wine,Sparkling,White,France,Louis Roederer Cour Royale Brut,6.98,75.50,France,,,,,,0,21,0
+d7kw23-010_1_3,"{2047,-1502}",d7kw23-010,810,Unusual Wines (Cont'd),Fitou (Pyrenees),0,1.69,18.25,Standard,wine,Still,Red,France,CAHORS ROUGE,1.99,19.35,France,1966,red,,Cahors,,13,27,6
+d7kw23-009_1_12,"{527,-3612}",d7kw23-009,845,Red Wines from the Rhone Valley,Chateauneuf Du Pape,1961,2.79,30.15,Standard,wine,Still,Red,France,COTE ROTIE Thierry),2.99,32.30,France,1966,,,Cote Rotie,,16,10,4
+d7ms3r-030_1_16,"{550,-5120}",d7ms3r-030,1138,"Sparkling ""Cold Duck""",Barton & Guestier,0,5.50,59.40,Standard,wine,Sparkling,Rosé,France,B&G (France),5.30,59.40,Italy,,,,,,14,160,4
+d7nk5r-002_2_3,"{2109,-3320}",d7nk5r-002,5020,Other Champagnes and Sparkling Wines,"St. Michel Sparkling Burgundy (Finger Lakes, N.Y.)",0,2.49,26.90,Standard,wine,Sparkling,Red,United States of America,SAINT MICHEL SPARKLING BURGUNDY (Finger Lakes,2.49,26.90,,,,,Finger Lakes,Burgundy,11,8,0
+d7pp4q-023_1_18,"{408,-3246}",d7pp4q-023,64,French Champange,Taittinger Brut La Francaise,0,13.98,154.34,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT,13.99,151.09,US,1971,,,,,23,40,0.199999999999996
+d7pp4q-023_1_22,"{412,-3457}",d7pp4q-023,18,French Champagne,Clicquot Yellow Label Brut,0,15.25,173.85,Standard,wine,Sparkling,White,France,PIPER HEIDSIECK BRUT,15.89,171.61,France,1971,,,,,18,43,12.8
+d7ps3c-002_2_5,"{2035,-3889}",d7ps3c-002,81,Other Champagnes and Sparkling Wines,BOYER BRUT (Haut-Savoie),1964,3.49,39.75,Standard,wine,Sparkling,White,France,BOYER BRUT (Haut Savoie),3.49,39.75,France,1964,,,Savoie,,1,77,0
+d7ps3c-002_2_9,"{2054,-5279}",d7ps3c-002,37,Other Champagnes and Sparkling Wines,Almaden Blanc de Blancs Brut (California),,6.08,65.66,Standard,wine,Sparkling,White,United States of America,Almaden Blanc de Blancs Brut,6.08,65.66,,,white,,,,13,66,0
+d7pp4q-023_1_27,"{416,-3999}",d7pp4q-023,36,French Champagne,Perrier Jouet Fleur de France,1971,24.95,269.45,Standard,wine,Sparkling,White,France,PERRIER JOUET FLEUR DE FRANCE,28.95,269.45,France,1971,,,,,0,45,80
+d7pp4q-023_2_3,"{2016,-1611}",d7pp4q-023,102,American Champagne,Taylor Brut (New York),0,5.49,62.50,Standard,wine,Sparkling,White,United States of America,TAYLOR BRUT (New York),5.49,62.50,US,,,,,New York,0,5,0
+d7sg6b-014_1_4,"{751,-2255}",d7sg6b-014,120,Champagnes and Sparkling Wines,Marcel Pere Et Fils Brut,0,7.99,86.30,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,7.99,86.30,,,,,,,3,373,0
+d7vc79-003_1_14,"{552,-4007}",d7vc79-003,261,French Champagnes,Pol Roger Brut,1964,9.50,102.50,Standard,wine,Sparkling,White,France,POL ROGER BRUT,2.50,9.50,France,1964,,,,,0,27,140
+d7vc79-003_2_11,"{2220,-4199}",d7vc79-003,83,American Champagnes,Almaden Brut,0,4.95,53.46,Standard,wine,Sparkling,White,United States of America,"",4.95,,,,,,,,12,51,0
+d7vc79-003_2_4,"{2232,-2551}",d7vc79-003,116,French Champagnes,Bollinger R. D.,1961,15.50,167.40,Standard,wine,Sparkling,White,France,"",15.50,,,,,,,,15,46,0
+d7vc79-007_1_1,"{532,-2084}",d7vc79-007,-1,,Old Jeb 6 Yr,0,3.99,46.75,,spirit,,,United States of America,Ieb 2nd,3.99,40.78,,,,,,,9,40,0
+d7v88n-004_3_1,"{660,-3140}",d7v88n-004,-1,American Champagnes,Great Western,0,4.35,46.98,Standard,wine,Sparkling,White,United States of America,Great Western Chrictian Pvrathore,5.02,,US,,,,,,20,660,13.4
+d7z30t-008_3_4,"{2316,-3781}",d7z30t-008,56,Other World-Famous Champagnes,Mumm's Cordon Rouge Brut,1952,8.40,92.42,Standard,wine,Sparkling,White,France,CORDON ROUGE LOB,8.40,92.49,,,red,,,,11,112,0
+d7ws37-000_1_5,"{729,-2466}",d7ws37-000,E,Rhine Wines,Oppenheimer Goldberg Natur,1949,1.99,22.65,Standard,wine,Still,White,Germany,OPPENHEIMER GOLDBERG NATUR (Original Baum 1tm FOLO tede IAPosiha,1.99,22.65,Argentina,1949,,,,,38,143,0
+d7ws37-000_1_6,"{733,-2597}",d7ws37-000,F,Rhine Wines,Hochheimer Daubhaus,1949,2.19,24.75,Standard,wine,Still,White,Germany,HOCHHEIMER DAUBHAUS (Original Comm Aschrott) Nhe HET,8.19,24.75,Argentina,1949,,,,,33,147,120
+d7101s-026_1_15,"{415,-3232}",d7101s-026,64,French Champagnes,Taittinger Brut La Francaise,0,13.49,148.93,Standard,wine,Sparkling,White,France,TAITTINGER BRUT FRANCAISE,13.49,148.93,France,,,,,,3,26,0
+d7101s-026_1_9,"{419,-2872}",d7101s-026,35,French Champagnes,Pol Roger Brut,0,11.35,122.58,Standard,wine,Sparkling,White,France,POLROGER BRUT,11.35,122.88,,,,,,,1,28,0
+d7101s-026_2_1,"{2050,-4062}",d7101s-026,151,American Champagnes,Gold Seal Brut (N.Y.),0,5.25,56.70,Standard,wine,Sparkling,White,United States of America,GOLD SEAL BRUT,5.25,56.70,,,,,,,7,17,0
+d7388t-004_1_15,"{1096,-2277}",d7388t-004,-1,Champagnes,Moet & Chandon Dom Perignon Cuvee,1921,8.25,90.00,Fifth,wine,Sparkling,White,,Imperial Crown,5.25,57.00,Chile,,,,,,26,135,60
+d7388t-004_1_7,"{1079,-1593}",d7388t-004,-1,Champagnes,"Krug, Private Cuvee",1928,6.25,68.00,Fifth,wine,Sparkling,White,,Private Cuvee,6.25,68.00,,,,,,,6,126,0
+d73s33-006_1_7,"{600,-3959}",d73s33-006,97,"""Best Buys"" In champagne for the New Years Celebration",Charles Heidsieck Royal Brut,1959,11.95,129.06,Standard,wine,Sparkling,White,France,"",129.06,,,,,,,,28,214,2342.2
+d76k5q-008_1_7,"{548,-4695}",d76k5q-008,17,French Champagnes and Sparkling Wines,Ledoyen Blanc de Blancs,1966,8.95,96.65,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS,8.95,96.65,,1966,white,,,,0,169,0
+d76k5q-008_2_3,"{2178,-2902}",d76k5q-008,53,American Champagnes,Schramsberg Blanc de Blancs,1970,8.95,96.65,Standard,wine,Sparkling,White,United States of America,"",5.95,96.65,,,,,,,27,152,60
+d79w2m-004_1_20,"{305,-5054}",d79w2m-004,163,A Library of Rare Old Clarets,CHATEAU MARGAUX (Margaux),1952,14.50,156.00,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),14.50,156.00,France,,,,Pauillac,,12,14,0
+d79w2m-004_2_12,"{2093,-4267}",d79w2m-004,5055,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1937,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),9.95,107.45,France,,,,Pauillac,,2,75,0
+d79w2m-026_2_2,"{2100,-2442}",d79w2m-026,840,The Great White Burgandies of the Blessed 1966 vintage,CORTON CHARLEMAGNE,1964,5.49,59.30,Standard,wine,Still,White,France,CORTON CHARLEMAGNE,5.49,59.30,France,,,,Corton Charlemagne,,0,26,0
+d79w2m-026_2_9,"{2107,-4873}",d79w2m-026,375,The Great White Burgandies of the Blessed 1966 vintage,MUSIGNY BLANC,1964,18.25,197.10,Standard,wine,Still,White,France,MUSIGNY BLANC,14.97,18.25,France,,white,,Musigny,,0,34,65.6
+d79w2m-029_2_10,"{2014,-4704}",d79w2m-029,115,Clarets of the 1962 Vintage,"CHATEAU LAFITE ROTHSCHILD
+ (Pauillac)",1962,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU LAFITE ROTHSCHILD (Pauillac),9.95,107.45,France,,,,Pauillac,,1,67,0
+d79w2m-004_2_5,"{2096,-3177}",d79w2m-004,246,A Library of Rare Old Clarets,CHATEAU PETRUS (Pomerol),1948,12.50,135.00,Standard,wine,Still,Red,France,CHATEAU PETRUS (Pomerol),12.50,135.00,France,,,,Pomerol,,0,23,0
+d79w2m-029_2_6,"{2014,-3663}",d79w2m-029,619,Clarets of the 1962 Vintage,CHATEAU AUSONE (St. Emilion),1962,7.99,86.30,Standard,wine,Still,Red,France,stature,7.99,86.30,,,,,,,24,18,0
+d79w2m-004_2_7,"{2093,-3589}",d79w2m-004,303,A Library of Rare Old Clarets,"CHATEAU MOUTON ROTHSCHILD
+ (Pauillac)",1947,27.50,295.00,Standard,wine,Still,Red,France,CHATEAU COS (Saint 'Estephe),14.50,156.00,,,,,,,23,19,260
+d79w2m-030_1_5,"{365,-3394}",d79w2m-030,135*,Red Burgundies,"FIXIN CLOS NAPOLEON, Gelin . .",1966,3.79,40.95,Standard,wine,Still,Red,France,FIXIN CLOS NAPOLEON Gelin,3.79,40.95,France,,,,Fixin,,5,28,0
+d79w2m-008_1_6,"{432,-2958}",d79w2m-008,655,"Original
+
+Abfullung","FORSTER IESUITENGARTEN TROCKENBEERENAUSLESE, 'Dr. von Bassermann-Iordan",1964,40.00,,Standard,wine,Still,,Germany,FORSTER JESUITENGARTEN TROCKENBEERENAUSLESE Original Ablullune Bassermann~Jordan,40.00,,Argentina,1964,,,,,20,42,0
+d79w2m-009_2_7,"{2119,-4161}",d79w2m-009,218,The Great 1961 Clarets,"CHATEAU MOUTON
+
+ROTHSCHILD (Pauillac)",1964,17.50,189.00,Standard,wine,Still,Red,France,CHATEAU MOUTON ROTHSCHILD (Pauillac),17.50,189.00,France,,,,Pauillac,,2,65,0
+d79w2m-013_3_19,"{2091,-4921}",d79w2m-013,866,Red Bordeaux,CHATEAU PETRUS (Pomerol),1964,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU MOUTON ROTHSCHIL Pauillacy,9.95,105.53,France,,,,Pauillac,,22,50,0
+d7bc7n-029_1_3,"{161,-3731}",d7bc7n-029,68,French Champagnes on Sale,Jamin Brut,1966,5.99,68.50,Standard,wine,Sparkling,White,France,JAMIN BRUT,5.99,68.50,,1966,,,,,0,92,0
+d7bc7n-029_2_2,"{1946,-3230}",d7bc7n-029,81,Sparkline Wines on Sale,Boyer Brut,1966,3.99,43.10,Standard,wine,Sparkling,White,France,BOYER (Haut BRUT Savoie),3.99,43.10,France,1966,,,Savoie,,14,1,0
+d79w2m-025_2_4,"{2027,-2957}",d79w2m-025,5010,Burgandy,"NUITS ST. GEORGES, PRULIERS, H. Gauges",1964,4.79,51.75,Standard,wine,Still,Red,France,NUITS SAINT GEORGES PRULIERS Gouges,4.79,51.75,France,,,,Nuits St. Georges,,10,112,0
+d79w2m-034_1_20,"{344,-3698}",d79w2m-034,835,Red Wines of the Rhone Valley,"GIGONDAS, Co-op",1966,2.29,24.75,Standard,wine,Still,Red,France,GIGONDAS,2.20,24.95,France,1968,,,Gigondas,,7,0,1.8
+d7d59z-007_1_4,"{342,-2817}",d7d59z-007,25,French Champagnes on Sale,Pommery and Greno Brut,0,8.99,97.09,Standard,wine,Sparkling,White,France,POMMERY AND GRENO BRUT,8.99,97.09,France,,,,,,0,196,0
+d79w2m-037_1_7,"{292,-4991}",d79w2m-037,187,The Good 1960 and 1963 Clarets,"CHATEAU LAFITE ROTHSCHILD
+ (Pauillac)",1960,6.99,75.50,Standard,wine,Still,Red,France,CHATEAU LAFITE ROTHSCHILD Bawllac),6.99,75.50,France,,,,,,5,69,0
+d7g01t-025_1_23,"{535,-3410}",d7g01t-025,34,French Champagnes,Louis Roederer Brut,1971,14.95,162.00,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT,14.95,162.00,France,1971,,,,,0,168,0
+d7h014-014_1_2,"{955,-882}",d7h014-014,18,French Champagne,Clicquot Yellow Label Brut,0,15.25,173.85,Standard,wine,Sparkling,White,France,BOLLINGER SPECIAL CUVEE BRUT The Aaron From Champagne Britain 'Bollinger! CLICQUOT YELLOW LABEL BRUT,15.25,173.85,France,1934,,,,Champagne,74,216,0
+d7k01r-001_1_7,"{842,-4607}",d7k01r-001,130,Still Champagne,Bollinger Coteaux Champenois,0,4.89,52.82,Standard,wine,Still,White,France,BOLLINGER COTEAUX CHAMPENOIS,4.89,52.82,France,,,,,,0,362,0
+d7js34-025_1_9,"{558,-3969}",d7js34-025,97,American Champagne,"St. Michel Brut (Finger Lakes, N.Y.)",0,2.79,31.50,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL BRUT (Finger Lakes,2.79,31.50,US,,,,Finger Lakes,,11,94,0
+d7js34-026_1_5,"{639,-2836}",d7js34-026,59,Pick Your Favorite French Champagne,Mumm's Extra Dry,0,6.77,74.49,Standard,wine,Sparkling,White,France,Mum's Extra Dry,8.77,74.49,,,,,,,1,16,40
+d7k01r-001_1_8,"{850,-4915}",d7k01r-001,104,Still Champagen,"Saran Natur, Chateau De Saran",0,10.98,118.59,Standard,wine,Still,White,France,SARAN NATUR CHATEAU DE SARAN,10.98,118.59,,,,,,,1,362,0
+d7nk5r-002_1_3,"{491,-2912}",d7nk5r-002,28,Champagnes on Sale,Mesnil Blanc de Blancs,1961,5.99,68.50,Standard,wine,Sparkling,White,France,MESNIL BLANC DE BLANCS,5.99,68.50,,1961,white,,,,0,102,0
+d7ms3r-029_2_8,"{2267,-3393}",d7ms3r-029,105,American Champagnes,Beaulieu Vineyard Private Reserve Brut,1964,6.65,71.82,Standard,wine,Sparkling,White,United States of America,BEAULIEU VINEYARD TOP DIY ATT DINCT'DYINDDIYITTT,6.65,71.52,US,,,,,,24,194,0
+d7pp4q-023_1_29,"{420,-4333}",d7pp4q-023,20,French Champagne,Laurent Perrier Grand Siecle,1970,29.89,322.90,Standard,wine,Sparkling,White,France,LAURENT PERRIER GRAND SIECLE,29.89,322.90,France,,,,,,0,46,0
+d7pp4q-023_2_1,"{2008,-1336}",d7pp4q-023,111,American Champagne,Deschamps Blanc de Blancs Brut (New York),0,3.99,43.10,Standard,wine,Sparkling,White,United States of America,DESCHAMPS BLANC DE BLANCS BRUT (New York),3.99,43.10,US,,white,,,New York,0,10,0
+d7pp4q-023_2_12,"{2172,-3107}",d7pp4q-023,81,Other European Sparkling Wines,Boyer Brut Blanc de Blancs,1975,4.99,57.50,Standard,wine,Sparkling,White,France,BOYER BRUT BLANC DE BLANCS,4.99,57.50,,1975,white,,,,0,150,0
+d7pp4q-023_2_17,"{2224,-3855}",d7pp4q-023,24,Other European Sparkling Wines,Henkell Trocken,0,7.99,86.29,Standard,wine,Sparkling,White,Germany,HENKELL TROCKEN,7.99,86.29,Germany,,,,,,0,201,0
+d7pp4q-023_2_9,"{2040,-2096}",d7pp4q-023,44,American Champagne,Domaine Chandon Brut (California),0,8.99,97.09,Standard,wine,Sparkling,White,United States of America,DOMAINE CHANDON BRUT (California),8.99,97.09,US,,,,,California,0,32,0
+d7ps3c-002_1_1,"{424,-2296}",d7ps3c-002,110,Champagnes on Sale,PIERRE CARTIER BRUT ROSE,,4.95,53.51,Standard,wine,Sparkling,White,France,PIERRE CARTIER BRUT ROSE,4.95,53.51,,,rose,,,,0,116,0
+d7ps3c-006_2_9,"{298,-5512}",d7ps3c-006,-999,The Great 1964 Burgundies,NUITS ST GEORGES VAUCRAINS (H. Ganzes),1964,4.79,51.75,Standard,wine,Still,Red,France,VOSNE ROMANEE Gri,3.99,43.10,France,,,,Vosne Romanee,,31,89,16
+d7tg6n-004_1_1,"{799,-1913}",d7tg6n-004,-1,Champagnes for the Holidays,Marcel Pere Et Fils Brut,1959,4.79,52.75,Standard,wine,Sparkling,White,France,MARCEL PEREETFILSBRUT,19.59,,,1959,,,,,3,30,296
+d7v88n-004_3_3,"{653,-3477}",d7v88n-004,-1,Sparkling Burgundy,B & G,0,5.29,58.30,Standard,wine,Sparkling,Red,France,St,5.29,58.30,,,,,,,5,653,0
+d7tg6n-004_3_1,"{466,-3419}",d7tg6n-004,36,French Champagnes-Bottles,Marcel Père Brut,1959,4.79,52.75,Standard,wine,Sparkling,White,France,Muorcel Pere Brut,4.79,52.75,,1959,,,,,3,33,0
+d7vc79-003_1_1,"{673,-2088}",d7vc79-003,85,French Champagne,Marcel Pere Brut,0,4.99,58.50,Standard,wine,Sparkling,White,,MARCEL PERE BRUT,1.89,,,,,,,,0,148,62
+d7vc79-003_1_8,"{572,-3221}",d7vc79-003,49,French Champagnes,Moet & Chandon Brut Imperial,0,8.62,93.10,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT IMPERIAL,8.62,93.10,Chile,,,,,,2,42,0
+d7vc79-003_1_17,"{560,-4510}",d7vc79-003,52,French Champagnes,Charles Heidsieck Rose,1964,9.99,107.89,Standard,wine,Sparkling,Rosé,France,British Champagne CHARLES HEIDSIECK ROSE,7.89,9.99,France,1964,rose,,,Champagne,18,34,42
+d7tg6n-004_4_1,"{2154,-3491}",d7tg6n-004,42,French Champagnes-Bottles,Taittinger Blanc de Blancs,1959,13.69,151.14,Standard,wine,Sparkling,White,France,Taittinger Blanc de Blanes,13.69,151.14,France,1959,white,,,,1,60,0
+d7tg6n-004_4_19,"{2114,-5088}",d7tg6n-004,5,French Champagnes-Jeraboams,Bollinger Brut,1953,42.90,0.00,Jeroboam,wine,Still,Red,France,Bollinger Brut 193,12.90,,France,,,,,,4,20,600
+d7001g-003_1_10,"{269,-4821}",d7001g-003,33,French Champagnes on Sale,Fortnum & Mason English Market Brut,1947,5.25,58.50,Standard,wine,Sparkling,White,United Kingdom,FORTNUM MASON ENGLISH MARKET BRUT Sold last Month The,5.25,,,1947,,,,,22,22,0
+d7z30t-008_1_1,"{646,-1683}",d7z30t-008,15,French Champagnes on Sale,Marcel Et Fils Brut,1952,4.39,49.75,Standard,wine,Sparkling,White,France,MARCEL PEREFTFUSBRUY 500,4.39,49.75,,1952,,,,,12,241,0
+d7ws37-000_1_22,"{761,-4512}",d7ws37-000,U,Palatinate Wines,Forster Altenburg Riesling,1949,2.79,32.75,Standard,wine,Still,White,Germany,PALATINATE FORSTER WINES ALTENBURG RIESLING (Orig Herr Burklin Wolf),2.79,32.75,Australia,1949,,Riesling,,,42,186,0
+d7101s-026_1_21,"{415,-3643}",d7101s-026,166,French Champagnes,Bollinger R.D.,1966,15.95,172.26,Standard,wine,Sparkling,White,France,BOLLINGER,15.95,172.26,France,1966,,,,,5,28,0
+d7101s-026_1_28,"{415,-4182}",d7101s-026,76,French Champagnes,Mumm's Rene Lalou,1966,25.20,272.16,Standard,wine,Sparkling,White,France,RENE LALOU,25.20,272.16,,1966,,,,,7,29,0
+d7101s-026_1_29,"{403,-4242}",d7101s-026,30,French Champagnes,Moet Dom Perignon,1969,25.95,279.45,Standard,wine,Sparkling,White,France,MOET DOM PERIGNON,25.95,279.45,,1969,,,,,0,18,0
+d7101s-026_2_7,"{2046,-5017}",d7101s-026,53,American Champagnes,Schramsberg Blanc de Noir,0,11.70,126.36,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE NOIR FTE CRT Shey,11.70,126.36,US,1971,white,,,,13,21,0
+d72013-005_1_19,"{835,-4828}",d72013-005,136,Bordeaux Rouges,CHATEAU LA MISSION HAUT BRION (Graves),1962,5.49,59.30,Standard,wine,Still,Red,France,CHATEAU COS Estephe,14.50,156.00,,,,,,,26,497,180.2
+d72013-006_1_7,"{1328,-3583}",d72013-006,5082,Bordeaux Rouges,CHATEAU LATOUR (Pauillac),1955,17.50,189.00,Standard,wine,Still,Red,France,CHATEAU HAUT BRION,45.00,486.00,France,,,,Graves,,13,528,550
+d7388t-004_1_13,"{1079,-2190}",d7388t-004,-1,Champagnes,Moet & Chandon Non-Vintage White Seal,0,3.25,35.00,Fifth,wine,Sparkling,White,,MOET CHANDON Non Vintage White Seal,3.25,35.00,US,,white,,,,3,118,0
+d72s3s-001_1_5,"{824,-3181}",d72s3s-001,17,Champagnes and Sparkling Wines,Schramsberg Blanc de Blancs,1973,9.69,104.65,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS,0.69,104.65,US,1973,white,,,,0,326,180
+d72s3s-001_1_9,"{832,-4636}",d72s3s-001,57,Champagnes and Sparkling Wines,Krug Brut,1964,45.00,243.00,Magnum,wine,Sparkling,White,France,KRUG BRUT Magnum,45.00,243.00,,1964,,,,,7,324,0
+d75p42-003_1_1,"{449,-767}",d75p42-003,39,,DOM RUINART BLANC DE BLANCS,1961,13.99,151.09,Standard,wine,Sparkling,White,France,DOMRUINART BIANCDEBLANCS,13.99,151.09,France,1961,white,,,,4,72,0
+d79w2m-004_2_4,"{2099,-2964}",d79w2m-004,5047,A Library of Rare Old Clarets,CHATEAU LATOUR (Pauillac),1949,24.75,267.00,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),24.75,267.00,France,,,,Pauillac,,0,20,0
+d79w2m-034_1_11,"{337,-2537}",d79w2m-034,547,The Wines of the Loire Valley,"SANCERRE, Chateau de Sancerre",1967,3.69,39.85,Standard,wine,Still,,France,SANCERRE Chateau de Sancerre,3.69,39.85,France,1967,,,Sancerre,,1,8,0
+d79w2m-008_1_9,"{384,-3724}",d79w2m-008,687,Original Abfullung,"STEINBERGER CABINET TROCKENBEERENAUSLESE, Staatsweinguter . . z . :",1333,50.00,,Standard,wine,Still,,Germany,STEINBERGER CABINET TROCKENBEERENAUSLESE Original Abfullung,50.00,,Austria,1959,,,,,23,74,0
+d79w2m-034_1_6,"{334,-2228}",d79w2m-034,448,The Wines of the Loire Valley,"SANCERRE, Nicolas",1967,1.99,21.50,Standard,wine,Still,,France,SANCERRE Nicolas,1.99,21.50,France,1967,,,Sancerre,,1,8,0
+d79w2m-013_3_12,"{2084,-3905}",d79w2m-013,128,Red Bordeaux,CHATEAU MARGAUX (Margaux),1964,8.99,97.00,Standard,wine,Still,Red,France,CARRUADES DE CHATEAU LAFITE ROTHSCHILD (Pauillac) denseaes,0.89,75.50,France,,,,Pauillac,,44,74,162
+d79w2m-014_2_6,"{1999,-3868}",d79w2m-014,131,Champagne for the Holidays,Gancia Asti Spumanti,0,4.99,53.89,Standard,wine,Sparkling,White,Italy,GANCIA ASTI SPUMANTI (Piedmont Italy),4.99,53.89,Italy,,,,,Piedmont,17,12,0
+d79w2m-023_1_8,"{453,-4523}",d79w2m-023,419,The Very Best of Austria,Stift Schotten Nussberger Spaetlese,1966,2.89,31.21,Standard,wine,Still,Red,Austria,NUSSBERGER SPAETLESE Estate Stift Schotten,2.89,31.21,Austria,1966,,,,,32,67,0
+d79w2m-025_2_7,"{2051,-3965}",d79w2m-025,394,Burgandy,"CLOS VOUGEOT, Pierre Poupon",1964,5.99,64.70,Standard,wine,Still,Red,France,CLOS VOUGEOT Pierre Poupon,5.99,64.70,France,,,,Vougeot,,1,43,0
+d79w2m-026_1_2,"{282,-2472}",d79w2m-026,820,The Great White Burgandies of the Blessed 1966 vintage,MACON VIRE,1964,2.19,23.65,Standard,wine,Still,White,France,MACON VIRE,2.19,23.65,France,,,,Macon Verze,,0,49,0
+d79w2m-030_1_7,"{362,-3849}",d79w2m-030,156*,Red Burgundies,"GEVREY CHAMBERTIN, Gelin . . .",1966,3.99,43.10,Standard,wine,Still,Red,France,GEVREY CHAMBERTIN Gelin,3.99,43.10,France,,,,Gevrey Chambertin,,7,24,0
+d79w2m-034_2_26,"{2121,-4223}",d79w2m-034,461,Wines of Italy,"VALPOLICELLA, Bertani",,2.57,27.76,Standard,wine,Still,,Italy,VALPOLICELLA Bertani,2.57,27.76,Italy,,,,Valpolicella,,1,22,0
+d79w2m-034_2_27,"{2121,-4284}",d79w2m-034,453,Wines of Italy,"BARDOLINO, Bertani",,2.57,27.76,Standard,wine,Still,,Italy,BARDOLINO Bertani,28.57,29.76,Italy,,,,Bardolino,,1,24,520
+d7g01t-007_1_9,"{2495,-5062}",d7g01t-007,30,The Champagnes of Moet & Chandon,Dom Perignon,1969,25.95,280.15,Standard,wine,Sparkling,White,France,Magnum,52.89,285.61,,,,,,,9,281,538.8
+d7g01t-025_1_16,"{527,-2970}",d7g01t-025,64,French Champagnes,Taittinger Brut La Francaise,0,12.98,143.30,Standard,wine,Sparkling,White,France,TAITTINGER BRUT FRANCAISE,12.98,143.30,France,,,,,,3,162,0
+d7g59k-003_1_4,"{476,-3609}",d7g59k-003,-1,White Burgundy,"Puligny Montrachet, Les Pucelles",1969,54.00,0.00,Standard,wine,Still,White,France,Puligny Montrachet Les Pucelles,54.00,,France,,,,Puligny Montrachet,,1,121,0
+d7g01t-025_1_21,"{535,-3294}",d7g01t-025,56,French Champagnes,Mumm's Cordon Rouge Brut,1969,13.99,151.09,Standard,wine,Sparkling,White,France,CORDON ROUGE BRUT,13.99,151.09,,1969,red,,,,7,168,0
+d79w2m-034_2_3,"{2097,-1814}",d79w2m-034,947,Wines of the Jura,"CHATEAU CHALON, Nicolas",1959,7.75,83.70,Standard,wine,Still,,France,JALAL ALAU ULLAIALUIN,7.75,83.70,,,,,,,18,22,0
+d7g01t-025_1_32,"{531,-4031}",d7g01t-025,20,French Champanges,Laurent Perrier Grand Siecle,1966,25.95,280.26,Standard,wine,Sparkling,White,France,LAURENT PERRIER GRAND SIECLE,25.95,280.26,France,,,,,,0,162,0
+d7h014-013_2_5,"{3428,-2568}",d7h014-013,94,French Champagne,Perrier Jouet Brut,0,11.89,128.41,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT,11.89,128.41,France,,,,,,0,246,0
+d79w2m-034_2_33,"{2127,-4896}",d79w2m-034,425,Wines of Portugal,LANCERS ROSE (Pink),,3.75,40.50,Standard,wine,Still,,Portugal,LANCERS ROSE (Pink),3.75,40.50,,,rose,,,,0,25,0
+d79w2m-037_2_4,"{2071,-3845}",d79w2m-037,698,The Good 1960 and 1963 Clarets,"CHATEAU LA MISSION
+
+HAUT BRION (Graves)",1963,3.79,40.95,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION (Graves),3.79,40.83,France,,,,Graves,,5,67,0
+d79w2m-038_3_2,"{1985,-3421}",d79w2m-038,405,White Bordeaux,CHATEAU BOUSCAUT (Graves),1964,3.25,35.10,Standard,wine,Still,White,France,CHATEAU BOUSCAUT (Graves),3.25,33.10,France,1964,,,Graves,,0,147,0
+d7js34-025_1_4,"{554,-1776}",d7js34-025,155,French Champagnes on Sale,Ayala Gold Label Brut,1959,4.99,56.50,Standard,wine,Sparkling,White,France,Magnums $52 155 AYALA GOLD LABEL BRUT,4.99,56.50,France,1959,,,,,16,105,0
+d7js34-026_1_11,"{659,-3241}",d7js34-026,3,Pick Your Favorite French Champagne,Bollinger Brut,0,7.30,78.84,Standard,wine,Sparkling,White,France,Cordon Rouge Brut,7.43,81.73,,,red,,,,9,22,2.6
+d7js34-026_1_14,"{643,-3465}",d7js34-026,108,Pick Your Favorite French Champagne,Piper Heidsieck Cuvee Brut,0,7.55,81.54,Standard,wine,Sparkling,White,France,Cliquot Yellow Label Brut,8.72,94.18,,1959,,,,,18,24,23.4
+d7ms3r-029_1_2,"{660,-1225}",d7ms3r-029,85,Marcel Pere Brut,French Champagnes,0,4.99,58.50,Standard,wine,Sparkling,White,France,astonishing Champagne,114.11,,France,,,,,Champagne,10,183,2182.4
+d7kw23-010_1_5,"{2043,-1913}",d7kw23-010,805,Unusual Wines (Cont'd),Chateau Roubaud Rouge,1966,1.79,19.35,Standard,wine,Still,Red,Spain,CHATEAU ROUBAUD ROUGE,1.99,19.35,,1966,red,,,,0,27,4
+d7nk5r-002_1_8,"{455,-4552}",d7nk5r-002,54,Champagnes on Sale,Cremant Blanc de Blancs,1964,9.25,100.00,Standard,wine,Sparkling,White,France,CREMANT BLANC DE BLANCS Roed Deerer,4.00,9.25,,1964,white,,,,12,96,105
+d7pp4q-023_1_5,"{352,-2005}",d7pp4q-023,94,French Champagne,Perrier Jouet Brut,0,8.95,96.66,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,8.99,97.09,France,,,,,,10,48,0.800000000000018
+d7pp4q-023_1_8,"{376,-2387}",d7pp4q-023,98,French Champagne,Ayala Gold Label Brut,1970,8.99,105.00,Standard,wine,Sparkling,White,France,"",9.99,108.00,,,,,,,21,16,20
+d7pp4q-023_2_6,"{2024,-1798}",d7pp4q-023,85,American Champagne,Charles Fournier Blanc de Blancs (New York),1971,6.95,75.06,Standard,wine,Sparkling,White,United States of America,CHARLES FOURNIER BLANC DE BLANCS (New York),6.95,75.06,US,1971,white,,,New York,0,17,0
+d7ps3c-002_1_7,"{420,-4162}",d7ps3c-002,22,Champagnes on Sale,Pommery & Greno Brut,,7.75,83.39,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,7.75,83.39,France,,,,,,2,139,0
+d7s881-005_1_5,"{1815,-3714}",d7s881-005,57,Why Buy French Champagne before December 31st?,Marcel Pere Et Fils Brut,1970,8.49,92.50,Standard,wine,Sparkling,White,France,"",19.70,,,,,,,,24,44,224.2
+d7tg6n-004_3_9,"{474,-3846}",d7tg6n-004,49,French Champagnes-Bottles,Moet & Chandon Brut Imperial,0,6.92,74.74,Standard,wine,Sparkling,White,France,Moet Chandon Brut Imperial,6.92,74.74,France,,,,,,2,40,0
+d7v88n-004_2_14,"{453,-2254}",d7v88n-004,-1,Champagne for Parties,Sparkling Saumur Veuve Amoit Cremant du Roi,0,2.68,29.50,Standard,wine,Sparkling,White,France,AAA AANS WAAAY AAN WAS Save $22 Der Moet Chandon,8.49,91.69,France,1952,,,,,37,453,116.2
+d7vc79-003_1_15,"{568,-4115}",d7vc79-003,91,French Champagnes,Krug Brut Reserve Private Cuvee,0,9.95,109.35,Standard,wine,Sparkling,White,France,KRUG BRUT RESERVE PRIVATE CUVEE,9.35,9.95,Romania,,,,,,0,42,12
+d7vc79-003_2_9,"{2244,-3852}",d7vc79-003,151,American Champagnes,Gold Seal Brut,0,4.70,50.76,Standard,wine,Sparkling,White,United States of America,Rui,4.70,,,,,,,,12,60,0
+d7vc79-028_2_2,"{2135,-1518}",d7vc79-028,634,The Wines of Chile,Pinot Noir,1966,1.98,22.00,Standard,wine,Still,Red,Chile,634 PINOT NOIR 966,1.98,22.00,,,,Pinot Noir,,,8,20,0
+d7w88z-016_1_7,"{596,-4191}",d7w88z-016,105,American Champagne...,Sebastiani Brut (California),0,3.59,38.75,Standard,wine,Sparkling,White,United States of America,SEBASTIANI BRUT (California),3.59,38.75,US,,,,,California,0,92,0
+d7x30h-016_1_7,"{658,-4224}",d7x30h-016,105,American Champagne,Sebastiani Brut (California),0,3.59,38.75,Standard,wine,Sparkling,White,United States of America,SEBASTIANI BRUT (California),3.59,38.75,US,,,,,California,0,209,0
+d7ws37-000_1_8,"{669,-2849}",d7ws37-000,H,Rhine Wines,Liebfraumilch Spatlese,1949,1.35,29.95,Half Bottle,wine,Still,White,Germany,LIEBFRAUMILCH SPATLESE 199 (Kellerabfullung Bauman),2.49,27.95,US,,,,,,29,83,22.8
+d7z30t-008_2_13,"{717,-4973}",d7z30t-008,92,Other World-Famous Champagnes,Perrier Jouet Brut (English Market),1949,7.85,85.00,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT English Market),7.85,85.00,France,1949,,,,,1,143,0
+d7101s-026_1_10,"{419,-2928}",d7101s-026,26,French Champagnes,Charles Hiedsieck Brut,1969,11.95,128.25,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRUT,11.95,128.25,France,1969,,,,,2,28,0
+d7101s-026_1_17,"{419,-3351}",d7101s-026,71,French Champagnes,Bollinger Brut,1969,13.90,150.12,Standard,wine,Sparkling,White,France,BOLLINGERBRUT,13.90,150.12,France,1968,,,,,1,29,0
+d74s3d-003_1_11,"{453,-3392}",d74s3d-003,123,French Champagne,Marcel Pere Et Fils Brut,0,6.99,83.75,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,6.99,83.75,,,,,,,3,90,0
+d76k5q-008_2_1,"{2142,-1993}",d76k5q-008,144,American Champagnes,Andre Mongier Brut (N.Y.),0,3.49,39.75,Standard,wine,Sparkling,White,United States of America,ANDRE MONCIER BRUT,3.49,39.75,,,,,,,8,117,0
+d76k5q-008_2_2,"{2162,-2393}",d76k5q-008,5,American Champagnes,Sonoma Vineyard Brut,0,7.99,86.29,Standard,wine,Sparkling,White,United States of America,SONOMA VINEYARD BRUT,7.99,86.29,US,,,,Sonoma,,0,155,0
+d79w2m-004_1_2,"{312,-3069}",d79w2m-004,5078,A Library of Rare Old Clarets,"CHATEAU LEOVILLE LASCASES
+ (St. Iulien)",1955,7.99,86.30,Standard,wine,Still,Red,France,Our tastings decade noblest Picl Chateau Latour Acquiring stature 5081 CHATEAU COS Istrsteptney,7.95,85.85,France,1955,,Claret,,,73,14,0.800000000000001
+d79w2m-004_2_13,"{2093,-4666}",d79w2m-004,5064,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1928,19.75,214.99,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),19.75,214.00,France,1929,,,Pauillac,,2,19,0
+d7388t-003_1_1,"{3302,-2159}",d7388t-003,-1,Champagnes,Ayala Non-Vintage,0,3.49,40.00,Fifth,wine,Sparkling,White,,20) AYALA Non Vinta Fifths ONIN Anny,3.49,420.00,France,,,,,,22,830,0
+d7388t-004_1_9,"{1062,-1759}",d7388t-004,-1,Champagnes,"Lanson, Dry Extra",0,3.69,39.75,Fifth,wine,Sparkling,White,,Extra Dry Fifths,5.50,56.00,,,,,,,12,101,36.2
+d7388t-004_2_4,"{3249,-1435}",d7388t-004,-1,Champagnes,"Ruinart Pere Et Fils, Non-Vintage Brut",0,3.90,42.00,Standard,wine,Sparkling,White,,Non Vintage Brut,3.90,42.00,,,,,,,23,432,0
+d7388t-005_1_1,"{3159,-835}",d7388t-005,-1,Red Bordeaux (Clarets),Jean Valan & Co Margaux,1929,0.97,11.00,Standard,wine,Still,Red,France,Study Study Bordeaux Rouge Superieur,10.00,,France,1928,red,,,Bordeaux,29,3174,180.6
+d7388t-005_1_6,"{3159,-1813}",d7388t-005,-1,Chateau Bottled Red Bordeaux,Chateau  Lynch-Bages,1929,1.39,15.00,Standard,wine,Still,Red,France,$89 Son 1029 Chateau Lunch Bages Prk,1.39,15.00,,,,,,,20,3159,0
+d79w2m-008_1_2,"{425,-1988}",d79w2m-008,625,"Original
+
+Abfullung","MARCOBRUNNER RIESLING CABINET EDELBEERENAUSLESE, Langwerth von Simmern",1964,22.50,,Standard,wine,Still,,Germany,MARCOBRUNNER RIESLING CABINET EDELBEERENAUSLESE Original Abfullung Langwerth Simmermn,22.50,,Germany,1964,,Riesling,,,24,50,0
+d79w2m-009_1_4,"{338,-3448}",d79w2m-009,595,The Great 1961 Clarets,"CHATEAU LYNCH BAGES
+ (Pauillac)",1964,4.79,51.75,Standard,wine,Still,Red,France,CHATEAU LYNCH BAGES Paulllag),4.79,51.75,France,,,,,,4,86,0
+d79w2m-009_1_7,"{327,-4466}",d79w2m-009,804,The Great 1961 Clarets,CHATEAU CANON (St. Emilion),1964,5.49,59.39,Standard,wine,Still,Red,France,CHATEAU CANON (Saint Emilion),3.49,59.30,France,,,,,,4,37,40
+d79w2m-004_2_15,"{2093,-4909}",d79w2m-004,5071,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1924,11.95,129.00,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),11.95,129.00,France,1926,,,Pauillac,,2,18,0
+d79w2m-009_2_6,"{2116,-3846}",d79w2m-009,195,The Great 1961 Clarets,CHATEAU LATOUR (Pauillac),1964,17.50,189.00,Standard,wine,Still,Red,France,CHATEAU LATOUR (Pauillac),17.50,189.00,France,,,,Pauillac,,0,30,0
+d7101s-026_1_20,"{415,-3595}",d7101s-026,106,French Champagnes,Piper Heidsieck Brut,1969,15.89,171.61,Standard,wine,Sparkling,White,France,PIPER HEIDSIECK BRUT,15.89,171.61,France,1969,,,,,0,28,0
+d79w2m-034_1_10,"{337,-2477}",d79w2m-034,480,The Wines of the Loire Valley,"POUILLY BLANC F UME, Seguin",1967,2.79,30.15,Standard,wine,Still,,France,POUILLY BLANC FUME Seguin,2.79,30.15,,1967,white,,,,2,6,0
+d7101s-026_1_4,"{427,-2577}",d7101s-026,152,French Champagnes,Bollinger Brut,0,9.95,107.46,Standard,wine,Sparkling,White,France,BOLLINGER BRUT,9.95,107.06,France,,,,,,0,34,0
+d79w2m-013_3_5,"{2031,-2371}",d79w2m-013,167,Red Bordeaux,"CHATEAU BEYCHEVELLE (St. Julien), Mongeard Mugneret",1964,4.79,51.75,Standard,wine,Still,Red,France,(Margaux) LASCOMBES CHATEAU 190 Owned,4.49,49.48,France,,,,Margaux,,40,45,6
+d79w2m-034_2_11,"{2107,-2692}",d79w2m-034,810,The Interesting Country Wines of France,FITOU ROUGE (Pyrenees),,1.69,18.25,Standard,wine,Still,,France,FITOU ROUGE (Pyrenees),1.69,18.25,Australia,,red,,Pyrenees,,0,12,0
+d79w2m-023_1_2,"{446,-2229}",d79w2m-023,398,The Very Best of Switzerland,"Gilliard Fendant ""Les Murettes"" ",1967,3.39,36.60,Standard,wine,Still,White,Switzerland,FENDANT MURETTES Gilliard,3.39,36.60,,1967,,,,,23,89,0
+d7f598-021_3_3,"{501,-5260}",d7f598-021,-1,The Important Champagne Event of 1975,Blason de France,1966,16.95,183.06,Standard,wine,Sparkling,White,France,"BLASON DE FRANCE 2208""",16.95,183.06,Italy,1966,,,,,6,22,0
+d79w2m-025_2_5,"{2048,-3267}",d79w2m-025,403,Burgandy,"CHAPELLE CHAMBERTIN, Pierre Damoy",1964,5.79,62.55,Standard,wine,Still,Red,France,CHAPELLE CHAMBERTIN,5.79,62.55,France,,red,,Chapelle Chambertin,,14,103,0
+d79w2m-025_2_9,"{2058,-4529}",d79w2m-025,798,,"VOSNE ROMANEE
+
+LA GRANDE RUE, H. Lamarche",1964,12.50,135.00,Standard,wine,Still,Red,France,VOSNE ROMANEE GRANDE RUE Lamarche,12.50,135.00,,,,,La Grande Rue,,8,94,0
+d79w2m-026_1_6,"{289,-4158}",d79w2m-026,456,The Great White Burgandies of the Blessed 1966 vintage,CHABLIS EPINOTTE,1964,3.49,37.70,Standard,wine,Still,White,France,CHABLIS EPINOTTE,3.49,37.70,France,,,,Chablis,,0,38,0
+d7g01t-025_1_1,"{507,-1565}",d7g01t-025,120,French Champagnes,Marcel Pere Brut,0,7.99,89.50,Standard,wine,Sparkling,White,France,MARCEL PERE BRUT,7.99,83.50,,,,,,,0,162,0
+d79w2m-029_1_7,"{246,-4004}",d79w2m-029,439,Clarets of the 1962 Vintage,"CHATEAU GAFFELIERE-NAUDES
+ (St. Emilion)",1962,3.59,38.75,Standard,wine,Still,Red,France,CHATEAU GAFFELIERE NAUDES (S{ Fmilion},3.59,38.75,,,,,,,6,75,0
+d7g59k-003_1_6,"{480,-4337}",d7g59k-003,-1,White Burgundy,"Chassagne Montrachet, Clos des Ruchottes",1969,57.00,0.00,Standard,wine,Still,White,France,Chassagne Montrachet Clos des Ruchottes,57.00,,France,,,,Chassagne Montrachet,,1,125,0
+d79w2m-030_1_4,"{369,-3194}",d79w2m-030,322*,Red Burgundies,"BEAUNE GREVES, Mme. Duchet . .",1966,3.79,40.95,Standard,wine,Still,Red,France,BEAUNE GREVES Mme Duchet,3.79,40.95,France,,,,Beaune,,6,29,0
+d79w2m-030_1_6,"{365,-3598}",d79w2m-030,230*,Red Burgundies,"VOSNE-ROMANEE, Mugneret",1966,3.99,43.10,Standard,wine,Still,Red,France,VOSNE ROMANEE Mugneret,3.99,43.10,France,,,,Vosne Romanee,,2,26,0
+d7g01t-025_1_37,"{499,-4892}",d7g01t-025,130,Coteaux Champenois,Bollinger Natur Coteaux Champenois,0,4.89,52.82,Standard,wine,Still,White,France,BOLLINGER NATUR COTEAUX CHAMPENOIS,0.89,52.82,France,,,,,,0,138,80
+d7g59k-004_1_8,"{531,-4088}",d7g59k-004,-1,Red Burgundy,Clos des Ruchottes-Chambertin,1969,79.00,0.00,Standard,wine,Still,Red,France,Clos des Ruchottes Chambertin,79.00,,France,,,,Chambertin,,1,165,0
+d7h59w-017_1_5,"{416,-4099}",d7h59w-017,7,Champagne on Sale,Cramant Blanc De Blancs (De Moere),1959,4.99,56.60,Standard,wine,Sparkling,White,France,"CRAMANT BLANC DE BLANCS (De Moere) ""Sn",4.99,56.50,,1959,white,,,,4,91,0
+d7k01r-001_1_2,"{797,-1990}",d7k01r-001,120,Champagne & Sparkling Wine,Marcel Pere Et Fils Brut,0,6.99,79.95,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,6.99,79.95,,,,,,,3,308,0
+d7kw23-009_1_20,"{498,-5142}",d7kw23-009,562,From the Loire Valley,Cros Plant (Sautejeau),1967,1.79,19.35,Standard,wine,Still,Red,France,GROS PLANT (Sautejeau) Crown Brittany Nantes Similar Meicredot,1.99,19.35,,1967,red,Gros Plant,,,41,22,4
+d7nk5r-002_1_1,"{487,-2344}",d7nk5r-002,110,Champagnes on Sale,Pierre Cartier Brut Rose,0,4.95,53.51,Standard,wine,Sparkling,Rosé,France,PIERRE CARTIER BRUT ROSE NPV RETR,4.95,53.51,,,rose,,,,9,102,0
+d7kw23-009_1_4,"{490,-2405}",d7kw23-009,484,White Wines from the Rhone Valley,Chateauneuf Du Pape Blanc,1966,2.99,32.30,Standard,wine,Still,White,France,HERMITAGE BLANC (Noyer),3.89,12.00,France,1964,white,,Hermitage,,23,30,18
+d7nk5r-002_1_9,"{455,-4932}",d7nk5r-002,97,Champagnes on Sale,Charles Heidsieck cuvée royal,1959,11.95,129.06,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK CUVEE ROYAL,11.98,110.06,France,1989,,,,,1,62,0.600000000000023
+d7pp4q-023_1_26,"{412,-3927}",d7pp4q-023,61,French Champagne,Krug Blanc de Blancs,1969,22.50,243.00,Standard,wine,Sparkling,White,France,KRUG BLANC DE BLANCS,22.50,243.00,,1969,white,,,,0,42,0
+d7ps3c-002_1_5,"{435,-3184}",d7ps3c-002,155,Champagnes on Sale,AYALA GOLD LABEL BRUT,1961,5.99,68.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,5.99,68.50,France,1961,,,,,0,125,0
+d7ps3c-002_2_7,"{2046,-4684}",d7ps3c-002,131,Other Champagnes and Sparkling Wines,"GANCIA ASTI SPUMANTI (Piedmont, Italy)",,4.88,52.70,Standard,wine,Sparkling,White,Italy,GANCIA ASTI SPUMANTI (Piedmont Italy) Asti just Turin (SHEE,4.38,52.70,Italy,,,,,Piedmont,23,12,10
+d7tg6n-004_4_15,"{2106,-4537}",d7tg6n-004,27,French Champagnes-Magnums,Moet & Chandon Dom Perignon,1959,27.00,145.80,Magnum,wine,Sparkling,White,France,Moet Chandon Dom Perignon,27.00,145.80,France,1959,,,,,2,4,0
+d7ps3c-002_2_8,"{2046,-4933}",d7ps3c-002,99,Other Champagnes and Sparkling Wines,KORBEL BRUT (California),,4.99,53.89,Standard,wine,Sparkling,White,United States of America,KORBEL BRUT (California),4.99,53.89,US,,,,,California,0,61,0
+d7tg6n-004_4_18,"{2110,-5028}",d7tg6n-004,76,French Champagnes-Jeraboams,Moet & Chandon Imperial,1959,36.77,99.28,Jeroboam,wine,Sparkling,White,France,Moet Chandon Imperial,36.77,99.28,France,1959,,,,,2,14,0
+d7vc79-003_1_19,"{536,-4749}",d7vc79-003,58,French Champagnes,Cliquot Gold Label Brut,1964,10.45,112.86,Standard,wine,Sparkling,White,France,CLIQUOT GOLD LABEL BRUT,10.45,,,,,,,,0,12,0
+d7tg6n-004_4_8,"{2126,-4150}",d7tg6n-004,6,French Champagnes-Magnums,Bollinger Brut,0,15.45,83.43,Magnum,wine,Sparkling,White,France,Bollinger Brut,15.45,83.43,France,,,,,,0,32,0
+d7tg6n-004_4_9,"{2118,-4210}",d7tg6n-004,65,French Champagnes-Magnums,Mumm's Cordon Rouge Brut,0,15.45,84.95,Magnum,wine,Sparkling,White,France,Cordon Rouge Brut,15.45,84.95,,,red,,,,7,15,0
+d7vc79-003_2_14,"{2236,-4949}",d7vc79-003,53,American Champagnes,Schramsberg Blanc de Blancs,1968,6.99,79.50,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS,78.09,,US,1968,white,,,,0,48,1422
+d7z30t-008_3_14,"{2292,-4679}",d7z30t-008,90,Other World-Famous Champagnes,Krug Extra Sec (English Market),1949,10.00,108.00,Standard,wine,Sparkling,White,France,Market) Cremersesicsciressaisossens,10.00,108.00,,,,,,,28,102,0
+d7z30t-008_3_3,"{2306,-3682}",d7z30t-008,58,Other World-Famous Champagnes,Clicquot Yellow Label,1952,8.38,90.49,Standard,wine,Sparkling,White,France,CLICQUOT YELLOW LAB,8.38,90.49,,,,,,,2,107,0
+d7101s-026_1_22,"{415,-3707}",d7101s-026,100,French Champagnes,Dom Ruinart Rose,1966,16.79,181.34,Standard,wine,Sparkling,Rosé,France,DOM RUINART ROSE,16.79,181.34,France,1966,rose,,,,0,28,0
+d7388t-004_1_16,"{1079,-2497}",d7388t-004,-1,Champagnes,"Mumm, G. H. ""Cordon Rouge""",1928,5.49,59.40,Fifth,wine,Sparkling,White,,Mumm,5.49,59.40,,1928,red,,,,22,118,0
+d7388t-004_2_3,"{3269,-1212}",d7388t-004,-1,Champagnes,"Royal Chadron, English Cuvee",1928,2.89,29.75,Fifth,wine,Sparkling,White,,Baglish Cuvee (inne Fifths,2.89,29.75,,1928,,,,,25,452,0
+d7388t-007_1_3,"{976,-1210}",d7388t-007,-1,Chateau Bottled White Bordeaux,Chateau d' Yquem,0,3.40,37.00,Standard,wine,Still,White,France,Chateau Climens Chateau,3.40,37.00,France,,,,,,13,32,0
+d76k5q-008_1_6,"{540,-4331}",d76k5q-008,68,French Champagnes and Sparkling Wines,Roederer Jamin Brut,1966,7.99,86.90,Standard,wine,Sparkling,White,France,ROEDERER JAMIN BRUT (French Champagne),7.99,86.90,France,1966,,,,Champagne,19,165,0
+d79w2m-004_2_16,"{2093,-5034}",d79w2m-004,5072,A Library of Rare Old Clarets,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1923,11.95,129.99,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),11.95,129.00,France,1924,,,Pauillac,,2,19,0
+d79w2m-004_2_2,"{2096,-2843}",d79w2m-004,5051,A Library of Rare Old Clarets,"CHATEAU CHEVAL BLANC
+ (St. Emilion)",1949,23.50,243.00,Standard,wine,Still,Red,France,CHATEAU PICHON LONGUEVILLE LALANDE (Pauillac),11.85,128.25,France,,,,Pauillac,,26,23,233
+d79w2m-009_2_2,"{2129,-2664}",d79w2m-009,568,The Great 1961 Clarets,"CHATEAU LA MISSION HAUT
+
+BRION (Graves)",1964,9.49,102.50,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION (Graves),102.50,,France,,,,Graves,,5,76,1860.2
+d79w2m-013_2_13,"{335,-3662}",d79w2m-013,712,Red Bordeaux,CHATEAU ROUGET (Pomerol),1964,3.45,37.50,Standard,wine,Still,Red,France,CHATEAU ROUGET (Pomerol),3.45,37.50,France,,red,,Pomerol,,0,36,0
+d79w2m-013_2_16,"{321,-4201}",d79w2m-013,300,Red Bordeaux,CHATEAU LYNCH BAGES (Pauillac),1964,3.69,39.85,Standard,wine,Still,Red,France,Stoller Dial,3.69,39.85,US,,red,,,,24,64,0
+d79w2m-025_1_12,"{245,-5126}",d79w2m-025,259,Burgandy,"CHAMBOLLE MUSIGNY, Cambola",1964,3.99,43.10,Standard,wine,Still,Red,France,GEVREY CHAMBERTIN Tortochot best Red Burgundy tasted Here Tortochot 259 CHAMBOLLE MUSIGNY Cambola,3.99,43.10,France,,red,,Gevrey Chambertin,Burgundy,73,23,0
+d79w2m-034_2_18,"{2114,-3486}",d79w2m-034,498,Wines of Spain,"CABERNET SAUVIGNON, Cataluna",1966,1.49,16.10,Standard,wine,Still,,Spain,CABERNET SAUVIGNON Cataluna,1.49,16.10,,1966,,Cabernet Sauvignon,,,1,18,0
+d7c889-012_1_10,"{799,-4536}",d7c889-012,155,"""Best Buys"" in Champagne",Ayala Gold Label Brut,1961,5.99,68.50,Standard,wine,Sparkling,White,France,AYALA COLD LABEL BRUT,5.99,68.50,France,1961,,,,,1,254,0
+d79w2m-034_2_19,"{2117,-3550}",d79w2m-034,525,Wines of Spain,"GAMAY ROSE, Cataluna",1966,1.49,16.10,Standard,wine,Still,,Spain,GAMAY ROSE Cataluna,1.49,16.10,,1966,rose,Gamay,,,1,22,0
+d79w2m-037_1_1,"{305,-2805}",d79w2m-037,650,The Good 1960 and 1963 Clarets,CHATEAU LASCOMBES (Margaux),1960,2.99,32.30,Standard,wine,Still,Red,France,CHATEAU LASCOMBES (Margaux),2.99,32.30,France,,,,Margaux,,0,9,0
+d79w2m-038_1_2,"{241,-1186}",d79w2m-038,905,The Charming Vin Roses of France,"COTE DE PROVENCE, Nicolas",1966,1.49,16.10,Standard,wine,Still,Rosé,France,COTE DE PROVENCE Nicolas The Provence Joos,1.49,16.10,France,1966,,,Cotes de Provence,Provence,19,118,0
+d79w2m-026_1_4,"{285,-3203}",d79w2m-026,792,The Great White Burgandies of the Blessed 1966 vintage,POUILLY-FUISSE,1964,2.85,32.49,Standard,wine,Still,White,France,POUILLY FUISSE,2.85,32.49,France,,,,Pouilly Fuisse,,1,46,0
+d79w2m-030_2_3,"{2129,-3058}",d79w2m-030,1087,Red Burgundies,"BEAUNE, Cuvee Brunet",1966,5.99,64.70,Standard,wine,Still,Red,France,BEAUNE Cuvee Brunet,5.99,64.70,France,,,,Beaune,,1,14,0
+d79w2m-030_2_8,"{2125,-4035}",d79w2m-030,906,Red Burgundies,"CHAMBERTIN, CLOS DE BEZE, Gelin",1966,9.95,107.45,Standard,wine,Still,Red,France,CHAMBERTIN CLOS DE BEZE Geli From Encyclopedia Chamber,9.95,107.25,France,,,,Chambertin Clos de Beze,,27,67,0
+d79w2m-030_2_9,"{2122,-4334}",d79w2m-030,1069,Red Burgundies,"MUSIGNY, VIEILLES VIGNES, Comte de Vogue",1966,16.50,178.00,Standard,wine,Still,Red,France,MUSIGNY VIEILLES VIGNES Comte de Vogue,16.30,178.00,France,,,,Musigny,,2,64,3.99999999999999
+d79w2m-034_1_15,"{341,-3052}",d79w2m-034,1015,The Wines of Alsace,"RIESLING, Huge]",1966,2.55,27.40,Standard,wine,Still,White,Germany,RIESLING Hugel,2.55,27.40,France,1966,,Riesling,,,2,4,0
+d7g01t-025_1_26,"{535,-3570}",d7g01t-025,100,French Champagnes,Dom Ruinart Rose,1966,16.79,181.34,Standard,wine,Sparkling,Rosé,France,DOM RUINART ROSE,16.79,181.34,France,1966,rose,,,,0,168,0
+d7g59k-003_1_3,"{476,-3282}",d7g59k-003,-1,White Burgundy,"Meursault, Santenots",1969,48.00,0.00,Standard,wine,Still,White,France,Meursault Santenots,48.00,,France,,,,Meursault,,1,121,0
+d7g01t-025_1_30,"{531,-3887}",d7g01t-025,61,French Champagnes,Krug Blanc de Blancs,1966,22.50,243.00,Standard,wine,Sparkling,White,France,KRUG BLANC DE BLANCS,22.50,243.00,,1966,white,,,,0,162,0
+d7h014-014_1_8,"{975,-2288}",d7h014-014,16,French Champagnes,De Venoge Champagne des Princes,1971,21.99,250.50,Standard,wine,Sparkling,White,France,DE VENOGE CHAMPAGNE DES PRINCES,21.99,250.50,France,1971,,,,Champagne,0,218,0
+d7js34-025_1_11,"{538,-4543}",d7js34-025,SS1,American Champagne,Sepastiani Brut (California),0,3.59,38.75,Standard,wine,Sparkling,White,United States of America,The French Champagne district Pinot Chardonnay The Champagne Gold Medals Pomona 1960,1.19,,,1958,,Pinot Chardonnay,,Champagne,69,41,48
+d7js34-026_1_15,"{647,-3549}",d7js34-026,58,Pick Your Favorite French Champagne,Cliquot Yellow Label Brut,1959,8.72,94.18,Standard,wine,Sparkling,White,France,Lanson Brat 3059,5.45,91.26,France,,,,,,20,25,65.4
+d7js34-026_1_16,"{655,-3629}",d7js34-026,16,Pick Your Favorite French Champagne,Lanson Brut,1959,8.45,91.26,Standard,wine,Sparkling,White,France,Charles Heidsieck British Cuvee,8.88,95.91,France,1959,,,,,25,18,8.60000000000003
+d7ms3r-030_1_15,"{550,-4909}",d7ms3r-030,126,"Sparkling ""Cold Duck""",Kendermann (Germany),0,3.49,39.75,Standard,wine,Sparkling,Rosé,Germany,KENDERMANN (Germany),3.49,99.75,,,,,,,0,152,0
+d7pp4q-023_1_12,"{392,-2598}",d7pp4q-023,35,French Champagne,Pol Roger Brut,0,10.95,118.25,Standard,wine,Sparkling,White,France,MOET CHANDON BRUT IMPERIAL,10.99,118.69,Chile,,,,,,19,30,0.800000000000018
+d7pp4q-023_1_31,"{428,-4428}",d7pp4q-023,15,French Champagne,Louis Roederer Cristal,1973,29.95,323.46,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE BLANCS,29.98,330.98,France,,white,,,,23,54,0.600000000000023
+d7pp4q-023_2_16,"{2212,-3628}",d7pp4q-023,77,Other European Sparkling Wines,"Asti Spumante, Cinzano",0,6.69,72.75,Standard,wine,Sparkling,White,Italy,CHAUVENET RED CAP,6.99,75.49,US,,red,,,,18,198,6
+d7ps3c-002_2_2,"{2039,-2818}",d7ps3c-002,2,Other Champagnes and Sparkling Wines,"St. Michel Brut (Finger Lakes, N.Y.)",,2.49,26.90,Standard,wine,Sparkling,White,United States of America,SAINT MICHEL BRUT (Finger Lakes FEN,2.49,26.90,US,,,,Finger Lakes,,10,10,0
+d7qs3p-005_1_25,"{356,-4148}",d7qs3p-005,-1,Champagnes for the Holidays,Pommery & Greno Brut,1947,7.49,80.89,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,7.43,80.89,France,,,,,,2,12,1.20000000000001
+d7tg6n-004_3_10,"{478,-3910}",d7tg6n-004,31,French Champagnes-Bottles,Louis Roederer Cour royale Brut,0,6.98,75.50,Standard,wine,Sparkling,White,France,Louis Roederer Cour Royale Brut,6.98,75.50,France,,,,,,0,44,0
+d7tg6n-004_3_26,"{462,-4785}",d7tg6n-004,90,French Champagnes-Bottles,Krug Extra Sec,1955,9.59,103.60,Standard,wine,Sparkling,White,France,Krug Bxtra'Sec,9.59,7103.60,,1955,,,,,2,33,0
+d7tg6n-004_3_31,"{458,-5056}",d7tg6n-004,20,French Champagnes-Bottles,Laurent Perrier Grand Siecle,1955,12.40,133.92,Standard,wine,Sparkling,White,France,Laurent Perrier Grand Siecle,12.40,133.92,France,1955,,,,,0,31,0
+d7s881-005_1_11,"{1827,-4734}",d7s881-005,39,Why Buy French Champagne before December 31st?,Dom Ruinart Blanc de Blancs,1971,13.99,151.25,Standard,wine,Sparkling,White,France,Such Champagnes Dom Perignon France Louis Roederer Cristal,400.00,,France,,,,,Champagne,45,54,7720.2
+d7tg6n-004_4_14,"{2114,-4481}",d7tg6n-004,57,French Champagnes-Magnums,Krug Extra Sec,1953,20.95,113.13,Magnum,wine,Sparkling,White,France,Krug Extra Sec,20.95,113.13,,1988,,,,,0,14,0
+d7vc79-003_2_5,"{2220,-2823}",d7vc79-003,82,French champanges,Moet & Chandon Dom Perignon,1962,15.55,167.94,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON,5.55,,US,1962,,,,,2,32,200
+d7tg6n-004_4_5,"{2122,-4002}",d7tg6n-004,38,French Champagnes-Magnums,Moet & Chandon Imperial Brut,0,14.42,77.87,Magnum,wine,Sparkling,White,France,Moet Chandon Imp Brut,14.42,77.87,France,,,,,,7,21,0
+d7ws37-000_1_21,"{757,-4261}",d7ws37-000,T,Moselles Wines,Berncasteler Doctor Cabinet Auslese,1949,4.99,57.50,Standard,wine,Still,White,Germany,BERNCASTELER DOCTOR CABINET AUSLESE (Orig Growth,4.99,57.50,,1949,,,,,13,172,0
+d7101s-026_1_16,"{419,-3292}",d7101s-026,18,French Champagnes,Cliquot Yellow Label Brut,0,13.55,146.34,Standard,wine,Sparkling,White,France,CLIQUOT YELLOW LABEL BRUT,13.55,146.34,,,,,,,0,29,0
+d7101s-026_1_18,"{419,-3427}",d7101s-026,39,French Champagnes,Dom Ruinart Blanc de Blancs,1969,14.65,158.22,Standard,wine,Sparkling,White,France,DOM RUINART BLANC DE BLANGS 2969,14.65,,France,,white,,,,6,37,0
+d7101s-026_1_19,"{419,-3527}",d7101s-026,34,French Champagnes,Roederer Brut,1971,14.95,158.22,Standard,wine,Sparkling,White,France,ROEDERER BRUT,14.95,162.00,,1971,,,,,0,34,0
+d7101s-026_1_31,"{379,-4629}",d7101s-026,81,Other Sparkling Wines From France,Boyer Brut Blanc de Blancs,1972,4.99,59.88,Standard,wine,Sparkling,White,France,BOYER BRUT BLANC DE BLANCS,4.99,59.88,,1972,white,,,,0,23,0
+d7z30t-008_2_2,"{676,-3825}",d7z30t-008,36,Other World-Famous Champagnes,St. Marceaux Brut,1952,5.49,61.50,Standard,wine,Sparkling,White,France,SAINT MARCEAUX BRUT,5.49,61.50,,1952,,,,,4,118,0
+d72013-005_1_17,"{824,-4509}",d72013-005,218,Bordeaux Rouges,CHATEAU MOUTUH ROTHSCHILD (Pauillac),1961,15.95,172.50,Standard,wine,Still,Red,France,CHATEAU LAFITE ROTHSCHILD Pauiliac,19.50,210.00,France,,,,Pauillac,,9,516,71
+d7388t-004_1_18,"{1100,-2754}",d7388t-004,-1,Champagnes,"Perrier Jouet, English Cuvee",0,3.65,40.00,Fifth,wine,Sparkling,White,,English CVRD Lila Fifths PRT,3.65,40.00,,,,,,,25,139,0
+d7388t-004_2_9,"{3207,-3023}",d7388t-004,-1,Sparkling Burgundy,Fortier-Picard,0,2.49,27.00,Fifth,wine,Sparkling,Red,,Fortier Picard Fifths,2.49,27.00,,,,,,,8,390,0
+d7388t-007_1_1,"{942,-977}",d7388t-007,-1,Chateau Bottled White Bordeaux,Chateau Filhot,1929,1.95,21.00,Standard,wine,Still,White,France,Chateau Latour Blanche,2.23,24.00,France,,white,,,,13,29,5.6
+d73s33-006_1_2,"{552,-1752}",d73s33-006,105,"""Best Buys"" In Champagne for the New Year's Celebration",Sebastiani Brut (Calif.),0,3.59,38.75,Standard,wine,Sparkling,White,United States of America,SEBASTIANI BRUT (Calif),3.59,38.75,US,,,,,,1,170,0
+d73s33-006_1_5,"{556,-2955}",d73s33-006,155,"""Best Buys"" in Champagne for the New Year's Celebration",Ayala Gold Label Brut,1961,5.49,60.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,5.49,60.50,France,1961,,,,,0,170,0
+d76k5q-008_1_2,"{488,-2706}",d76k5q-008,1183,French Champagnes and Sparkling Wines,Kriter Brut (Burgundy),0,4.49,49.50,Standard,wine,Sparkling,White,France,KRITER BRUT (Burgundy),4.49,49.50,France,,,,,Burgundy,0,127,0
+d79w2m-013_2_11,"{332,-3329}",d79w2m-013,381,Red Bordeaux,CHATEAU BOUSCAUT (Graves),1964,3.25,35.10,Standard,wine,Still,Red,France,CHATEAU BOUSCAUT (Graves),3.25,35.10,France,,,,Graves,,0,39,0
+d79w2m-013_2_8,"{335,-2784}",d79w2m-013,334,Red Bordeaux,CHATEAU DASSAULT (St. Emilion),1964,2.99,32.30,Standard,wine,Still,Red,France,Thm LAA ULIL (ot Emilion) The Mir Dassanlt Drs Svan,2.99,32.30,,,,,,,40,20,0
+d79w2m-013_3_16,"{2088,-4450}",d79w2m-013,723,Red Bordeaux,CHATEAU HAUT BRION (Graves),1964,9.75,105.30,Standard,wine,Still,Red,France,ANI Vineyard Hard 149 CHATEAU LATOUR (Pauillac),9.75,105.30,France,,,,Pauillac,,36,72,0
+d79w2m-025_1_9,"{208,-4195}",d79w2m-025,308,Burgandy,"MOREY ST. DENIS, CLOS BUSSIERE, Roumier",1964,3.99,43.10,Standard,wine,Still,Red,France,MOREY SAINT DENIS CLOS BUSSIERE ROM,3.09,43.10,,,,,,,10,104,18
+d79w2m-026_2_4,"{2165,-3247}",d79w2m-026,219,The Great White Burgandies of the Blessed 1966 vintage,BATARD MONTRACHET,1964,6.99,79.50,Standard,wine,Still,White,France,BATARD MONTRACHET,6.99,79.50,France,,,,Batard Montrachet,,0,92,0
+d79w2m-026_2_8,"{2103,-4412}",d79w2m-026,242,The Great White Burgandies of the Blessed 1966 vintage,LE MONTRACHET,1964,15.05,162.50,Standard,wine,Still,White,France,MONTRACHET,15.05,162.50,France,,,,Montrachet,,3,32,0
+d79w2m-029_1_1,"{252,-2382}",d79w2m-029,350,Clarets of the 1962 Vintage,"CHATEAU LOISEAU
+ (Bordeaux Superieur)",1962,1.69,18.25,Standard,wine,Still,Red,France,CHATEAU LOISEAU (Bordeaux Superieur),1.69,3.50,France,,,,Bordeaux Superieur,,1,83,0
+d79w2m-029_2_8,"{2014,-4173}",d79w2m-029,202,Clarets of the 1962 Vintage,"CHATEAU MOUTON ROTHSCHILD
+ (Pauillac)",1962,9.95,107.45,Standard,wine,Still,Red,France,CHATEAU MOUTON ROTHSCHILD APanillac),9.95,107.45,France,,,,,,3,70,0
+d79w2m-030_1_1,"{372,-2658}",d79w2m-030,176*,Red Burgundies,"SAVIGNY LAVIERES, Dubreuil. . .",1966,2.99,32.30,Standard,wine,Still,Red,France,SAVIGNY LAVIERES Dubreuil,2.99,32.30,,,,,,,6,34,0
+d79w2m-030_1_8,"{362,-4103}",d79w2m-030,316,Red Burgundies,"CHAMBOLLE MUSIGNY, CHARMES, Cambola-Hudelot",1966,4.49,48.50,Standard,wine,Still,Red,France,CHAMBOLLE MUSIGNY CHARMES Cambola Hudelot,4.49,48.30,France,,,,Chambolle Musigny,,3,83,0
+d79w2m-030_2_4,"{2115,-3269}",d79w2m-030,1082,Red Burgundies,"GRANDS ECHEZEAUX, Mongeard Mugneret",1966,6.79,73.35,Standard,wine,Still,Red,France,GRANDS ECHEZEAUX Mongeard Mugneret,6.79,73.33,France,,,,Grands Echezeaux,,1,91,0
+d79w2m-030_2_5,"{2125,-3533}",d79w2m-030,1074,Red Burgundies,"CLOS DE VOUGEOT, Grivot",1966,6.79,73.35,Standard,wine,Still,Red,France,CLOS DE VOUGEOT Grivot,6.79,73.35,France,,,,Clos de Vougeot,,1,8,0
+d79w2m-034_1_18,"{344,-3574}",d79w2m-034,813,Red Wines of the Rhone Valley,"COTES-DU-RHONE, Nicolas",1966,1.29,13.95,Standard,wine,Still,Red,France,COTES RHONE Nicolas,1.29,13.95,France,1966,,,Cotes du Rhone,,5,2,0
+d79w2m-034_1_19,"{344,-3634}",d79w2m-034,388,Red Wines of the Rhone Valley,"CROZES-HERMITAGE, Nicolas",1966,1.99,21.50,Standard,wine,Still,Red,France,CROZES HERMITAGE Nicolas,1.99,21.50,France,1966,,,Crozes Hermitage,,2,0,0
+d79w2m-034_1_9,"{337,-2413}",d79w2m-034,710,The Wines of the Loire Valley,"BOURGUEIL, Asher",1966,2.79,30.15,Standard,wine,Still,,France,BOURGUEIL Asher,2.79,30.15,France,1968,,,Bourgueil,,1,6,0
+d79w2m-034_2_13,"{2107,-2874}",d79w2m-034,808,The Interesting Country Wines of France,CAHORS ROUGE (Lot Valley),1966,1.79,19.35,Standard,wine,Still,,France,CAHORS ROUGE (Lot Valley),1.79,19.35,,1966,red,,Cahors,,0,12,0
+d79w2m-034_2_4,"{2104,-2140}",d79w2m-034,50000,The Interesting Country Wines of France,"COTES DE BERGERAC, Nicolas",,1.29,13.95,Standard,wine,Still,,France,COTES DE BERGERAC Nicolas,1.29,13.95,France,,,,Cotes de Bergerac,,1,10,0
+d7ds3w-012_1_24,"{408,-3857}",d7ds3w-012,-1,Champagnes for the Holidays,Clicquot Yellow Label Brut,1943,7.40,80.20,Standard,wine,Sparkling,White,France,CLICQUOT YELLOW LABEL,7.40,80.20,,,,,,,5,6,0
+d7g01t-007_1_6,"{2499,-4767}",d7g01t-007,47,The Champgnes of Moet & Chandon,Brut Imperial,1969,7.35,158.76,Half Bottle,wine,Sparkling,White,France,Half Bottle,7.35,158.76,,,,,,,12,289,0
+d7g01t-025_1_19,"{531,-3190}",d7g01t-025,18,French Champagnes,Clicquot Yellow Label Brut,0,13.55,146.34,Standard,wine,Sparkling,White,France,CLICQUOT YELLOW LABEL BRUT,13.55,146.34,,,,,,,0,164,0
+d7g01t-025_1_3,"{535,-1793}",d7g01t-025,98,French Champagnes,Ayala Gold Label Brut,1970,8.49,91.70,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT,8.95,96.66,France,,,,,,14,183,9.19999999999998
+d7g01t-025_1_4,"{511,-2153}",d7g01t-025,121,French Champagnes,Charbaut Blanc de Blancs,1971,8.99,97.10,Standard,wine,Sparkling,White,France,CHARBAUT BLANC DE BLANCS,8.99,97.10,,1971,white,,,,0,146,0
+d7g01t-025_1_12,"{523,-2754}",d7g01t-025,35,French Champagnes,Pol Roger Brut,0,11.35,112.58,Standard,wine,Sparkling,White,France,POLROGERBRUT,11.35,122.58,,,,,,,2,158,0
+d7g01t-025_1_6,"{519,-2261}",d7g01t-025,152,French Champagnes,Bollinger Brut,0,9.95,107.46,Standard,wine,Sparkling,White,France,"",9.95,107.46,,,,,,,14,156,0
+d7g59k-004_1_7,"{519,-3473}",d7g59k-004,-1,Red Burgundy,"Gevrey- Chambertin Premier Cru ""Varoilles""",1969,69.00,0.00,Standard,wine,Still,Red,France,Gevrey Chambertin Premier Cru,69.00,,France,,,,Chambertin,,13,125,0
+d7h014-014_1_7,"{980,-1727}",d7h014-014,34,French Champagne,Louis Roederer Brut,1973,18.00,194.50,Standard,wine,Sparkling,White,France,DOM RUINART BLANC DE,21.99,70.50,France,1971,white,,,,17,222,79.8
+d7h59w-017_1_3,"{396,-3285}",d7h59w-017,36,Champagnes on Sale,Marcel Pere Et Fils Brut,1959,4.59,50.25,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,32.89,350.25,,1959,,,,,3,63,566
+d7j01f-007_5_1,"{557,-3142}",d7j01f-007,-1,French Champagne on Sale,Mesnil Blanc de Blancs,1961,5.99,68.50,Standard,wine,Sparkling,White,France,Ilappellecd IUD 1lllol Ullo Champagne NICOLAS PARIS most FINO PALMA RRNA Alin,1.59,17.95,France,,red,,,Champagne,64,301,88
+d7k01r-001_1_4,"{826,-2940}",d7k01r-001,94,Champagne & Sparkling Wine,Perrier Jouet Brut,0,8.95,96.66,Standard,wine,Sparkling,White,France,PERRIER JOUET BRUT,8.95,96.66,France,,,,,,0,336,0
+d7js34-025_1_6,"{558,-2586}",d7js34-025,31,French Champagnes on Sale,Louis Roederer Cour Royale Brut,0,6.98,75.50,Standard,wine,Sparkling,White,France,LOUIS ROEDERER COUR ROYALE BRUT,6.98,75.50,France,,,,,,0,87,0
+d7js34-025_1_7,"{558,-2960}",d7js34-025,54,French Champagnes on Sale,Bollinger Brut,1955,10.00,108.00,Standard,wine,Sparkling,White,France,BOLLINGER BRUT,108.00,310.00,France,1955,,,,,0,115,1960
+d7js34-026_1_24,"{667,-4250}",d7js34-026,90,Pick Your Favorite French Champagne,Krug Extra Sec,1955,9.59,103.60,Standard,wine,Sparkling,White,France,Cordon Rouge Rose,9.99,109.88,,1955,red,,,,13,31,8.00000000000001
+d7kw23-009_1_11,"{498,-3477}",d7kw23-009,569,Red Wines from the Rhone Valley,Chateauneuf Du Pape (Felibres),1964,2.49,26.90,Standard,wine,Still,Red,France,CHATEAUNEUF DUPAPE,2.49,30.15,France,1961,,,Chateauneuf du Pape,,12,20,0
+d7js34-026_1_3,"{639,-2676}",d7js34-026,25,Pick Your Favorite French Champagne,Ledoyen Blanc de Blancs,1959,5.99,68.50,Standard,wine,Sparkling,White,France,Ledoyen Blanc de Blancs,5.99,68.50,,1959,white,,,,0,12,0
+d7js34-026_1_9,"{651,-3152}",d7js34-026,91,Pick Your Favorite French Champagne,Krug Brut Reserve Private Cuvee,0,7.95,85.86,Standard,wine,Sparkling,White,France,Krug Brut Reserve Private Cuvee,7.95,85.86,Romania,,,,,,0,23,0
+d7ms3r-029_1_13,"{708,-4595}",d7ms3r-029,34,French Champagnes,Louis Roederer Brut,1964,9.95,107.50,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT,9.95,107.50,France,1964,,,,,0,233,0
+d7kw23-009_1_15,"{511,-4315}",d7kw23-009,1012,Alsatian Wines,Riesling Superieur (Nicolas),1966,1.89,20.40,Standard,wine,Still,Red,France,RIESLING SUPERIEUR (Nicolas),1.89,20.40,Italy,1966,,Riesling,,,0,19,0
+d7ms3r-029_1_7,"{676,-2327}",d7ms3r-029,155,French Champagnes,Ayala Gold Label Brut,1964,6.49,73.50,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,6.49,73.50,France,1964,,,,,0,206,0
+d7ms3r-029_2_7,"{2267,-3168}",d7ms3r-029,99,American Champagnes,Korbel Brut,0,5.25,56.70,Standard,wine,Sparkling,White,United States of America,KORBEL BRUT,5.25,56.70,US,,,,,,0,211,0
+d7ms3r-030_1_3,"{550,-1922}",d7ms3r-030,216,French Sparkling Wines,"Anjou, Blanc de Blancs",0,3.99,46.75,Standard,wine,Sparkling,White,France,ANJOU BLANC DE BLANCS,3.99,46.75,France,,white,,Anjou,,1,137,0
+d7ms3r-030_1_5,"{574,-2345}",d7ms3r-030,836,French Sparkling Wines,Clairette De Die,0,3.99,46.75,Standard,wine,Sparkling,White,France,CLAIRETTE DE DIE,3.99,46.75,France,,,,Clairette de Die,,0,172,0
+d7kw23-010_2_3,"{327,-3034}",d7kw23-010,527,The Wines of Paternina,Gran Reserva,1955,2.99,32.00,Standard,wine,Still,Red,Spain,GRAN RESERVA (Rioja),4.99,53.90,Spain,1949,,,Rioja,,8,59,40
+d7ms3r-030_1_7,"{582,-2736}",d7ms3r-030,69,French Sparkling Wines,Saumur Dry Royal,0,4.91,53.00,Standard,wine,Sparkling,White,France,MUR ROYAL,1.91,53.00,,,,,,,7,179,60
+d7mw2d-003_1_7,"{1761,-3350}",d7mw2d-003,694,Lehmann's Fine Burgundy Varietals,Pinot Noir,0,0.00,17.00,Standard,wine,Still,Red,,694 Pinot Noir (red) $17 1020 Pouilly Loire $15,315.50,,,,red,Pinot Noir,,,37,36,6310
+d7nk5r-002_2_4,"{2117,-3756}",d7nk5r-002,81,Other Champagnes and Sparkling Wines,Boyer Brut (Haut-Savoie),1964,3.49,39.75,Standard,wine,Sparkling,White,France,BOYER BRUT (Haut Savoie),3.49,39.75,France,1964,,,Savoie,,1,62,0
+d7pp4q-023_1_17,"{400,-3183}",d7pp4q-023,34,French Champagne,Louis Roederer Brut,1971,12.99,140.29,Standard,wine,Sparkling,White,France,TAITTINGER BRUT FRANCAISE,13.98,154.34,France,,,,,,21,34,19.8
+d7ps3c-002_1_3,"{424,-2842}",d7ps3c-002,36,Champagnes on Sale,MARCEL PERE ET FILS BRUT,1961,4.99,56.50,Standard,wine,Sparkling,White,France,MESNIL BLANC DE BLANCS,5.99,68.50,,1961,white,,,,19,122,20
+d7pp4q-023_1_19,"{404,-3298}",d7pp4q-023,247,French Champagne,Moet & Chandon Brut,1971,13.99,151.09,Standard,wine,Sparkling,White,France,CORDON ROUGE BRUT,13.99,151.09,,1971,red,,,,12,36,0
+d7ps3c-002_2_1,"{2027,-2288}",d7ps3c-002,80,Champagnes on Sale,Moet & Chandon Dom Perignon,1961,14.50,156.60,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON,14.50,156.60,US,1961,,,,,2,61,0
+d7pp4q-023_1_21,"{404,-3402}",d7pp4q-023,71,French Champagne,Bollinger Brut,1970,14.89,160.95,Standard,wine,Sparkling,White,France,CLICQUOT YELLOW LABEL BRUT,15.25,173.85,,,,,,,17,36,7.19999999999999
+d7pp4q-023_1_7,"{380,-2331}",d7pp4q-023,114,French Champagnes,Charbaut Blanc de Blancs Brut,0,8.99,97.09,Standard,wine,Sparkling,White,France,AYALA GOLD LABEL BRUT,8.99,105.00,France,1970,,,,,17,20,0
+d7pp4q-023_2_14,"{2200,-3501}",d7pp4q-023,1183,Other European Sparkling Wines,Kriter Brut,0,5.99,64.69,Standard,wine,Sparkling,White,France,Fruity Loire 1183 KRITER BRUT,5.99,64.69,France,,,,,,18,186,0
+d7tg6n-004_4_13,"{2114,-4437}",d7tg6n-004,53,French Champagnes-Magnums,Louis Roederer Brut,1955,19.85,107.00,Magnum,wine,Sparkling,White,France,Louis Roederer Brut,19.85,107.00,France,1955,,,,,0,15,0
+d7tg6n-004_4_3,"{2110,-3886}",d7tg6n-004,21,French Champagnes-Magnums,Marcel Pere Et Fils Brut,1959,10.75,57.25,Magnum,wine,Sparkling,White,France,Marcel Pere Fils Brut,10.75,57.25,,1959,,,,,3,8,0
+d7pp4q-023_2_8,"{2028,-1981}",d7pp4q-023,1147,American Champagne,Mirassou Champagne Au Natural (California),1973,7.99,86.00,Standard,wine,Sparkling,White,United States of America,MIRASSOU CHAMPAGNE NATURAL (California),73.99,86.00,US,1973,,,,California,3,12,1320
+d7vc79-003_1_22,"{560,-5029}",d7vc79-003,71,French Champanges,Bollinger Brut,1966,10.75,116.10,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK,10.59,,France,,,,,,15,34,3.2
+d7vc79-003_1_5,"{552,-2890}",d7vc79-003,23,French Champagnes,Louis Roederer Brut,0,6.99,75.50,Standard,wine,Sparkling,White,France,Chardonnay LOUIS ROEDERER BRUT,6.99,,France,,,Chardonnay,,,11,48,0
+d7w88z-016_1_4,"{672,-3058}",d7w88z-016,25,French Champagne on Sale,Ledoyen Blanc de Blancs Brut,1961,5.99,68.50,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS BRUT,5.99,68.50,,1961,white,,,,0,89,0
+d7vc79-003_2_2,"{2232,-2260}",d7vc79-003,15,French Champagnes,Louis Roederer Cristal,1966,14.99,161.90,Standard,wine,Sparkling,White,France,"",14.99,,,1966,,,,,22,41,0
+d7z30t-008_2_9,"{703,-4563}",d7z30t-008,3,Other World-Famous Champagnes,Bollinger Brut,0,6.94,74.95,Standard,wine,Sparkling,White,France,LOUIS ROEDERER BRUT BOLLINGER BRUT,6.94,74.95,France,,,,,,20,157,0
+d7001g-003_1_9,"{385,-4549}",d7001g-003,15,French Champagnes on Sale,Marcel Pere & Fils Brut,1949,3.49,39.22,Standard,wine,Sparkling,White,,MARCEL PERE FILS BRUT Beautifully Tasman,5.49,,,1949,,,,,21,126,40
+d7101s-026_1_6,"{423,-2697}",d7101s-026,32,French Champagnes,Lanson Black Label Brut,0,10.65,115.02,Standard,wine,Sparkling,White,France,LANSON BLACK LABEL BRUT,10.65,115.02,France,,,,,,0,31,0
+d7101s-026_2_6,"{2050,-4577}",d7101s-026,17,American Champagnes,Schramsberg Blanc de Blancs,1973,9.25,99.95,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS CSE ST ATRL,9.25,99.95,US,1973,white,,,,12,17,0
+d71s3g-005_1_5,"{574,-1750}",d71s3g-005,31,Champagnes on Sale,Louis Roederer Cour Royale Brut,0,6.98,75.50,Standard,wine,Sparkling,White,France,LOUIS ROEDERER COUR ROYALE BRUT,5.98,75.50,France,,,,,,0,329,20
+d72013-007_1_6,"{793,-3221}",d72013-007,917,Bordeaux Rouges,CHATEAU COS D’ESTOURNEL (Saint-Estèphe),1928,18.75,202.50,Standard,wine,Still,Red,France,CHATEAU D'YQUEM Sauternes,9.95,107.45,France,,,,Sauternes,,22,692,176
+d7388t-005_1_23,"{3200,-3189}",d7388t-005,-1,Chateau Bottled Red Bordeaux,Chateau Latour,0,2.75,30.00,Standard,wine,Still,Red,France,SEE VINTAGE Chateau Latour,2.03,30.00,France,,,,,,12,3200,14.4
+d73s33-006_1_4,"{592,-2517}",d73s33-006,99,"""Best Buys"" in Champagne for the New Year's Celebration",Korbel Brut (Calif.),0,4.99,53.89,Standard,wine,Sparkling,White,France,KORBEL BRUT (Calif,3.89,4.99,US,,,,,,2,213,22
+d74s3d-003_1_18,"{473,-5128}",d74s3d-003,55,French Champagne,Taittinger Blanc de Blancs,1970,34.98,356.18,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE BLANCS,34.98,386.18,France,1970,white,,,,0,43,0
+d76k5q-008_1_8,"{552,-5180}",d76k5q-008,78,French Champagnes and Sparkling Wines,Mercier Blanc de Blancs,1966,10.95,118.25,Standard,wine,Sparkling,White,France,MERCIER BLANC DE BLANCS,10.95,118.25,,1966,white,,,,0,197,0
+d7988p-009_1_1,"{612,-1728}",d7988p-009,15,French Champagnes,Marcel Pere et Fils Brut,1949,3.69,42.75,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT 300,4.78,,,1949,,,,,7,199,21.8
+d79w2m-004_1_18,"{305,-4868}",d79w2m-004,179,A Library of Rare Old Clarets,"CHATEAU LA MISSION HAUT BRION
+ (Graves)",1952,12.25,132.30,Standard,wine,Still,Red,France,CHATEAU DUHART MILON (Pauillac),3.99,43.10,France,,,,Pauillac,,24,16,165.2
+d79w2m-009_1_5,"{331,-3722}",d79w2m-009,288,The Great 1961 Clarets,"CHATEAU BRANE CANTENAC
+ (Margaux)",1964,5.09,55.00,Standard,wine,Still,Red,France,CHATEAU BRANE CANTENAC Margaux),53.09,55.00,France,,,,Margaux,,2,88,960
+d7bc7n-029_2_1,"{1906,-2832}",d7bc7n-029,2,Sparkling Wines on Sale,Andre Moncier Brut,0,2.99,32.30,Standard,wine,Sparkling,White,United States of America,ANDRE MONCIER BRUTY (Finger Lakes,2.99,32.30,US,,,,Finger Lakes,,15,55,0
+d79w2m-034_1_1,"{334,-1857}",d79w2m-034,562,The Wines of the Loire Valley,"GROS PLANT, Stautejeau",1967,1.79,19.35,Standard,wine,Still,,France,GROS PLANT Stautejeau,1.79,19.35,,1967,,Gros Plant,,,1,10,0
+d7c889-012_1_8,"{799,-4024}",d7c889-012,36,"""Best Buys"" in Champagne",Marcel Pere Et Fils Brut,1961,4.99,56.50,Standard,wine,Sparkling,White,France,MARCEL PEREETPFUS BRUT,4.00,56.50,,1961,,,,,4,260,19.8
+d79w2m-009_2_4,"{2122,-3163}",d79w2m-009,207,The Great 1961 Clarets,CHATEAU MARGAUX (Margaux),1964,13.50,145.80,Standard,wine,Still,Red,France,CHATEAU MARGAUX (Margaux),13.50,145.80,France,,,,Margaux,,0,15,0
+d7d59z-007_1_5,"{326,-3251}",d7d59z-007,111,Other Sparkling Wines on Sale,Deschamps Blanc de Blancs Brut (N.Y.),0,3.49,39.73,Standard,wine,Sparkling,White,United States of America,NEBL ANAS FRAGNY BLANC DE BLANCS BRU,3.49,39.75,,,white,,,,21,146,0
+d79w2m-009_2_8,"{2116,-4606}",d79w2m-009,144,The Great 1961 Clarets,"CHATEAU CHEVAL BLANC
+ (St. Emilion)",1964,18.00,194.40,Standard,wine,Still,Red,France,CHATEAU CHEVAL BLANC (Saint Emilion),18.00,194.40,France,,white,,,,5,67,0
+d79w2m-034_2_2,"{2080,-1750}",d79w2m-034,-999,The Interesting Country Wines of France,"ST. POURCAIN-SUR-SIOULE (Dry White), Nicolas",1967,1.59,17.15,Standard,wine,Still,,France,"",4.95,53.45,,,,,,,44,14,67.2
+d79w2m-038_2_3,"{251,-3794}",d79w2m-038,232,White Bordeaux,CHATEAU F ERRANDE (Graves),1966,2.29,24.75,Standard,wine,Still,White,France,CHATEAU RRANDE,2.29,24.75,France,1966,,,Graves,,12,73,0
+d7g59k-003_2_4,"{2312,-2926}",d7g59k-003,-1,Red Burgundy,Fixin les Heverlets,1969,42.00,0.00,Standard,wine,Still,Red,France,Fixin Heverlets,42.00,,France,,,,Fixin,,4,338,0
+d7g59k-003_2_6,"{2284,-3725}",d7g59k-003,-1,Red Burgundy,Vosne-Romanee,1969,47.88,0.00,Standard,wine,Still,Red,France,Vosne Romanee,47.88,,France,,,,Vosne Romanee,,1,307,0
+d7g59k-003_2_7,"{2284,-4197}",d7g59k-003,-1,Red Burgundy,Nuits St. Georges,1969,49.60,0.00,Standard,wine,Still,Red,France,Nuits Saint Georges,49.60,,France,,,,Nuits St. Georges,,4,313,0
+d7g59k-004_1_6,"{491,-2949}",d7g59k-004,-1,Red Burgundy,"Nuits St. Georges, Les Boudots",1969,59.88,0.00,Standard,wine,Still,Red,France,Nuits Saint Georges Les Boudots,59.88,,France,,,,Nuits St. Georges,,5,120,0
+d7h014-013_2_6,"{3408,-2875}",d7h014-013,114,French Champagne,Charbaut Blanc de Blancs Brut,0,11.99,129.49,Standard,wine,Sparkling,White,France,CHARBAUT BLANC DE BLANCS BRUT,11.99,129.49,,,white,,,,0,238,0
+d7kw23-008_1_7,"{384,-4310}",d7kw23-008,68,French Champagne,Pommery & Greno Brut,1961,9.35,101.05,Standard,wine,Sparkling,White,France,POMMERY GRENO BRUT,9.35,101.05,France,1961,,,,,2,60,0
+d7kw23-008_2_3,"{2107,-3184}",d7kw23-008,99,Other Champagnes and Sparkling Wines,Korbel Brut  (California),0,4.99,53.89,Standard,wine,Sparkling,White,United States of America,KORBEL BRUT (California),4.99,53.89,US,,,,,California,1,50,0
+d7js34-026_1_22,"{659,-4094}",d7js34-026,132,Pick Your Favorite French Champagne,Bollinger Brut,1959,9.35,100.98,Standard,wine,Sparkling,White,France,Pol Roger Brul 1038,9.50,102.60,France,,,,,,10,34,3.00000000000001
+d7kw23-009_1_5,"{482,-2544}",d7kw23-009,823,White Wines from the Rhone Valley,Hermitage Blanc (Noyer),1964,3.89,42.00,Standard,wine,Still,White,France,CONDRIEU CHATEAU ROZAY,1.99,53.90,France,1966,,,Condrieu,,21,47,38
+d7js34-026_1_23,"{667,-4174}",d7js34-026,9,Pick Your Favorite French Champagne,Pol Roger Brut,1955,9.50,102.60,Standard,wine,Sparkling,White,France,Krug,9.59,103.60,,1955,,,,,12,32,1.8
+d7js34-026_1_26,"{667,-4415}",d7js34-026,54,Pick Your Favorite French Champagne,Bollinger Brut,1955,10.00,108.00,Standard,wine,Sparkling,White,France,Louis Roederer Rose,11.50,124.00,France,1953,rose,,,,15,24,30
+d7kw23-009_1_6,"{498,-2703}",d7kw23-009,408,White Wines from the Rhone Valley,Condrieu Chateau Du Rozay,1966,4.99,53.90,Standard,wine,Still,White,France,mide 441 CHATEAU GRNULET,15.93,172.00,,1960,,,,,16,31,218.8
+d79w2m-013_2_7,"{335,-2579}",d79w2m-013,-999,Red Bordeaux,"CHATEAU BEYCHEVELLE (St. Julien), Mongeard Mugneret",1964,4.79,51.75,Standard,wine,Still,Red,France,RAMA lusty Saint Emilio Stree Gea,2.99,30.15,,,,,,,39,59,36
+d7kw23-010_2_2,"{299,-2719}",d7kw23-010,673,The Wines of Paternina,Banda Azul Tinto (Rioja),1961,1.49,16.10,Standard,wine,Still,Red,Spain,GRAN RESERVA,2.99,32.30,,1933,,,,,20,136,30
+d7ms3r-029_1_12,"{704,-4286}",d7ms3r-029,91,French Champagnes,Krug Brut Reserve,0,9.95,109.35,Standard,wine,Sparkling,White,France,KRUG BRUT RESERVE,9.95,109.35,Romania,,,,,,0,232,0
+d7ms3r-029_2_1,"{2204,-884}",d7ms3r-029,82,French Champagnes,Moet & Chandon Dom Perignon,1962,15.55,167.94,Standard,wine,Sparkling,White,France,MOET CHANDON DOM PERIGNON,15.55,167.94,US,1962,,,,,2,144,0
+d7ms3r-029_1_9,"{660,-3329}",d7ms3r-029,25,French Champagnes,"Ledoyen, Blanc de Blancs",1964,7.49,84.00,Standard,wine,Sparkling,White,France,LEDOYEN BLANC DE BLANCS,1.00,7.19,,,white,,,,1,192,129.8
+d7ms3r-029_2_6,"{2248,-2864}",d7ms3r-029,83,American Champagnes,Almaden Brut,0,4.95,53.46,Standard,wine,Sparkling,White,United States of America,GREAT WESTERN BRUT,4.99,23.89,US,,,,,,10,179,0.800000000000001
+d7nk5r-002_2_6,"{2125,-4492}",d7nk5r-002,131,Other Champagnes and Sparkling Wines,"Gancia Asti Spumanti (Piedmont, Italy)",0,4.88,52.70,Standard,wine,Sparkling,White,Italy,GANCIA ASTI SPUMANTI (Piedmont Italy),4.88,52.70,Italy,,,,,Piedmont,1,22,0
+d79w2m-013_3_6,"{2081,-2589}",d79w2m-013,241,Red Bordeaux,"CHATEAU PICHON LONGUEVILLE
+
+LALANDE (Pauillac)",1964,4.59,49.55,Standard,wine,Still,Red,France,CHATEAU BEYCHEVELLE Stjuien),4.79,51.75,France,,,,,,27,20,4
+d7pp4q-023_1_14,"{396,-2761}",d7pp4q-023,4,French Champagne,Moet & Chandon Silver Jubilee Cuvee,0,12.99,140.29,Standard,wine,Sparkling,White,France,MOET CHANDON SILVER JUBILEE CUVEE,12.99,140.29,US,,,,,,2,36,0
+d7ps3c-006_1_1,"{1896,-2265}",d7ps3c-006,285,The Great 1964 Burgundies,GEYREY CHAMBERTIN (Tortochot),1964,3.99,43.10,Standard,wine,Still,Red,France,GEVREY CHAMBERTIN Tortochot IEA Cal,3.99,43.10,France,,,,Gevrey Chambertin,,10,26,0
+d7pp4q-023_2_13,"{2200,-3394}",d7pp4q-023,31,Other European Sparkling Wines,Fragny Blanc de Blancs,0,5.49,59.29,Standard,wine,Sparkling,White,France,modest cost FRAGNY BLANC DE BLANCS,5.49,59.29,,,white,,,,12,186,0
+d79w2m-014_1_1,"{313,-1671}",d79w2m-014,36,Champagnes for the Holidays,Marcel Pere et Fils Brut,1961,4.99,56.50,Standard,wine,Sparkling,White,,MARCEL PERE FILS BRUT,4.99,56.50,,1961,,,,,3,64,0
+d79w2m-014_1_3,"{266,-1968}",d79w2m-014,110,Champagne for the Holidays,Pierre Cartier Brut Rose,0,5.29,57.13,Standard,wine,Sparkling,Rosé,France,PIERRE CARTIER BRUT ROSE,5.29,57.13,,,rose,,,,0,16,0
+d79w2m-014_1_4,"{246,-2264}",d79w2m-014,28,Champagne for the Holidays,Mesnil Blanc de Blancs,1961,5.99,68.50,Standard,wine,Sparkling,White,,MESNIL BLANC DE BLANCS,5.99,68.50,,1961,white,,,,0,4,0
+d79w2m-014_2_7,"{2019,-4165}",d79w2m-014,99,Champagne for the Holidays,Korbel Brut,0,4.99,53.89,Standard,wine,Sparkling,White,United States of America,'KORBEL BRUT (California),4.99,53.89,US,,,,,California,14,15,0
+d79w2m-025_2_10,"{2058,-4923}",d79w2m-025,1079,Burgandy,"MUSIGNY, Comte de Vogue",1964,16.50,178.00,Standard,wine,Still,Red,France,MUSIGNY Comte de Vogue,16.50,178.00,France,,,,Musigny,,1,46,0
+d79w2m-026_2_1,"{2076,-2078}",d79w2m-026,442,The Great White Burgandies of the Blessed 1966 vintage,"CHASSAGNE MONTRACHET, Ruchottes",1964,4.99,53.90,Standard,wine,Still,White,France,CHASSAGNE MONTRACHET Ruchoftes,4.99,53.90,France,,,,Chassagne Montrachet,,2,88,0
+d7s881-005_1_14,"{1854,-5194}",d7s881-005,71,Why Buy French Champagne before December 31st?,Bollinger Brut,1973,17.95,194.00,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DEBLANCS,34.98,439.00,France,1971,white,,,,18,81,340.6
+d7sg6b-014_1_1,"{739,-1124}",d7sg6b-014,123,Champagnes and Sparkling Wines,Sparkling Nectarose (Loire),0,3.99,43.10,Standard,wine,Sparkling,Rosé,France,SPARKLING NECTAROSE (Loire),3.99,43.10,,,rose,,,,0,362,0
+d7sg6b-014_1_5,"{751,-2538}",d7sg6b-014,53,Champanges and Sparkling Wines,Schramsberg Blanc de Blancs (California),1972,8.99,97.10,Standard,wine,Sparkling,White,United States of America,SCHRAMSBERG BLANC DE BLANCS (California),8.99,97.10,US,1972,white,,,California,0,365,0
+d7s881-005_1_2,"{1791,-3392}",d7s881-005,120,Why Buy French Champagne before December 31st?,Marcel Pere Et Fils Brut,0,7.99,86.29,Standard,wine,Sparkling,White,France,MARCELPEREETFILSBRUT,7.99,99.50,,,,,,,4,41,0
+d7tg6n-004_3_13,"{470,-4070}",d7tg6n-004,62,French Champagnes-Bottles,Mumm's Cordon Rouge Brut,0,7.43,81.73,Standard,wine,Sparkling,White,France,Cordon Rouge Brut,7.43,81.73,,,red,,,,7,36,0
+d7vc79-003_1_16,"{552,-4327}",d7vc79-003,26,French Champagnes,Charles Heidsieck British Cuvee,1964,9.99,107.89,Standard,wine,Sparkling,White,France,CHARLES HEIDSIECK BRITISH CUVEE,7.59,9.99,France,1964,,,,,0,26,48
+d7ws37-000_1_17,"{749,-3718}",d7ws37-000,P,Moselles Wines,Piesporter Grafenberg Spatlese,1947,2.99,34.75,Standard,wine,Still,White,Germany,Avy PIESPORTER GRAFENBERG SPATLESE (Orig Kesselstatt,2.99,34.75,,1947,,,,,22,163,0
+d7tg6n-004_3_14,"{470,-4134}",d7tg6n-004,91,French Champagnes-Bottles,Krug Brut Reserve Private Cuvee,0,7.95,85.46,Standard,wine,Sparkling,White,France,Krug Brut Reserve Private Cuvee,17.95,85.86,Romania,,,,,,0,40,200
+d7ws37-000_1_20,"{765,-4129}",d7ws37-000,S,Moselles Wines,Kaseler Taubenberg Feine Auslese,1949,3.79,42.50,Standard,wine,Still,White,Germany,Net 7SA KASELER FEINE AUSLESE (Orig Weinbe,3.79,42.50,,1949,,,,,26,180,0
+d7tg6n-004_3_15,"{462,-4190}",d7tg6n-004,64,French Champagnes-Bottles,Taittinger Brut Français,0,7.49,82.69,Standard,wine,Sparkling,White,France,Taittinger Brut Fromeais,7.49,82.69,France,,,,,,3,29,0
+d7tg6n-004_4_16,"{2118,-4597}",d7tg6n-004,74,French Champagnes-Magnums,Taittinger Blanc de Blancs,1959,28.35,156.49,Standard,wine,Sparkling,White,France,Taittinger Blanc de Blancs,28.35,156.49,France,1959,white,,,,0,17,0
+d7z30t-008_2_3,"{683,-3930}",d7z30t-008,166,Other World-Famous Champagnes,Perrier Jouet Cuvee Pavillon,0,5.55,60.00,Standard,wine,Sparkling,White,France,PERRIER JOUET CUVEE PAVILLON,5.55,60.00,France,,,,,,0,138,0
+d7101s-026_1_1,"{443,-1515}",d7101s-026,120,French Champagnes,Marcel Pere Brut,0,7.99,89.50,Standard,wine,Sparkling,White,France,MARCEL PERE BRUT,7.99,189.50,,,,,,,0,57,0
+d7101s-026_1_25,"{415,-3942}",d7101s-026,90,French Champagnes,Krug Brut,1964,21.95,237.00,Standard,wine,Sparkling,White,France,KRUGBRUT,21.95,237.00,,1984,,,,,1,30,0
+d72013-006_1_3,"{1308,-3205}",d72013-006,5056,Bordeaux Rouges,CHATEAU LA MISSION HAUT BRION (Graves),1959,10.95,118.00,Standard,wine,Still,Red,France,CHATEAU COS Estephe,18.75,202.50,,,,,,,26,510,156
+d72013-007_1_4,"{762,-2924}",d72013-007,212,Bordeaux Rouges,CHATEAU LA MISSION HAUT BRION (Graves),1945,17.50,189.00,Standard,wine,Still,Red,France,CHATEAU D'YQUEM 759,7.59,81.00,France,,,,,,28,729,198.2
+d79w2m-004_2_8,"{2093,-3710}",d79w2m-004,986,A Library of Rare Old Clarets,CHATEAU MARGAUX (Margaux),1947,27.50,295.00,Standard,wine,Still,Red,France,CHATEAU MOUTON ROTHSCHILD Pauillac),29.50,295.00,France,,,,Pauillac,,22,19,40
+d7bc7n-029_1_1,"{137,-2772}",d7bc7n-029,85,French Champagnes On Sale,Marcel Pere Brut,0,4.99,58.50,Standard,wine,Sparkling,White,France,MARCEL PERE BRUT,4.99,58.50,,,,,,,0,54,0
+d7bc7n-029_1_2,"{153,-3258}",d7bc7n-029,33,French Champagnes on Sale,"Mesnil Brut, Blanc de Blancs",0,5.49,61.40,Standard,wine,Sparkling,White,France,MESNIL BRUT BLANC DE BLANCS,3.49,61.30,,,white,,,,1,41,40
+d7c889-012_1_5,"{751,-3168}",d7c889-012,2,"""Best Buys"" In Champagne","St. Michel Brut (Finger Lakes, N.Y.)",0,2.49,26.90,Standard,wine,Sparkling,White,United States of America,CHAMPAGNE (Finger MICHPEL Lakes,2.40,26.90,France,,,,,Champagne,25,200,1.80000000000001
+d7g59k-003_2_3,"{2300,-2602}",d7g59k-003,-1,Red Burgundy,Cote de Nuits Villages,1969,35.40,0.00,Standard,wine,Still,Red,France,Cote de Nuits Villages,35.40,,France,,,,Cote de Nuits Villages,,0,326,0
+d7h014-014_1_1,"{917,-539}",d7h014-014,152,French Champange,Bollinger Special Cuvee Brut,0,14.95,173.85,Standard,wine,Sparkling,White,France,BOLLINGER SPECIAL CUVEE BRUT,14.95,173.85,France,,,,,,0,174,0
+d7h014-014_2_2,"{3396,-953}",d7h014-014,55,French Champagner,Taittinger Blanc de Blancs,1971,40.00,441.60,Standard,wine,Sparkling,White,France,TAITTINGER BLANC DE BLANCS,40.00,441.60,France,1971,white,,,,0,195,0
+d79w2m-008_1_12,"{391,-4446}",d79w2m-008,579,Original Abfullung,"WEHLENER SONNENUHR TROCKENBEERENAUSLESE, Joh",1959,90.00,,Standard,wine,Still,,Germany,WEHLENER SONNENUHR TROCKENBEERENAUSLESE Terrelle Laofle Yea Grr RES St MEL ASHE,90.00,,,1959,,,,,37,68,0
+d7js34-026_1_30,"{663,-4719}",d7js34-026,29,Pick Your Favorite French Champagne,Moet & Chandon Dom Perignon,1959,13.00,140.44,Standard,wine,Sparkling,White,France,Taittinger Blanc de Blancs,13.69,151.14,France,1959,white,,,,23,22,13.8
+d79w2m-008_1_3,"{428,-2164}",d79w2m-008,678,"Original
+
+Abfullung","STEINBERGER RIESLING CABINET BEERENAUSLESE, Staatsweinguter",1959,27.75,,Standard,wine,Still,,Germany,STEINBERGER RIESLING CABINET BEERENAUSLESE Original Abfullung Staatsweinguter,22.73,,Austria,1959,,Riesling,,,19,46,100.4
+d7kw23-008_1_1,"{344,-2285}",d7kw23-008,36,French Champagne,Marcel Pere Et Fils Brut,1961,4.99,56.50,Standard,wine,Sparkling,White,France,MARCEL PERE FILS BRUT,4.90,36.80,,1961,,,,,3,6,1.8
+d7kw23-008_1_4,"{380,-3260}",d7kw23-008,55,French Champagne,Krug Brut Light,0,6.48,69.99,Standard,wine,Sparkling,White,France,Will Champagnes KRUG BRUT LIGHT,0.48,69.99,France,,,,,Champagne,16,73,120
+d7kw23-009_1_19,"{502,-4939}",d7kw23-009,697,From the Loire Valley,Muscadet Sevre Et Maine,1967,1.69,18.25,Standard,wine,Still,Red,France,MUSCADET SEVRE MAINE Non,1.09,183.25,France,1967,,,Muscadet Sevre et Maine,,7,18,12
+d79w2m-009_1_1,"{341,-2396}",d79w2m-009,237,The Great 1961 Clarets,CHATEAU BELAIR (St. Emilion),1964,4.49,48.50,Standard,wine,Still,Red,France,CHATEAU BELAIR (Saint Emilion),4.49,48.50,France,,,,,,4,42,0
+d7ms3r-029_1_4,"{660,-1542}",d7ms3r-029,33,French Champanges,"Mesnil Brut, Blanc de Blancs",0,5.99,68.50,Standard,wine,Sparkling,White,France,MESNIL BRUT BLANC DEDBILANCS,5.99,68.50,,,white,,,,3,185,0
+d79w2m-034_2_15,"{2110,-3059}",d79w2m-034,5025,The Interesting Country Wines of France,"MONBAZILLAC, Nicolas",1966,1.99,21.50,Standard,wine,Still,,France,MONBAZILLAC Nicolas,1.99,21.50,France,1966,,,Monbazillac,,1,14,0
+d7ms3r-030_1_1,"{554,-1602}",d7ms3r-030,81,French Sparkling Wines,Boyer Brut,1967,3.99,46.75,Standard,wine,Sparkling,White,France,BOYER BRUT,3.99,46.75,,1967,,,,,0,152,0
+d7ms3r-030_1_12,"{578,-3643}",d7ms3r-030,77,Other Sparkling Wines,Asti Spumante,0,5.30,57.21,Standard,wine,Sparkling,White,Italy,ASTI SPUMANTE,5.30,57.24,,,,,,,0,171,0
+d7pp4q-023_1_1,"{344,-1475}",d7pp4q-023,120,French Champagne,Marcel Pere Brut,0,7.49,85.50,Standard,wine,Sparkling,White,France,MARCEL PERE BRUT,7.49,85.50,,,,,,,0,45,0
+d79w2m-013_3_1,"{2078,-1725}",d79w2m-013,130,Red Bordeaux,"CHATEAU COS D’ESTOURNEL
+ (St. Estephe)",1964,4.29,46.35,Standard,wine,Still,Red,France,CHATEAU LEOVILLE LASCA (Saint Julien) Lascases Available,4.29,46.35,US,,,,,,38,86,0
+d79w2m-034_2_9,"{2104,-2503}",d79w2m-034,520,The Interesting Country Wines of France,"CORBIERES CHAINTRUEL, Nicolas",1966,1.49,16.10,Standard,wine,Still,,France,CORBIERES CHAINTRUEL Nicolas,1.49,16.10,France,1966,,,Corbieres,,1,9,0
+d7pp4q-023_1_24,"{408,-3565}",d7pp4q-023,76,French Champagne,Mumm's Renee Lalou,1971,17.99,194.29,Standard,wine,Sparkling,White,France,KRUG BRUT RESERVE,19.95,215.46,Romania,,,,,,16,40,39.2
+d79w2m-037_1_3,"{302,-3325}",d79w2m-037,493,The Good 1960 and 1963 Clarets,"CHATEAU CALON SEGUR
+ (St. Estephe)",1960,3.29,35.55,Standard,wine,Still,Red,France,CHATEAU CALON SEGUR Estephe),3.29,35.55,France,,,,,,6,73,0
+d79w2m-037_1_5,"{285,-4085}",d79w2m-037,136,The Good 1960 and 1963 Clarets,"CHATEAU LA MISSION
+HAUT BRION (Graves)",,5.49,59.30,Standard,wine,Still,Red,France,CHATEAU MISSION HAUT BRION (Graves),5.49,59.30,France,,,,Graves,,4,95,0
+d79w2m-038_1_6,"{241,-2442}",d79w2m-038,834,The Charming Vin Roses of France,"TAVEL, Vignerons",1966,2.29,24.75,Standard,wine,Still,Rosé,France,TAVEL Vignerons Tavel most Vin France SNe,2.99,24.75,,1966,,,Tavel,,27,29,14
+d79w2m-038_2_5,"{251,-4241}",d79w2m-038,857,White Bordeaux,"SAUTERNES, Nicolas",1961,2.49,26.90,Standard,wine,Still,White,France,857 SAUTERNES Nicolas This Chateau Tiic,2.49,26.90,,1961,,,Sauternes,,23,73,0
+d7pp4q-023_2_5,"{2020,-1734}",d7pp4q-023,95,American Champagne,Great Western Brut (New York),0,5.79,63.53,Standard,wine,Sparkling,White,United States of America,GREAT WESTERN BRUT (New York),3.79,63.58,US,,,,,New York,0,7,40
+d79w2m-025_1_10,"{235,-4469}",d79w2m-025,315,Burgandy,"VOSNE ROMANEE, J. Grivot",1964,3.99,43.10,Standard,wine,Still,Red,France,VOSNE ROMANEE Grivot,3.99,43.10,France,,,,Vosne Romanee,,4,22,0
+d7tg6n-004_3_24,"{458,-4673}",d7tg6n-004,106,French Champagnes-Bottles,Bollinger Brut,1959,9.35,100.98,Standard,wine,Sparkling,White,France,Bollinger Brut,9.35,100.98,France,1959,,,,,0,31,0
+d79w2m-026_1_8,"{371,-4977}",d79w2m-026,A-1,The Great White Burgandies of the Blessed 1966 vintage,MEURSAULT CHARMES,1964,4.49,48.50,Standard,wine,Still,White,France,MEURSAULT CHARMES,4.49,48.50,France,,,,Meursault,,0,39,0
+d7tg6n-004_3_8,"{478,-3798}",d7tg6n-004,80,French Champagnes-Bottles,Pol Roger Dry Special,0,6.79,73.33,Standard,wine,Sparkling,White,France,Pol Roger,6.79,73.33,France,,,,,,12,51,0
+d7v88n-004_2_31,"{653,-3477}",d7v88n-004,-1,Sparkling Burgundy,B & G,0,5.29,58.30,Standard,wine,Sparkling,Red,France,Blanc de Blanc,11.29,124.64,,,white,,,,11,653,120
+d7vc79-003_2_8,"{2232,-3569}",d7vc79-003,144,American Champgnes,Andre Moncier Brut,0,2.99,34.75,Standard,wine,Sparkling,White,United States of America,AMERICAN CHAMPAG! 144 ANDRE MONCIER BRUT,2.99,,US,,,,,America,22,48,0
+d7w88z-016_1_3,"{652,-2682}",d7w88z-016,100,French Champagne on Sale,"Cramant, Blanc de Blancs",1959,5.99,68.50,Standard,wine,Sparkling,White,France,CRAMANT BLANC DE BLANCS,5.99,68.50,,1959,white,,,,1,72,0
+d79w2m-029_2_1,"{2018,-2325}",d79w2m-029,449,Clarets of the 1962 Vintage,CHATEAU MONTROSE (St. Estephe),1962,3.99,43.10,Standard,wine,Still,Red,France,CHATEAU MONTROSE (Saint Estephe),3.99,43.10,France,,rose,,,,4,26,0
+d7x30h-016_1_3,"{674,-2352}",d7x30h-016,155,French Champagne on Sale,Ayala Gold Label Brut,1961,5.49,60.50,Standard,wine,Sparkling,White,France,CRAMANT BLANC DE BLANCS,5.99,68.50,,1959,white,,,,18,167,10
+d7ws37-000_1_24,"{757,-4755}",d7ws37-000,W,Palatinate Wines,Forster Jesuitengarten Auslese,1949,5.75,64.75,Standard,wine,Still,White,Germany,WAS FORSTER JESUITENGARTEN AUSLESE (Orig Bas,5.75,64.75,,1949,,,,,14,171,0
+d7ws37-004_1_1,"{488,-983}",d7ws37-004,-1,,Loch Fyne,0,4.78,55.50,,spirit,,,United Kingdom,SLUATEL WIRES EELS LOCH FYNE,85.80,,,,,,,,19,25,1620.4
+d7z30t-008_3_2,"{2302,-3537}",d7z30t-008,97,Other World-Famous Champagnes,Heidsieck Dry Monopole,1952,8.25,89.10,Standard,wine,Sparkling,White,France,"",8.25,89.10,,,,,,,22,112,0
